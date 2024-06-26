@@ -18,14 +18,15 @@
 - 📚 to represent your commitment to continuous learning.
 - 👩‍💻 to show your identity as a female developer.
 - 🇵🇰 to proudly represent your Pakistani heritage and location.
-- **🌱 What's Next:** I'm always eager to learn and grow in the ever-evolving world of Ai. I'm currently exploring [specific technology or framework], and I'm excited to share my future projects with you. Transform ideas into reality through intelllegnt Algorithm. 🚀 Feel free to explore and contribute to my projects!
+- **🌱 What's Next:** I'm always eager to learn and grow in the ever-evolving world of Ai. I'm currently exploring Artificial Inteeligence, and I'm excited to share my future projects with you. Transform ideas into reality through intelllegnt Algorithm. 🚀 Feel free to explore and contribute to my projects!
 - ## 🛠️ Technologies
 Here are some of the technologies I work with:
 - 🧰 Microsoft learn
 - 🐙 Git
 - :octocat: GitHub
 ## 📦 My Repositories
-- C++ Basic Movie Selection Projects etc.
+- tictactoe-game
+- youtube video downloader etc.
 ## 🤝 Connect with me:
 Feel free to explore and contribute to these projects!
 ## 🌐 Social Media
