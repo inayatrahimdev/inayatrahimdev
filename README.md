@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Inayat Rahim</h1>
 <h3 align="center">👋 Welcome! I'm Inayat Rahim, a passionate AI/ML developer based in Islamabad, Pakistan.</h3>
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/61049748/111036394-0d10bb00-8431-11eb-8f4a-29a678b14f55.png" alt="Profile" height="200">
-</p>
+images.githubusercontent.com/61049748/111036394-0d10bb00-8431-11eb-8f4a-29a678b14f55.png
 
 ---
 
