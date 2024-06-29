@@ -64,8 +64,9 @@ Here are some of the technologies and tools I work with:
 ---
 
 ### 📦 My Repositories
-- **[TicTacToe Game](https://github.com/inayatrahimdev/tictactoe-game):** 🎮 Classic TicTacToe game implemented in C++.
-- **[YouTube Video Downloader](https://github.com/inayatrahimdev/youtube-video-downloader):** 📹 A Python tool using pytube and Tkinter for downloading YouTube videos.
+- **[TicTacToe Game](https://github.com/inayatrahimdev/tictactoe-game):** 🎮 Classic TicTacToe game implemented in Python. This project demonstrates fundamental game logic and interactive play through a simple yet engaging interface.
+- **[YouTube Video Downloader](https://github.com/inayatrahimdev/youtube-video-downloader):** 📹 A Python tool using pytube and Tkinter for downloading YouTube videos. This tool features an intuitive graphical user interface (GUI) built with Tkinter, allowing users to easily download videos by simply entering the URL.
+
 
 ---
 
