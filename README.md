@@ -16,7 +16,6 @@
 - **📚 Lifelong Learner:** Always staying updated with the latest AI/ML technologies.
 - **🛠️ Pro Skills:** Strong understanding of machine learning best practices and AI ethics.
 
-
 ---
 
 ### 🌱 What's Next
@@ -52,21 +51,16 @@ Here are some of the technologies and tools I work with:
 - ![Colab](https://img.shields.io/badge/Colab-F9AB00?style=flat&logo=google-colab&logoColor=white)
 - ![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
-
-
 #### ☁️ Cloud Platforms for AI
 - ![AWS AI](https://img.shields.io/badge/AWS%20AI-232F3E?style=flat&logo=amazon-aws&logoColor=white)
 - ![Google AI](https://img.shields.io/badge/Google%20AI-4285F4?style=flat&logo=google&logoColor=white)
 - ![Azure AI](https://img.shields.io/badge/Azure%20AI-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
-
-
 
 ---
 
 ### 📦 My Repositories
 - **[TicTacToe Game](https://github.com/inayatrahimdev/tictactoe-game):** 🎮 Classic TicTacToe game implemented in Python. This project demonstrates fundamental game logic and interactive play through a simple yet engaging interface.
 - **[YouTube Video Downloader](https://github.com/inayatrahimdev/youtube-video-downloader):** 📹 A Python tool using pytube and Tkinter for downloading YouTube videos. This tool features an intuitive graphical user interface (GUI) built with Tkinter, allowing users to easily download videos by simply entering the URL.
-
 
 ---
 
