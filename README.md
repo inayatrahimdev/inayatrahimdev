@@ -8,13 +8,14 @@
 ---
 
 ### 🚀 About Me
-- **👩‍💻 Developer Focused:** Specializing in robust backend solutions and seamless application functionality.
+- **👩‍💻 AI/ML Developer:** Specializing in developing intelligent algorithms and robust models.
 - **💡 Enthusiast:** Passionate about C++ and Python.
 - **🌱 Explorer:** Currently diving into Deep Learning & NLP in the AI/ML domain.
 - **💬 Reach Out:** Email me at inayatrahim006@gmail.com.
 - **⚡ Fun Fact:** I enjoy tackling complex coding challenges and puzzles.
 - **📚 Lifelong Learner:** Always staying updated with the latest AI/ML technologies.
-- **🛠️ Pro Skills:** Strong understanding of web accessibility and best coding practices.
+- **🛠️ Pro Skills:** Strong understanding of machine learning best practices and AI ethics.
+
 
 ---
 
