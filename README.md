@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Inayat Rahim</h1>
 <h3 align="center">👋 Welcome! I'm Inayat Rahim, a passionate AI/ML developer based in Islamabad, Pakistan.</h3>
 
-
+- Inayat Rahim
+- Amjad
+- Aslam
 
 
 ---
