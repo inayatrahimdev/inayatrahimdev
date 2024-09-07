@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Inayat Rahim</h1>
 <h3 align="center">👋 Welcome! I'm a passionate Data Analyst & AI/ML Developer based in Islamabad, Pakistan.</h3>
----
+
 
 
 ## 🚀 About Me
@@ -14,10 +14,10 @@
 - ⚡ Fun Fact: I love transforming raw data into actionable insights and enjoy solving complex coding challenges.
 
 ## 🛠️ Skills & Tools
-**💻 Programming Languages**
-- Python
-- SQL
-= R
+## 💻 Programming Languages**
+- **Python**
+- **SQL**
+- **R**
 - <div align="center">
   <a href="https://www.python.org/" target="_blank" rel="noreferrer">
     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="60" height="60"/>
