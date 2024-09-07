@@ -67,6 +67,7 @@
   <a href="https://github.com/" target="_blank" rel="noreferrer">
     <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="GitHub" alt="GitHub" width="60" height="60"/>
   </a>
+   <a href="https://jupyter.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" alt="Jupyter" width="60" height="60"/> </a>
   <a href="https://www.microsoft.com/en-us/download/details.aspx?id=58494" target="_blank" rel="noreferrer">
     <img src="https://github.com/microsoft/PowerBI-Icons/blob/main/PNG/Desktop.png" title="Power BI" alt="Power BI" width="60" height="60"/>
   </a>
