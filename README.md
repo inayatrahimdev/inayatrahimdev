@@ -53,7 +53,7 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" title="Matplotlib" alt="Matplotlib" width="60" height="60"/>
   </a>
   <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/0c/Seaborn_logo.svg" title="Seaborn" alt="Seaborn" width="60" height="60"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/1f/Seaborn_logo.svg" title="Seaborn" alt="Seaborn" width="60" height="60"/>
   </a>
 </div>
 
@@ -76,7 +76,7 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/42/Tableau_Logo.svg" title="Tableau" alt="Tableau" width="60" height="60"/>
   </a>
   <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Microsoft_Excel_Logo.svg" title="MS Excel" alt="MS Excel" width="60" height="60"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Microsoft_Excel_Logo.svg" title="MS Excel" alt="MS Excel" width="60" height="60"/>
   </a>
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
     <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="VS Code" alt="VS Code" width="60" height="60"/>
