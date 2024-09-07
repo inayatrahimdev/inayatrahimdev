@@ -120,7 +120,7 @@
 ## Contribution Graph
 
 <img  src="https://github-readme-activity-graph.vercel.app/graph?username=inayatrahimdev&theme=react-dark" width="100%" >
-<img  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=inayatrahimdev&theme=tokyonight" width="100%" >
+<img  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=inayatrahimdev&theme=tokyonight&cache_buster=true" width="100%" >
 <img  src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=inayatrahimdev&theme=tokyonight" width="50%">
 
 
@@ -128,5 +128,5 @@
 ![My Trophies](https://github-profile-trophy.vercel.app/?username=inayatrahimdev)
 
 
-<img  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=inayatrahimdev&theme=tokyonight&cache_buster=true" width="100%" >
+
 
