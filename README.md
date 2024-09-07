@@ -105,32 +105,19 @@
 </p>
 
 ---
-# 📊 GitHub Stats:
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=inayatrahimdev&theme=dracula&hide_border=false&include_all_commits=false&count_private=false)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=inayatrahimdev&theme=dracula&hide_border=false)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=inayatrahimdev&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-----
-
-## 🔝 Top Contributed Repo:
-
-![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=inayatrahimdev&limit=5&theme=dracula&combine_all_yearly_contributions=true)
-
----
-
-## GitHub Status
+## 📈 GitHub Status
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=inayatrahimdev&theme=tokyonight" width="35%" align="left">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=inayatrahimdev&theme=tokyonight" width="51%">
 
-## Languages Status
+## 🌐 Languages Status
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=inayatrahimdev&theme=tokyonight" width="40%" align="left">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=inayatrahimdev&theme=tokyonight" width="34%">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=inayatrahimdev&theme=tokyonight" width="35%">
 
-## Contribution Graph
+## 📊 Contribution Graph
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=inayatrahimdev&theme=react-dark" width="100%">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=inayatrahimdev&theme=tokyonight" width="100%">
