@@ -3,9 +3,10 @@
 ---
 
 
-🚀 About Me
-👩‍💻 Data Analyst & AI/ML Developer: Specializing in developing machine learning models and performing insightful data analysis.
----
+## 🚀 About Me
+## 👩‍💻 Data Analyst & AI/ML Developer: 
+- Specializing in developing machine learning models and performing insightful data analysis.
+
 
 - 🌱 Current Focus: Deep Learning & NLP in the AI/ML domain.
 - 💬 Reach Out: You can reach me via email at <a href="mailto:inayatrahim006@gmail.com">inayatrahim006@gmail.com</a>.
@@ -14,17 +15,17 @@
 
 ## 🛠️ Skills & Tools
 **💻 Programming Languages**
-Python
-SQL
-R
-<div align="center">
+- Python
+- SQL
+= R
+- <div align="center">
   <a href="https://www.python.org/" target="_blank" rel="noreferrer">
     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="60" height="60"/>
   </a>
-  <a href="https://www.r-project.org/" target="_blank" rel="noreferrer">
+  - <a href="https://www.r-project.org/" target="_blank" rel="noreferrer">
     <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="R" alt="R" width="60" height="60"/>
   </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+  - <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="60" height="60"/>
   </a>
 </div>
