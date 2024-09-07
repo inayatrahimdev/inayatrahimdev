@@ -4,7 +4,8 @@
 
 
 ## 🚀 About Me
-## 👩‍💻 Data Analyst & AI/ML Developer##: Specializing in developing machine learning models and performing insightful data analysis.
+## 👩‍💻 Data Analyst & AI/ML Developer: 
+Specializing in developing machine learning models and performing insightful data analysis.
 
 
 - 🌱 Current Focus: Deep Learning & NLP in the AI/ML domain.
@@ -74,9 +75,9 @@
 </div>
 
 ## 📦 Featured Repositories
-AI/ML Projects: [Link to GitHub Repository]
-Data Analysis Projects: [Link to GitHub Repository]
-DEP Internship Webpage: [Link to Internship Work]
+- AI/ML Projects: [Link to GitHub Repository]
+- Data Analysis Projects: [Link to GitHub Repository]
+- DEP Internship Webpage: [Link to Internship Work]
 
 ## 🤝 Connect with Me
 <p align="center">
