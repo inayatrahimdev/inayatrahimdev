@@ -123,4 +123,7 @@
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=inayatrahimdev&theme=tokyonight" width="100%">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=inayatrahimdev&theme=tokyonight" width="50%">
 
+## 🏆 My Trophies
+![My Trophies](https://github-profile-trophy.vercel.app/?username=inayatrahimdev)
+
 
