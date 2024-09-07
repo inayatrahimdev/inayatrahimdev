@@ -1,12 +1,16 @@
 <h1 align="center">Hi 👋, I'm Inayat Rahim</h1>
 <h3 align="center">👋 Welcome! I'm a passionate Data Analyst & AI/ML Developer based in Islamabad, Pakistan.</h3>
 
+---
+
 🚀 **About Me**
 - 👩‍💻 **Data Analyst & AI/ML Developer**: Specializing in developing machine learning models and performing insightful data analysis.
 - 🌱 **Current Focus**: Deep Learning & NLP in the AI/ML domain.
 - 💬 **Reach Out**: You can reach me via email at <a href="mailto:inayatrahim006@gmail.com">inayatrahim006@gmail.com</a>.
 - 📚 **Lifelong Learner**: Continuously staying updated with the latest AI/ML technologies and practices.
 - ⚡ **Fun Fact**: I love transforming raw data into actionable insights and enjoy solving complex coding challenges.
+
+---
 
 🛠️ **Skills & Tools**
 
@@ -54,23 +58,27 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="GitHub" alt="GitHub" width="60" height="60"/>
   </a>
   <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/powerbi/powerbi-original.svg" title="Power BI" alt="Power BI" width="60" height="60"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/Microsoft_Power_BI_Logo.svg" title="Power BI" alt="Power BI" width="60" height="60"/>
   </a>
   <a href="https://www.tableau.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Tableau_Software_logo.svg" title="Tableau" alt="Tableau" width="60" height="60"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/42/Tableau_Logo.svg" title="Tableau" alt="Tableau" width="60" height="60"/>
   </a>
   <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" title="MS Excel" alt="MS Excel" width="60" height="60"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Microsoft_Excel_Logo.svg" title="MS Excel" alt="MS Excel" width="60" height="60"/>
   </a>
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
     <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="VS Code" alt="VS Code" width="60" height="60"/>
   </a>
 </div>
 
+---
+
 📦 **Featured Repositories**
 - AI/ML Projects: [Link to GitHub Repository]
 - Data Analysis Projects: [Link to GitHub Repository]
 - DEP Internship Webpage: [Link to Internship Work]
+
+---
 
 🤝 **Connect with Me**
 <p align="center">
