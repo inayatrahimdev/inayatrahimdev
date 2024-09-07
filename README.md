@@ -126,5 +126,11 @@
 ## 🏆 My Trophies
 ![My Trophies](https://github-profile-trophy.vercel.app/?username=inayatrahimdev)
 
+## Work Experience
+
+- **Internship:** DEP Intern
+
+## My Profile Summary
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=inayatrahimdev&theme=tokyonight" width="100%">
 
 
