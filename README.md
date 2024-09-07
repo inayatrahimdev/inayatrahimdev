@@ -4,8 +4,7 @@
 
 
 ## 🚀 About Me
-## 👩‍💻 Data Analyst & AI/ML Developer: 
-- Specializing in developing machine learning models and performing insightful data analysis.
+## 👩‍💻 Data Analyst & AI/ML Developer##: Specializing in developing machine learning models and performing insightful data analysis.
 
 
 - 🌱 Current Focus: Deep Learning & NLP in the AI/ML domain.
@@ -18,7 +17,7 @@
 - **Python**
 - **SQL**
 - **R**
-- <div align="center">
+ <div align="center">
   <a href="https://www.python.org/" target="_blank" rel="noreferrer">
     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="60" height="60"/>
   </a>
