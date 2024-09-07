@@ -1,20 +1,26 @@
 <h1 align="center">Hi 👋, I'm Inayat Rahim</h1>
 <h3 align="center">👋 Welcome! I'm a passionate Data Analyst & AI/ML Developer based in Islamabad, Pakistan.</h3>
 
-## 🚀 About Me
+---
 
+## 🚀 About Me
 - 👩‍💻 **Data Analyst & AI/ML Developer**: Specializing in developing machine learning models and performing insightful data analysis.
 - 🌱 **Current Focus**: Deep Learning & NLP in the AI/ML domain.
 - 💬 **Reach Out**: You can reach me via email at inayatrahim006@gmail.com.
 - 📚 **Lifelong Learner**: Continuously staying updated with the latest AI/ML technologies and practices.
 - ⚡ **Fun Fact**: I love transforming raw data into actionable insights and enjoy solving complex coding challenges.
 
+---
+
 ## 🛠️ Skills & Tools
 
-Here are some of the key technologies and tools I work with:
+### 💻 Programming Languages
+- **Python**
+- **SQL**
+- **R**
 
+### 📚 Libraries & Frameworks
 <div align="center">
-  <h4>📚 Libraries & Frameworks</h4>
   <a href="https://www.python.org/" target="_blank" rel="noreferrer">
     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="60" height="60"/>
   </a> 
@@ -41,8 +47,8 @@ Here are some of the key technologies and tools I work with:
   </a>
 </div>
 
+### 🛠️ Tools
 <div align="center">
-  <h4>🛠️ Tools</h4>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="60" height="60"/>
   </a> 
@@ -66,17 +72,14 @@ Here are some of the key technologies and tools I work with:
   </a> 
 </div>
 
-### 💻 Programming Languages
-
-- Python
-- SQL
-- R
+---
 
 ## 📦 Featured Repositories
-
 - **AI/ML Projects**: [Link to GitHub Repository]
 - **Data Analysis Projects**: [Link to GitHub Repository]
 - **DEP Internship Webpage**: [Link to Internship Work]
+
+---
 
 ## 🤝 Connect with Me
 
@@ -94,3 +97,8 @@ Here are some of the key technologies and tools I work with:
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.svg" alt="Gmail" style="height: 3rem; width: 3rem;"> 
   </a> 
 </p>
+
+---
+
+## 🙏 Thank You for Visiting!
+Feel free to explore my work and reach out for collaborations, queries, or support.
