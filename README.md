@@ -53,11 +53,9 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" title="Matplotlib" alt="Matplotlib" width="60" height="60"/>
   </a>
   <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/1f/Seaborn_logo.svg" title="Seaborn" alt="Seaborn" width="60" height="60"/>
+    <img src="https://seeklogo.com/images/S/seaborn-logo-244EB2DEC5-seeklogo.com.png" title="Seaborn" alt="Seaborn" width="60" height="60"/>
   </a>
 </div>
-
----
 
 ---
 
@@ -73,10 +71,10 @@
     <img src="https://github.com/microsoft/PowerBI-Icons/blob/main/PNG/Desktop.png" title="Power BI" alt="Power BI" width="60" height="60"/>
   </a>
   <a href="https://www.tableau.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/42/Tableau_Logo.svg" title="Tableau" alt="Tableau" width="60" height="60"/>
+    <img src="https://img.icons8.com/?size=100&id=9Kvi1p1F0tUo&format=png&color=000000" title="Tableau" alt="Tableau" width="60" height="60"/>
   </a>
   <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Microsoft_Excel_Logo.svg" title="MS Excel" alt="MS Excel" width="60" height="60"/>
+    <img src="https://img.icons8.com/?size=100&id=UECmBSgBOvPT&format=png&color=000000" title="MS Excel" alt="MS Excel" width="60" height="60"/>
   </a>
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
     <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="VS Code" alt="VS Code" width="60" height="60"/>
@@ -101,6 +99,6 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/1024px-LinkedIn_icon.svg.png" alt="LinkedIn" style="height: 3rem; width: 3rem;">
   </a> &nbsp;
   <a href="mailto:inayatrahim006@gmail.com">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.svg" alt="Gmail" style="height: 3rem; width: 3rem;">
+    <img src="https://img.icons8.com/?size=100&id=37246&format=png&color=000000" alt="Gmail" style="height: 3rem; width: 3rem;">
   </a>
 </p>
