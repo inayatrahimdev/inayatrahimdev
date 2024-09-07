@@ -104,18 +104,10 @@
   </a>
 </p>
 
+---
 # 📊 GitHub Stats:
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abrazaque&theme=dracula&hide_border=false&include_all_commits=false&count_private=false)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Abrazaque&theme=dracula&hide_border=false)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abrazaque&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### 🔝 Top Contributed Repo:
-
-![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=Abrazaque&limit=5&theme=dracula&combine_all_yearly_contributions=true)
-
----
-
-[![Profile Views](https://visitcount.itsvg.in/api?id=Abrazaque&icon=0&color=2)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
