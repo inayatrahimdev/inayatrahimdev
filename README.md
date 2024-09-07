@@ -127,10 +127,4 @@
 ![My Trophies](https://github-profile-trophy.vercel.app/?username=inayatrahimdev)
 
 
-## My Profile Summary
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=inayatrahimdev&theme=tokyonight" width="100%">
-<br>
-**Internship:** DEP Intern
-
-
 
