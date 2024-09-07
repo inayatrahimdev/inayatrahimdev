@@ -74,9 +74,9 @@
 ---
 
 📦 **Featured Repositories**
-- AI/ML Projects: [Link to GitHub Repository]
-- Data Analysis Projects: [Link to GitHub Repository]
-- DEP Internship Webpage: [Link to Internship Work]
+- AI/ML Projects: [https://github.com/inayatrahimdev/Weather-App]
+- Data Analysis Projects: [https://github.com/inayatrahimdev/DEP-Data-Analysis]
+- DEP Internship Webpage: [https://github.com/inayatrahimdev/Ezitech-Internship-Webpage]
 
 ---
 
@@ -87,9 +87,6 @@
   </a> &nbsp;
   <a href="https://www.linkedin.com/in/inayat-rahim-b0655b29b/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/1024px-LinkedIn_icon.svg.png" alt="LinkedIn" style="height: 3rem; width: 3rem;">
-  </a> &nbsp;
-  <a href="https://www.facebook.com/profile.php?id=100076805183920" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6c/Facebook_Logo_2022.png" alt="Facebook" style="height: 3rem; width: 3rem;">
   </a> &nbsp;
   <a href="mailto:inayatrahim006@gmail.com">
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.svg" alt="Gmail" style="height: 3rem; width: 3rem;">
