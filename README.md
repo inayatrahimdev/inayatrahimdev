@@ -15,7 +15,6 @@
 
 🛠️ **Skills & Tools**
 
----
 
 **💻 Programming Languages**
 <div align="center">
