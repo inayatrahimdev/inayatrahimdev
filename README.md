@@ -52,7 +52,6 @@
   <a href="https://matplotlib.org/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" title="Matplotlib" alt="Matplotlib" width="60" height="60"/>
   </a>
-  ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
   <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
     <img src="https://seeklogo.com/images/S/seaborn-logo-244EB2DEC5-seeklogo.com.png" title="Seaborn" alt="Seaborn" width="60" height="60"/>
   </a>
