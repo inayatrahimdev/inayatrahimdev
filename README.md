@@ -49,6 +49,7 @@
   <a href="https://opencv.org/" target="_blank" rel="noreferrer">
     <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original-wordmark.svg" title="OpenCV" alt="OpenCV" width="60" height="60"/>
   </a>
+</div>
 
 ---
 
@@ -72,13 +73,14 @@
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
     <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="VS Code" alt="VS Code" width="60" height="60"/>
   </a>
+</div>
 
 ---
 
 📦 **Featured Repositories**
-- AI/ML Projects: [https://github.com/inayatrahimdev/Weather-App](https://github.com/inayatrahimdev/Weather-App)
-- Data Analysis Projects: [https://github.com/inayatrahimdev/DEP-Data-Analysis](https://github.com/inayatrahimdev/DEP-Data-Analysis)
-- DEP Internship Webpage: [https://github.com/inayatrahimdev/Ezitech-Internship-Webpage](https://github.com/inayatrahimdev/Ezitech-Internship-Webpage)
+- AI/ML Projects: [Weather App](https://github.com/inayatrahimdev/Weather-App)
+- Data Analysis Projects: [DEP Data Analysis](https://github.com/inayatrahimdev/DEP-Data-Analysis)
+- DEP Internship Webpage: [Ezitech Internship Webpage](https://github.com/inayatrahimdev/Ezitech-Internship-Webpage)
 
 ---
 
