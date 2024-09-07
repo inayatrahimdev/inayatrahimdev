@@ -107,7 +107,7 @@
 ---
 # 📊 GitHub Stats:
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abrazaque&theme=dracula&hide_border=false&include_all_commits=false&count_private=false)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Abrazaque&theme=dracula&hide_border=false)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abrazaque&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=inayatrahimdev&theme=dracula&hide_border=false&include_all_commits=false&count_private=false)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=inayatrahimdev&theme=dracula&hide_border=false)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=inayatrahimdev&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
