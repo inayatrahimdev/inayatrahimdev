@@ -74,9 +74,9 @@
 ---
 
 📦 **Featured Repositories**
-- AI/ML Projects: [https://github.com/inayatrahimdev/Weather-App]
-- Data Analysis Projects: [https://github.com/inayatrahimdev/DEP-Data-Analysis]
-- DEP Internship Webpage: [https://github.com/inayatrahimdev/Ezitech-Internship-Webpage]
+- AI/ML Projects: [https://github.com/inayatrahimdev/Weather-App](https://github.com/inayatrahimdev/Weather-App)
+- Data Analysis Projects: [https://github.com/inayatrahimdev/DEP-Data-Analysis](https://github.com/inayatrahimdev/DEP-Data-Analysis)
+- DEP Internship Webpage: [https://github.com/inayatrahimdev/Ezitech-Internship-Webpage](https://github.com/inayatrahimdev/Ezitech-Internship-Webpage)
 
 ---
 
