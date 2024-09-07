@@ -5,7 +5,7 @@
 
 ## 🚀 About Me
 ## 👩‍💻 Data Analyst & AI/ML Developer: 
-Specializing in developing machine learning models and performing insightful data analysis.
+***Specializing in developing machine learning models and performing insightful data analysis.***
 
 
 - 🌱 Current Focus: Deep Learning & NLP in the AI/ML domain.
