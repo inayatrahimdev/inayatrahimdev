@@ -128,4 +128,5 @@
 ![My Trophies](https://github-profile-trophy.vercel.app/?username=inayatrahimdev)
 
 
-<img  src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=inayatrahimdev&theme=tokyonight&cache_buster=true" width="50%">
+<img  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=inayatrahimdev&theme=tokyonight&cache_buster=true" width="100%" >
+
