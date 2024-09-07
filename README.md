@@ -14,6 +14,8 @@
 
 🛠️ **Skills & Tools**
 
+---
+
 **💻 Programming Languages**
 <div align="center">
   <a href="https://www.python.org/" target="_blank" rel="noreferrer">
@@ -26,6 +28,10 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="60" height="60"/>
   </a>
 </div>
+
+---
+
+---
 
 **📚 Libraries & Frameworks**
 <div align="center">
@@ -49,6 +55,10 @@
   </a>
 </div>
 
+---
+
+---
+
 **🛠️ Tools**
 <div align="center">
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
@@ -70,6 +80,7 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="VS Code" alt="VS Code" width="60" height="60"/>
   </a>
 </div>
+
 
 ---
 
