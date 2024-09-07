@@ -127,5 +127,5 @@
 ## 🏆 My Trophies
 ![My Trophies](https://github-profile-trophy.vercel.app/?username=inayatrahimdev)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=inayatrahimdev&theme=tokyonight&cache_buster=true" width="34%" >
 
+<img  src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=inayatrahimdev&theme=tokyonight&cache_buster=true" width="50%">
