@@ -10,11 +10,12 @@
 - 📚 **Lifelong Learner**: Continuously staying updated with the latest AI/ML technologies and practices.
 - ⚡ **Fun Fact**: I love transforming raw data into actionable insights and enjoy solving complex coding challenges.
 
+---
 
 
 🛠️ **Skills & Tools**
 
-
+---
 
 **💻 Programming Languages**
 <div align="center">
