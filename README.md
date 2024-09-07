@@ -12,10 +12,7 @@
 
 ---
 
-
 ## 🛠️ Skills & Tools
-
-
 
 **💻 Programming Languages**
 <div align="center">
@@ -29,8 +26,6 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="60" height="60"/>
   </a>
 </div>
-
-
 
 ---
 
@@ -66,8 +61,9 @@
   <a href="https://github.com/" target="_blank" rel="noreferrer">
     <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="GitHub" alt="GitHub" width="60" height="60"/>
   </a>
-  <a href="https://www.microsoft.com/en-us/download/details.aspx?id=58494" target="_blank" rel="noreferrer"> <img src="https://github.com/microsoft/PowerBI-Icons/blob/main/PNG/Desktop.png" title="PowerBI" alt="PowerBI" width="60" height="60"/> </a>
-  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" alt="PostgreSQL" width="60" height="60"/> </a>
+  <a href="https://www.microsoft.com/en-us/download/details.aspx?id=58494" target="_blank" rel="noreferrer">
+    <img src="https://github.com/microsoft/PowerBI-Icons/blob/main/PNG/Desktop.png" title="Power BI" alt="Power BI" width="60" height="60"/>
+  </a>
   <a href="https://www.tableau.com/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/42/Tableau_Logo.svg" title="Tableau" alt="Tableau" width="60" height="60"/>
   </a>
