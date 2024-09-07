@@ -49,13 +49,6 @@
   <a href="https://opencv.org/" target="_blank" rel="noreferrer">
     <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original-wordmark.svg" title="OpenCV" alt="OpenCV" width="60" height="60"/>
   </a>
-  <a href="https://matplotlib.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/46/Matplotlib_logo.svg" title="Matplotlib" alt="Matplotlib" width="60" height="60"/>
-  </a>
-  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://seaborn.pydata.org/_images/seaborn-logo-wide.png" title="Seaborn" alt="Seaborn" width="60" height="60"/>
-  </a>
-</div>
 
 ---
 
