@@ -10,11 +10,11 @@
 - 📚 **Lifelong Learner**: Continuously staying updated with the latest AI/ML technologies and practices.
 - ⚡ **Fun Fact**: I love transforming raw data into actionable insights and enjoy solving complex coding challenges.
 
----
+
 
 🛠️ **Skills & Tools**
 
----
+
 
 **💻 Programming Languages**
 <div align="center">
@@ -29,7 +29,7 @@
   </a>
 </div>
 
----
+
 
 ---
 
@@ -57,8 +57,6 @@
 
 ---
 
----
-
 **🛠️ Tools**
 <div align="center">
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
@@ -80,7 +78,6 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="VS Code" alt="VS Code" width="60" height="60"/>
   </a>
 </div>
-
 
 ---
 
