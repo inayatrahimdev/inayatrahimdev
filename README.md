@@ -127,6 +127,8 @@
 ## 🏆 My Trophies
 ![My Trophies](https://github-profile-trophy.vercel.app/?username=inayatrahimdev)
 
+[![Profile Views](https://visitcount.itsvg.in/api?id=inayatrahimdev&icon=0&color=2)](https://visitcount.itsvg.in)
 
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
