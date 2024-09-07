@@ -13,7 +13,8 @@
 ---
 
 
-🛠️ **Skills & Tools**
+## 🛠️ Skills & Tools
+
 
 
 **💻 Programming Languages**
