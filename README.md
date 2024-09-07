@@ -127,3 +127,5 @@
 ## 🏆 My Trophies
 ![My Trophies](https://github-profile-trophy.vercel.app/?username=inayatrahimdev)
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=inayatrahimdev&theme=tokyonight&cache_buster=true" width="34%" >
+
