@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Inayat Rahim</h1>
-<h3 align="center">👋 Welcome! I'm a passionate Data Analyst & AI/ML Developer based in Islamabad, Pakistan.</h3>
+<h3 align="center">👋 Welcome! I'm a passionate Data Analyst & AI/ML Devolper based in Islamabad, Pakistan.</h3>
 
 ---
 
