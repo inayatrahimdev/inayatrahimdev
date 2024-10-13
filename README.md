@@ -5,7 +5,7 @@
 
 🚀 **About Me**
 - 👩‍💻 **Data Analyst & AI/ML Developer**: Specializing in developing machine learning models and performing insightful data analysis.
-- 🌱 **Current Focus**: Deep Learning & NLP in the AI/ML domain.
+- 🌱 **Current Focus**: Deep Learning,NLP,Computer Vision and Sppech Recognition in the AI/ML domain.
 - 💬 **Reach Out**: You can reach me via email at <a href="mailto:inayatrahim006@gmail.com">inayatrahim006@gmail.com</a>.
 - 📚 **Lifelong Learner**: Continuously staying updated with the latest AI/ML technologies and practices.
 - ⚡ **Fun Fact**: I love transforming raw data into actionable insights and enjoy solving complex coding challenges.
