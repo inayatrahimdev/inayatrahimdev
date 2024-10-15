@@ -9,7 +9,7 @@
 - 💬 **Reach Out**: You can reach me via email at <a href="mailto:inayatrahim006@gmail.com">inayatrahim006@gmail.com</a>.
 - 📚 **Lifelong Learner**: Continuously staying updated with the latest AI/ML technologies and practices.
 - ⚡ **Fun Fact**: I love transforming raw data into actionable insights and enjoy solving complex coding challenges.
-- 📫 How to reach me: [Schedule Call](topmate.io/join/inayat_rahim)
+- 📫 How to reach me: [Schedule Call](https://topmate.io/inayat_rahim)
 
 ---
 
