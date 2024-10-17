@@ -39,7 +39,9 @@
   <a href="https://numpy.org/" target="_blank" rel="noreferrer">
     <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="Numpy" alt="Numpy" width="60" height="60"/>
   </a>
-  ![PostgreSQL Logo](https://www.postgresql.org/media/img/about/press/presskit/logos/vertical/posgresql.png)
+  <a href="https://www.postgresql.org/">
+  <img src="https://www.postgresql.org/media/img/about/press/presskit/logos/vertical/posgresql.png" title="PostgreSQL" alt="PostgreSQL" width="60" height="60"/>
+</a>
 
   <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" title="Scikit-Learn" alt="Scikit-Learn" width="60" height="60"/>
