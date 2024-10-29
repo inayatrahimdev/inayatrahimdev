@@ -136,4 +136,37 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
+Step 2: Write the System of Equations
+Let x1x_1, x2x_2, and x3x_3 be the number of units produced of Product 1, Product 2, and Product 3, respectively. The equations based on labor hour requirements are:
+•	For Department A: 1x1+3x2+2x3=21x_1 + 3x_2 + 2x_3 = 2
+•	For Department B: 2x1+8x2+5x3=32x_1 + 8x_2 + 5x_3 = 3
+•	For Department C: 1x1+11x2+4x3=11x_1 + 11x_2 + 4x_3 = 1
+Step 3: Write in Matrix Form
+We can express the above equations in matrix form AX=bAX = b: \[A = \begin{bmatrix} 1 & 3 & 2 \\ 2 & 8 & 5 \\ 1 & 11 & 4 \\ \end{bmatrix}, \quad X = \begin{bmatrix} x_1 \\ x_2 \\ x_3 \\ \end{bmatrix}, \quad b = \begin{bmatrix} 2 \\ 3 \\ 1 \\ \end{bmatrix}\]
+Step 4: Perform LU Decomposition
+We will decompose matrix AA into the product of a lower triangular matrix LL and an upper triangular matrix UU.
+Let: \[L = \begin{bmatrix} 1 & 0 & 0 \\ l_{21} & 1 & 0 \\ l_{31} & l_{32} & 1 \\ \end{bmatrix}, \quad U = \begin{bmatrix} u_{11} & u_{12} & u_{13} \\ 0 & u_{22} & u_{23} \\ 0 & 0 & u_{33} \\ \end{bmatrix}\]
+Step 5: Expand LU and Compare
+Expanding LULU: \[LU = \begin{bmatrix} 1 & 0 & 0 \\ l_{21} & 1 & 0 \\ l_{31} & l_{32} & 1 \\ \end{bmatrix} \begin{bmatrix} u_{11} & u_{12} & u_{13} \\ 0 & u_{22} & u_{23} \\ 0 & 0 & u_{33} \\ \end{bmatrix}\] \[= \begin{bmatrix} u_{11} & u_{12} & u_{13} \\ l_{21}u_{11} & l_{21}u_{12} + u_{22} & l_{21}u_{13} + u_{23} \\ l_{31}u_{11} & l_{31}u_{12} + l_{32}u_{22} & l_{31}u_{13} + l_{32}u_{23} + u_{33} \\ \end{bmatrix}\]
+Step 6: Set Up Equations from A=LUA = LU
+From comparing AA and LULU:
+Row 1: \[u_{11} = 1, \quad u_{12} = 3, \quad u_{13} = 2\]
+Row 2: \[l_{21}u_{11} = 2 \Rightarrow l_{21} = 2\] \[l_{21}u_{12} + u_{22} = 8 \Rightarrow 2 \cdot 3 + u_{22} = 8 \Rightarrow u_{22} = 2\] \[l_{21}u_{13} + u_{23} = 5 \Rightarrow 2 \cdot 2 + u_{23} = 5 \Rightarrow u_{23} = 1\]
+Row 3: \[l_{31}u_{11} = 1 \Rightarrow l_{31} = 1\] \[l_{31}u_{12} + l_{32}u_{22} = 11 \Rightarrow 1 \cdot 3 + l_{32} \cdot 2 = 11 \Rightarrow l_{32} = 4\] \[l_{31}u_{13} + l_{32}u_{23} + u_{33} = 4 \Rightarrow 1 \cdot 2 + 4 \cdot 1 + u_{33} = 4 \Rightarrow u_{33} = -2\]
+Step 7: Final Values for LL and UU
+Matrix LL: \[L = \begin{bmatrix} 1 & 0 & 0 \\ 2 & 1 & 0 \\ 1 & 4 & 1 \\ \end{bmatrix}\]
+Matrix UU: \[U = \begin{bmatrix} 1 & 3 & 2 \\ 0 & 2 & 1 \\ 0 & 0 & -2 \\ \end{bmatrix}\]
+Step 8: Solve the System LUx=bLUx = b
+Now we will solve Ly=bLy = b first: \[L \begin{bmatrix} y_1 \\ y_2 \\ y_3 \\ \end{bmatrix} = \begin{bmatrix} 2 \\ 3 \\ 1 \\ \end{bmatrix}\]
+This gives us the following equations: \[y_1 = 2\] \[2y_1 + y_2 = 3 \Rightarrow 2 \cdot 2 + y_2 = 3 \Rightarrow y_2 = -1\] \[y_1 + 4y_2 + y_3 = 1 \Rightarrow 2 + 4(-1) + y_3 = 1 \Rightarrow y_3 = 3\]
+Now we have: \[y = \begin{bmatrix} 2 \\ -1 \\ 3 \\ \end{bmatrix}\]
+Step 9: Solve UX=YUX = Y
+Next, we solve UX=YUX = Y: \[U \begin{bmatrix} x_1 \\ x_2 \\ x_3 \\ \end{bmatrix} = \begin{bmatrix} 2 \\ -1 \\ 3 \\ \end{bmatrix}\]
+This gives us: \[x_3 = -\frac{3}{2}\] \[2x_2 + x_3 = -1 \Rightarrow 2x_2 = -1 + \frac{3}{2} \Rightarrow x_2 = \frac{1}{4}\] \[x_1 + 3x_2 + 2x_3 = 2 \Rightarrow x_1 = 4 + \frac{1}{4} - 3 = \frac{17}{4}\]
+Step 10: Final Values for XX
+Thus, the solution for the number of units produced of each product is: \[X = \begin{bmatrix} \frac{17}{4} \\ \frac{1}{4} \\ -\frac{3}{2} \\ \end{bmatrix} \approx \begin{bmatrix} 4.25 \\ 0.25 \\ -1.5 \\ \end{bmatrix}\]
+
+
+
+
 
