@@ -9,7 +9,8 @@
 - 👓 **Founder of [Noorglare](https://www.noorglare.shop)**: I am also the proud founder of **Noorglare**, an innovative eyewear startup dedicated to providing stylish and high-quality glasses that blend fashion with functionality..
 - 💬 **Reach Out**: You can reach me via email at <a href="mailto:inayatrahim006@gmail.com">inayatrahim006@gmail.com</a>.
 - 📚 **Lifelong Learner**: Continuously staying updated with the latest AI/ML technologies and practices.
-- ⚡ **Fun Fact**: I love transforming raw data into actionable insights and enjoy solving complex coding challenges..
+- ⚡ **Fun Fact**: I love transforming raw data into actionable insights and enjoy solving complex coding challenges.
+- 📝 **I regularly write articles on [Medium](https://medium.com/@inayatrahimdev)**
 - 📫 How to reach me: [Schedule Call](https://topmate.io/inayat_rahim)
 
 ---
