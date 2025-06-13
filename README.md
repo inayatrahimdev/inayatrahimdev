@@ -71,6 +71,7 @@
 ## 🧠 Core Brain 
 <p align="text-align:center">
   <img src="https://media.giphy.com/media/IUNycHoVqvLDowiiam/giphy.gif" width="500" alt="Neural Intelligence">
+  
 ## 📊 GitHub Intelligence Metrics
 
 <p align="center">
