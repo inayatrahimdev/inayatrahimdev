@@ -80,9 +80,9 @@
 ## 🧠 Math of AGI (Core Brain 🔢)
 
 <p align="center">
-  <img src="https://media.giphy.com/media/d31w24psGYeekCZy/giphy.gif" width="260">
-  <img src="https://media.giphy.com/media/d3mlE7uhX8KFgEmY/giphy.gif" width="260">
-  <img src="https://media.giphy.com/media/3o6fJbnU8Q5Kzk1qfm/giphy.gif" width="260">
+  <img src="https://media.giphy.com/media/YTbZzCkRQCEJa/giphy.gif" width="250" title="Hacker Mode Activated">
+  <img src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif" width="250" title="Coding Vince Vibes">
+  <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="250" title="Cybersecurity 🔐">
 </p>
 
 - Information Theory: Entropy, KL-Divergence, Cross-Entropy  
