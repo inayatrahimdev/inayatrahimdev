@@ -3,7 +3,7 @@
 <h1 align="center">🧠 Inayat's Next-Gen AI Universe 🚀</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/JQ5jyH4RzZNY9XCNjE/giphy.gif" width="300">
+  <img src="https://media.giphy.com/media/JQ5jyH4RzZNY9XCNjE/giphy.gif" width="280">
 </p>
 
 ---
