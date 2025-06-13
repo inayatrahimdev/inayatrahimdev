@@ -68,11 +68,8 @@
 | 🏭 Manufacturing  | Predictive Maintenance, Robotics AI                         |
 | 🎓 Education      | Personalized AI Tutors, Multimodal Learning                 |
 | 🛰️ Defense        | Satellite AI, Signal Processing, Surveillance AI            |
-
-
-
 ## 🧠 Core Brain 
-<p align="center">
+<p align="text-align:center">
   <img src="https://media.giphy.com/media/IUNycHoVqvLDowiiam/giphy.gif" width="500" alt="Neural Intelligence">
 ## 📊 GitHub Intelligence Metrics
 
@@ -81,14 +78,11 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=inayatrahimdev&theme=tokyonight" width="45%">
 </p>
 
----
-
 ## 🌍 AI for Global Goals & Challanges🌱
 
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWJsbGNlaDRudWl5c2g5NXN4OWl5enFiM3V6eDRjdW5zaXY2c3A3YiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/QaXOeJInKqKY5JuRwM/giphy.gif" width="500">
 </p>
-
 - 🎯 AI for SDG-17 Goals  
 - 🌾 Agriculture  
 - 🌊 Clean Water  
@@ -96,9 +90,7 @@
 - 🏥 Healthcare  
 - 📚 Quality Education  
 - 🔋 Renewable Energy  
-- 🤝 Industry, Innovation & Infrastructure  
-
----
+- 🤝 Industry, Innovation & Infrastructure
 
 ## 🌐 Connect with Me
 
