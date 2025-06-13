@@ -43,15 +43,6 @@
 | 🧬 Medical Imaging| `MONAI`, `TorchIO`, `SimpleITK`, `Nilearn`, `Skimage`, `Radiomics`     |
 ---
 
-## 🔬 Scientific AGI Gifs Vibe
-
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2Fva3hkaGJpc243N3NrMGVqdmMxb2IzajQ3NW12cW5rYWtyY3R2YyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/f5Xd8HMLyrBedfgNeE/giphy.gif" width="250">
-  <img src="https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif" width="250">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2pua3Nxc3I4ajdsdm9kM2JxMzBwMGlhc3NvODhleWprdWF4MWttbyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/oOylMv2oLDxcxGzYn6/giphy.gif"
-    width="250">
-</p>
-
 ---
 
 ## 🔮 AI Architectures & Pipelines I'm Building
@@ -86,9 +77,7 @@
 ## 🧠 Math of AGI (Core Brain 🔢)
 
 <p align="center">
-  <img src="https://camo.githubusercontent.com/8ee865881e9c98d14d4de3f4cdeed08f08f9bb952425c12abde8335b08dfcc0f/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f76312e59326c6b505463354d4749334e6a45786247343264475a775a44677a62576c365a575277615870346132357663324a304d6e6b314d6d707164574d3163324a755933673261695a6c634431324d56397a64476c6a613256796331397a5a5746795932676d5933513963772f6a544f705572774473335749634233394a502f67697068792e676966" width="250" alt="Mathematics Visualization">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXl4dWNtbXM5b2xpcDExODJycWgzNWducG41NXk4c3I3OGo2cWs2NyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/VP2F9tqaCmUarK7GrU/giphy.gif" width="250" alt="Neural Intelligence">
-  <img src="https://media.giphy.com/media/IUNycHoVqvLDowiiam/giphy.gif" width="250" alt="Computational Brain">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXl4dWNtbXM5b2xpcDExODJycWgzNWducG41NXk4c3I3OGo2cWs2NyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/VP2F9tqaCmUarK7GrU/giphy.gif" width="500" alt="Neural Intelligence">
 </p>
 
 - Information Theory: Entropy, KL-Divergence, Cross-Entropy  
