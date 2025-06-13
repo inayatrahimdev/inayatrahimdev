@@ -1,110 +1,108 @@
 <!-- START -->
-<h1 align="center">🌐⚡ Welcome to Inayat's AI Multiverse 🚀</h1>
+
+<h1 align="center">🧠 Inayat's Next-Gen AI Universe 🚀</h1>
 
 <p align="center">
-img src="https://media.giphy.com/media/JQ5jyH4RzZNY9XCNjE/giphy.gif" width="300">
-</p>
-
-<p align="center">
-🔭 AI | Deep Learning | Transformers Everywhere | Agents | Quantum AI | Multi-Domain AI Architect 🧪  
+<img src="https://media.giphy.com/media/iicDrNGWxHmDrIni6j/giphy.gif" width="300">
 </p>
 
 ---
 
-## 🚀 What I'm Cooking In My Lab
+## ⚙️ My Intelligence Domains
 
-- 🤖 **Deep Learning Architectures** — ANN, CNN, GNN, RNN, VAEs, Diffusion Models, Transformers 🔥
-- 🎙 **Voice & Audio AI** — Speech Recognition, TTS, Audio Transformers, Signal Processing 🎧
-- 🧬 **Bio & Medicine** — Genomics AI, Bioinformatics, Drug Discovery, Protein Folding, Cell AI 🧫
-- ⚛️ **Physics-informed ML & Quantum ML** — Molecular Dynamics, Chemistry AI, QML 🚀
-- 🌾 **Agriculture & Climate AI** — Precision AgriTech, Crop Health Monitoring, Weather Forecasting 🌦
-- ⚖️ **AI for Judiciary & Law** — NLP Legal Assistants, Judicial Reasoning, Document Parsing 📑
-- 🏥 **Healthcare AI** — Diagnostics, Medical Imaging, MRI, CT, Ultrasound, Digital Pathology 🩻
-- 🛰 **Defense, Security & Surveillance AI** — Satellite Vision, Radar, Sonar, Space Intelligence 🛰
-- 📊 **Time Series & Sequential Transformers** — Time Forecasting, Financial AI, Signal Data ⏳
-- 🎯 **Future-Proof Architectures** — Fine-Tuning Pipelines, RAG, Agentic AI, MCP Server Architectures 🤖
-
----
-
-## 🧠 The AI Universe I'm Building 🪐
-
-<p align="center">
-<img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="300">
-</p>
-
-| Field | 🔬 Tech |
-| ------ | ------ |
-| **Vision AI** | YOLOv8, DeepFace, SAM, CLIP, Segmentation |
-| **Speech AI** | Whisper, Tortoise TTS, ElevenLabs, ASR |
-| **Bio AI** | AlphaFold, Genomics AI, RNA Transformers |
-| **Law AI** | LLM Legal Reasoners, NLP Contract Analysis |
-| **Defense AI** | Satellite, Sonar, Radar, Multi-modal Vision |
-| **Education AI** | AI Tutoring, Reasoning Agents, Auto-Content |
-| **Energy & Climate AI** | Smart Grids, Climate Forecasting, Carbon Capture AI |
-| **Finance AI** | Time-Series Transformers, Risk Modeling |
-| **Manufacturing AI** | Predictive Maintenance, Robotics Vision |
-| **SDGs AI** | Solutions aligned with UN SDG-17 🌎 |
+- 🧠 **Agentic AI & Cognitive Architectures** — Multi-agent systems, decision reasoning, world models
+- 🔎 **Retrieval Augmented Generation (RAG)** — Vector DBs, hybrid search, augmented memory
+- 🔬 **Fine-Tuning Stacks** — PEFT, LoRA, QLoRA, SFT, RLHF, DPO
+- 🔭 **Multimodal Deep Learning** — Vision, Audio, Signals, Spatial Data, Video
+- 🎙️ **Speech Intelligence** — Voice Cloning, TTS, ASR, Synthesis, Live Translation
+- 🧬 **Bioinformatics & Genomics AI** — DNA/RNA transformers, Protein folding models
+- ⚛️ **Physics-Informed ML & QML** — PINNs, Schrödinger, Quantum Circuits, Differential Learning
+- 🌐 **Time Series & Forecasting** — Informer, PatchTST, Seasonal Transformers
+- 🌍 **AI for SDGs & Climate** — Agriculture, Healthcare, Law, Energy, Defense, Education, Industry
 
 ---
 
-## 🔧 My Multi-Stack Playground ⚙️
+## 💻 My Core AI Stacks
+
+| 🚀 AI Stack | 🧪 Key Tools |
+| ---- | ---- |
+| Hugging Face 🤗 | `transformers`, `datasets`, `accelerate`, `evaluate`, `gradio` |
+| PyTorch 🔥 | `torch`, `torchvision`, `torchaudio`, `torchtext` |
+| Fine-tuning 🧬 | `peft`, `trl`, `bitsandbytes`, `deepspeed`, `qlora` |
+| RAG & VectorDB 📚 | `langchain`, `llamaindex`, `chromadb`, `faiss`, `milvus`, `weaviate` |
+| Vision AI 👁 | `YOLOv8`, `Segment Anything (SAM)`, `CLIP`, `DeepFace` |
+| Audio AI 🎙 | `Whisper`, `Tortoise-TTS`, `AudioCraft`, `Bark`, `RVC`, `Suno` |
+| Agentic AI 🧠 | `Autogen`, `CrewAI`, `LangGraph`, `OpenAgents` |
+| Signal Processing 📡 | `scipy.signal`, `spectrogram`, `wavelet`, `STFT` |
+| Bioinformatics 🔬 | `AlphaFold`, `ProGen`, `BioBERT`, `GenomicsGPT` |
+| Physics AI ⚛️ | `PINNs`, `Neural ODEs`, `SchrodingerNet`, `QM9` |
+
+---
+
+## 🔬 Scientific AGI Gifs Vibe
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,vscode,github,git,figma,jupyter,azure,cursor,emergent,vibe coding" />
-</p>
-
-### 🔥 Deep Learning
-<p align="center">
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,keras,sklearn,opencv&perline=7" />
-</p>
-
-### 🌐 GenAI & Transformers
-<p align="center">
-<img src="https://img.shields.io/badge/LLM-Transformers-orange?style=for-the-badge" />
-<img src="https://img.shields.io/badge/RAG-Augmented-green?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Agents-AI-red?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Diffusion-Models-blue?style=for-the-badge" />
-<img src="https://img.shields.io/badge/QML-Quantum-purple?style=for-the-badge" />
+<img src="https://media.giphy.com/media/2t9sDPrlvFpdK/giphy.gif" width="250">
+<img src="https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif" width="250">
+<img src="https://media.giphy.com/media/H4DjXQXamtTiIuCcRU/giphy.gif" width="250">
 </p>
 
 ---
 
-## 📊 My Pipeline Visual Feels 🔬
+## 🔮 AI Architectures & Pipelines I'm Building
+
+- 🧠 LLM Fine-Tuning Pipelines (PEFT + QLoRA + RAG)
+- 🔄 Agentic AI Loops & Multi-Agent Architectures
+- 🛰 Vision + NLP + Audio + Signals Fusion Pipelines
+- 🧬 Bioinformatics Genomics Transformers Pipelines
+- 🪐 Physics-Informed Multimodal Learning Architectures
+- ⚡ Multimodal Fusion with Cloud GPU Stacks
+
+---
+
+## 🌐 AI Applications Across Industries
+
+| 🌿 Domain | 🚀 AI Solutions |
+| ---- | ---- |
+| 🌾 Agriculture | Crop Monitoring, Disease Detection, Soil Forecasting |
+| 🏥 Healthcare | Diagnosis, Imaging, Drug Discovery, Genomics |
+| ⚖️ Law & Judiciary | Legal LLMs, Decision Support AI, Policy Reasoning |
+| ⚛️ Physics | PINNs, Molecular AI, Simulations |
+| 🧬 Chemistry | Quantum Chemistry, Protein AI, Material Science |
+| 🌎 Climate | Carbon Modeling, Sustainability AI |
+| 🔋 Energy | Load Forecasting, Smart Grids |
+| 🏭 Manufacturing | Predictive Maintenance, Robotics AI |
+| 🎓 Education | Personalized AI Tutors, Multimodal Learning |
+| 🛰️ Defense | Satellite AI, Signal Processing, Surveillance AI |
+
+---
+
+## 🧠 Math of AGI (Core Brain 🔢)
 
 <p align="center">
-<img src="https://media.giphy.com/media/jS4mD1O0gbI4E/giphy.gif" width="350">
+<img src="https://media.giphy.com/media/d31w24psGYeekCZy/giphy.gif" width="260">
+<img src="https://media.giphy.com/media/d3mlE7uhX8KFgEmY/giphy.gif" width="260">
+<img src="https://media.giphy.com/media/3o6fJbnU8Q5Kzk1qfm/giphy.gif" width="260">
+</p>
+
+- Information Theory (Entropy, KL, Cross-Entropy)
+- Gradient Descent, Backpropagation, Tensor Algebra
+- Fourier, Wavelet, Signal Transforms
+- Time Series Decomposition & Forecasting Models
+- Optimization Theory (Convex, Non-convex)
+- Dynamical Systems, ODEs, PDEs
+
+---
+
+## 📊 GitHub Intelligence Metrics
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=inayatrahimdev&show_icons=true&theme=tokyonight" width="45%">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=inayatrahimdev&theme=tokyonight" width="45%">
 </p>
 
 ---
 
-## 🧮 Math + ML = ❤️
-
-- 🧮 Calculus, Linear Algebra, Probability, Optimization  
-- 🔢 Backpropagation Math  
-- 🔭 Information Theory, Entropy, IG  
-- 📈 Fourier, Signal Analysis, Spatial & Temporal Domains  
-- 🧬 Sequence Modeling, Graph Theory  
-- ⚛️ Quantum Circuits, Hamiltonians in QML  
-
-<p align="center">
-<img src="https://media.giphy.com/media/QBd2kLB5qDmysEXre9/giphy.gif" width="280">
-</p>
-
----
-
-## 🚀 Featured Labs & Builds 🛠
-
-| 🔬 Project | 🚀 Status |
-| -------- | -------- |
-| Whisper Audio Transcription + Email Verification | ✅ Done |
-| Real-Time Vision AI (YOLOv8 + SAM + DeepFace) | 🔥 Live |
-| Multimodal Reasoning w/ CLIP & LLMs | 🚀 Building |
-| DEP Data Analysis | ✅ Done |
-| Weather Forecasting AI | ✅ Done |
-| Agentic AI Workflows | 🚀 On Fire |
-| Fine-Tuning Pipelines | ⚙️ Optimizing |
-
----
 
 ## 🌍 AI for Global Goals 🌱
 
@@ -121,58 +119,20 @@ img src="https://media.giphy.com/media/JQ5jyH4RzZNY9XCNjE/giphy.gif" width="300"
 - 🔋 Renewable Energy
 - 🤝 Industry, Innovation, & Infrastructure
 
----
 
-## 🔬 Scientific Gifs for my AGI Lab
+  ---
 
-<p align="center">
-<img src="https://media.giphy.com/media/QBd2kLB5qDmysEXre9/giphy.gif" width="260">
-<img src="https://media.giphy.com/media/ME2ytshDQQDr2/giphy.gif" width="260">
-<img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="260">
-</p>
-
-## 🌐 Connect & Collaborate
+  ## 🌐 Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/inayat-rahim-b0655b29b/">
-    <img src="https://img.shields.io/badge/LinkedIn-Inayat-blue?style=for-the-badge&logo=linkedin">
-  </a>
-  <a href="mailto:inayatrahim006@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-inayatrahim006-red?style=for-the-badge&logo=gmail">
-  </a>
-  <a href="https://www.kaggle.com/inayatrahim">
-    <img src="https://img.shields.io/badge/Kaggle-Inayat-blue?style=for-the-badge&logo=kaggle">
-  </a>
-  <a href="https://topmate.io/inayat_rahim">
-    <img src="https://img.shields.io/badge/Topmate-Book_Call-green?style=for-the-badge&logo=googlemeet">
-  </a>
+<a href="https://www.linkedin.com/in/inayat-rahim-b0655b29b/"><img src="https://img.shields.io/badge/LinkedIn-Inayat-blue?style=for-the-badge&logo=linkedin"></a>
+<a href="mailto:inayatrahim006@gmail.com"><img src="https://img.shields.io/badge/Gmail-inayatrahim006-red?style=for-the-badge&logo=gmail"></a>
+<a href="https://www.kaggle.com/inayatrahim"><img src="https://img.shields.io/badge/Kaggle-Inayat-blue?style=for-the-badge&logo=kaggle"></a>
 </p>
-
----
-
-## 📈 GitHub Status
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=inayatrahimdev&theme=tokyonight" width="45%">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=inayatrahimdev&theme=tokyonight" width="45%">
+<img src="https://media.giphy.com/media/xT0GqFzHjxRvd1vR4w/giphy.gif" width="300">
 </p>
-
----
-
-## 🏆 Trophy Room
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=inayatrahimdev&theme=monokai" width="90%">
-</p>
-
----
-
-<p align="center">
-<p align="center">
-<img src="https://media.giphy.com/media/JQ5jyH4RzZNY9XCNjE/giphy.gif" width="320">
-</p>
-</p>
-
-[![Profile Views](https://visitcount.itsvg.in/api?id=inayatrahimdev&icon=0&color=5)](https://visitcount.itsvg.in)
 
 <!-- END -->
+
