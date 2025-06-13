@@ -111,7 +111,7 @@
 ## 🌍 AI for Global Goals 🌱
 
 <p align="center">
-  <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="280">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280">
 </p>
 
 - 🎯 AI for SDG-17 Goals  
