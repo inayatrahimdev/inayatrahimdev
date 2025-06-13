@@ -48,7 +48,7 @@
 <p align="center">
   <img src="https://media.giphy.com/media/2t9sDPrlvFpdK/giphy.gif" width="250">
   <img src="https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif" width="250">
-  <img src="https://media.giphy.com/media/H4DjXQXamtTiIuCcRU/giphy.gif" width="250">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdW5td2I1eWN2N2t6YW9uaDZkcXlsMjQyZW1yenB4NzJzYWQzd2xuayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/9WC8WTZsFxkRi/giphy.gif" width="250">
 </p>
 
 ---
@@ -86,7 +86,7 @@
 
 <p align="center">
   <img src="https://media.giphy.com/media/YTbZzCkRQCEJa/giphy.gif" width="250" title="Hacker Mode Activated">
-  <img src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif" width="250" title="Coding Vince Vibes">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTRxZzgwYW5oajQ4aHQ2NXhtZTRzZzBnMzB6NGU0ZXlmOWhjOWlrOCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/TZf4ZyXb0lXXi/giphy.gif" width="250" title="Coding Vince Vibes">
   <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="250" title="Cybersecurity 🔐">
 </p>
 
