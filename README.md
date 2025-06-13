@@ -2,7 +2,7 @@
 <h1 align="center">🌐⚡ Welcome to Inayat's AI Multiverse 🚀</h1>
 
 <p align="center">
-<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="280">
+img src="https://media.giphy.com/media/JQ5jyH4RzZNY9XCNjE/giphy.gif" width="300">
 </p>
 
 <p align="center">
@@ -50,7 +50,7 @@
 ## 🔧 My Multi-Stack Playground ⚙️
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,cpp,r,mysql,postgresql,vscode,github,git,figma,jupyter,azure" />
+<img src="https://skillicons.dev/icons?i=python,vscode,github,git,figma,jupyter,azure,cursor,emergent,vibe coding" />
 </p>
 
 ### 🔥 Deep Learning
@@ -72,7 +72,7 @@
 ## 📊 My Pipeline Visual Feels 🔬
 
 <p align="center">
-<img src="https://media.giphy.com/media/cZ7rmKfFYOvYk/giphy.gif" width="300">
+<img src="https://media.giphy.com/media/jS4mD1O0gbI4E/giphy.gif" width="350">
 </p>
 
 ---
@@ -109,7 +109,7 @@
 ## 🌍 AI for Global Goals 🌱
 
 <p align="center">
-<img src="https://media.giphy.com/media/nNxT5qXR02FOM/giphy.gif" width="300">
+<img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="280">
 </p>
 
 - 🎯 AI for SDG-17
@@ -122,6 +122,14 @@
 - 🤝 Industry, Innovation, & Infrastructure
 
 ---
+
+## 🔬 Scientific Gifs for my AGI Lab
+
+<p align="center">
+<img src="https://media.giphy.com/media/QBd2kLB5qDmysEXre9/giphy.gif" width="260">
+<img src="https://media.giphy.com/media/ME2ytshDQQDr2/giphy.gif" width="260">
+<img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="260">
+</p>
 
 ## 🌐 Connect & Collaborate
 
@@ -160,7 +168,9 @@
 ---
 
 <p align="center">
-<img src="https://media.giphy.com/media/HoffxyN8ghVuw/giphy.gif" width="300">
+<p align="center">
+<img src="https://media.giphy.com/media/JQ5jyH4RzZNY9XCNjE/giphy.gif" width="320">
+</p>
 </p>
 
 [![Profile Views](https://visitcount.itsvg.in/api?id=inayatrahimdev&icon=0&color=5)](https://visitcount.itsvg.in)
