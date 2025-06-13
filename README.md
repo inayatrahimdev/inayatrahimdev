@@ -18,7 +18,8 @@
 - 🧬 **Bioinformatics & Genomics AI** – DNA/RNA transformers, Protein folding models  
 - ⚛️ **Physics-Informed ML & QML** – PINNs, Schrödinger, Quantum Circuits, Differential Learning  
 - 🌐 **Time Series & Forecasting** – Informer, PatchTST, Seasonal Transformers  
-- 🌍 **AI for SDGs & Climate** – Agriculture, Healthcare, Law, Energy, Defense, Education, Industry  
+- 🌍 **AI for SDGs & Climate** – Agriculture, Healthcare, Law, Energy, Defense, Education, Industry
+   
 
 ---
 
@@ -36,7 +37,10 @@
 | Signal Processing 📡| `scipy.signal`, `spectrogram`, `wavelet`, `STFT`                            |
 | Bioinformatics 🔬   | `AlphaFold`, `ProGen`, `BioBERT`, `GenomicsGPT`                             |
 | Physics AI ⚛️       | `PINNs`, `Neural ODEs`, `SchrodingerNet`, `QM9`                             |
-
+| 🔐 Cybersecurity  | `Wireshark`, `Nmap`, `Metasploit`, `Burp Suite`, `Snort`, `Maltrail`  |
+| 🧠 AI Fusion      | `transformers`, `langchain`, `YOLOv8`, `AlphaFold`, `BioBERT`, `PINNs` |
+| 🛰 Sat Image AI   | `SentinelHub`, `Rasterio`, `GDAL`, `Segment Anything`, `GeoTorch`      |
+| 🧬 Medical Imaging| `MONAI`, `TorchIO`, `SimpleITK`, `Nilearn`, `Skimage`, `Radiomics`     |
 ---
 
 ## 🔬 Scientific AGI Gifs Vibe
@@ -74,6 +78,7 @@
 | 🏭 Manufacturing  | Predictive Maintenance, Robotics AI                         |
 | 🎓 Education      | Personalized AI Tutors, Multimodal Learning                 |
 | 🛰️ Defense        | Satellite AI, Signal Processing, Surveillance AI            |
+
 
 ---
 
@@ -135,7 +140,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/xT0GqFzHjxRvd1vR4w/giphy.gif" width="300">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTRxZzgwYW5oajQ4aHQ2NXhtZTRzZzBnMzB6NGU0ZXlmOWhjOWlrOCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/TZf4ZyXb0lXXi/giphy.gif"
 </p>
 
 <!-- END -->
