@@ -48,7 +48,8 @@
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2Fva3hkaGJpc243N3NrMGVqdmMxb2IzajQ3NW12cW5rYWtyY3R2YyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/f5Xd8HMLyrBedfgNeE/giphy.gif" width="250">
   <img src="https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif" width="250">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdW5td2I1eWN2N2t6YW9uaDZkcXlsMjQyZW1yenB4NzJzYWQzd2xuayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/9WC8WTZsFxkRi/giphy.gif" width="250">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2pua3Nxc3I4ajdsdm9kM2JxMzBwMGlhc3NvODhleWprdWF4MWttbyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/oOylMv2oLDxcxGzYn6/giphy.gif"
+    width="250">
 </p>
 
 ---
@@ -137,10 +138,6 @@
   <a href="https://www.kaggle.com/inayatrahim">
     <img src="https://img.shields.io/badge/Kaggle-Inayat-blue?style=for-the-badge&logo=kaggle">
   </a>
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTRxZzgwYW5oajQ4aHQ2NXhtZTRzZzBnMzB6NGU0ZXlmOWhjOWlrOCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/TZf4ZyXb0lXXi/giphy.gif"
 </p>
 
 <!-- END -->
