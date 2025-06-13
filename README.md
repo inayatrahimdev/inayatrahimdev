@@ -88,7 +88,7 @@
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmw1ZDYwYWFzeWZwbTl5MWdyN2Z2bjU0azlyZXo2eTQ2cXRsZndqayZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/9rt26Vyi6UF7fPhugd/giphy.gif" width="250">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmw1ZDYwYWFzeWZwbTl5MWdyN2Z2bjU0azlyZXo2eTQ2cXRsZndqayZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/GrPgFtvyLlgElFiO7m/giphy.gif" width="250" title="Coding Vince Vibes">
-  <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="250" title="Cybersecurity 🔐">
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bnJuOGFxeXNsM3B3NjZ1MGxqYmx6bGF3YWV0MnMxdzVzbHY2OTdxMiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/IUNycHoVqvLDowiiam/giphy.gif" width="250" title="Cybersecurity 🔐">
 </p>
 
 - Information Theory: Entropy, KL-Divergence, Cross-Entropy  
