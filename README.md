@@ -1,12 +1,9 @@
 <!-- START -->
 
 <h1 align="center">🧠 Inayat's Next-Gen AI Universe 🚀</h1>
-
 <p align="center">
   <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="280">
 </p>
-
----
 
 ## ⚙️ My Intelligence Domains
 
@@ -20,8 +17,6 @@
 - 🌐 **Time Series & Forecasting** – Informer, PatchTST, Seasonal Transformers  
 - 🌍 **AI for SDGs & Climate** – Agriculture, Healthcare, Law, Energy, Defense, Education, Industry
    
-
----
 
 ## 💻 My Core AI Stacks
 
@@ -41,9 +36,49 @@
 | 🧠 AI Fusion      | `transformers`, `langchain`, `YOLOv8`, `AlphaFold`, `BioBERT`, `PINNs` |
 | 🛰 Sat Image AI   | `SentinelHub`, `Rasterio`, `GDAL`, `Segment Anything`, `GeoTorch`      |
 | 🧬 Medical Imaging| `MONAI`, `TorchIO`, `SimpleITK`, `Nilearn`, `Skimage`, `Radiomics`     |
----
 
----
+## Tech Stack
+<p align="center">
+  <img src="https://pytorch.org/assets/images/pytorch-logo.png" width="200">
+</p>
+<p align="center">
+  <img src="https://huggingface.co/front/assets/huggingface_logo.svg" width="200">
+</p>
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/110514384?s=200&v=4" width="200">
+</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/chroma-core/chroma/main/assets/logo.png" width="120">
+  <img src="https://raw.githubusercontent.com/facebookresearch/faiss/main/docs/FAISS_logo.png" width="120">
+  <img src="https://avatars.githubusercontent.com/u/62018076?s=200&v=4" width="120">
+  <img src="https://milvus.io/assets/milvus-logo-4e0b3659.png" width="120">
+</p>
+<p align="center">
+  <img src="https://github.com/microsoft/autogen/raw/main/docs/images/logo.png" width="200">
+  <img src="https://github.com/joaomdmoura/crewAI/raw/main/docs/assets/logo-light.png" width="200">
+</p>
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Cloud_computing_icon.svg" width="150">
+</p>
+<p align="center">
+  <img src="https://media.giphy.com/media/WtTnAfZn6aVJfK5W5t/giphy.gif" width="300">
+</p>
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/28/Bioinformatics_logo.png" width="220">
+</p>
+<p align="center">
+  <img src="https://media.giphy.com/media/d31w24psGYeekCZy/giphy.gif" width="260">
+</p>
+<p align="center">
+  <img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" width="300">
+</p>
+<p align="center">
+  <img src="https://sdgs.un.org/sites/default/files/2022-03/E_SDG_logo_without_UN_emblem_horizontal_RGB.png" width="400">
+</p>
+<p align="center">
+  <img src="https://i.imgur.com/I8YYjPz.png" width="1000">
+</p>
+
 
 ## 🔮 AI Architectures & Pipelines I'm Building
 
