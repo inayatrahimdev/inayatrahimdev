@@ -54,8 +54,6 @@
 - 🪐 Physics-Informed Multimodal Learning Architectures  
 - ⚡ Multimodal Fusion with Cloud GPU Stacks  
 
----
-
 ## 🌐 AI Applications Across Industries
 
 | 🌿 Domain         | 🚀 AI Solutions                                             |
@@ -72,23 +70,10 @@
 | 🛰️ Defense        | Satellite AI, Signal Processing, Surveillance AI            |
 
 
----
 
 ## 🧠 Core Brain 
-
 <p align="center">
   <img src="https://media.giphy.com/media/IUNycHoVqvLDowiiam/giphy.gif" width="500" alt="Neural Intelligence">
-</p>
-
-- Information Theory: Entropy, KL-Divergence, Cross-Entropy  
-- Gradient Descent, Backpropagation, Tensor Algebra  
-- Fourier Transforms, Wavelet Transforms, Signal Filtering  
-- Time Series Decomposition, Forecasting Models  
-- Optimization Theory: Convex & Non-Convex  
-- Dynamical Systems, ODEs, PDEs  
-
----
-
 ## 📊 GitHub Intelligence Metrics
 
 <p align="center">
