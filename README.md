@@ -86,8 +86,8 @@
 ## 🧠 Math of AGI (Core Brain 🔢)
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmw1ZDYwYWFzeWZwbTl5MWdyN2Z2bjU0azlyZXo2eTQ2cXRsZndqayZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/9rt26Vyi6UF7fPhugd/giphy.gif" width="250" title="Hacker Mode Activated">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTRxZzgwYW5oajQ4aHQ2NXhtZTRzZzBnMzB6NGU0ZXlmOWhjOWlrOCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/TZf4ZyXb0lXXi/giphy.gif" width="250" title="Coding Vince Vibes">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmw1ZDYwYWFzeWZwbTl5MWdyN2Z2bjU0azlyZXo2eTQ2cXRsZndqayZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/9rt26Vyi6UF7fPhugd/giphy.gif" width="250">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmw1ZDYwYWFzeWZwbTl5MWdyN2Z2bjU0azlyZXo2eTQ2cXRsZndqayZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/GrPgFtvyLlgElFiO7m/giphy.gif" width="250" title="Coding Vince Vibes">
   <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="250" title="Cybersecurity 🔐">
 </p>
 
