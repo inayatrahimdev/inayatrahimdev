@@ -86,7 +86,7 @@
 ## 🧠 Math of AGI (Core Brain 🔢)
 
 <p align="center">
-  <img src="https://media.giphy.com/media/9rt26Vyi6UF7fPhugd/giphy.gif" width="250" alt="Mathematics Visualization">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbG42dGZwZDgzbWl6ZWRwaXp4a25vc2J0Mnk1MmpqdWM1c2JuY3g2aiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/jTOpUrwDs3WIcB39JP/giphy.gif" width="250" alt="Mathematics Visualization">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXl4dWNtbXM5b2xpcDExODJycWgzNWducG41NXk4c3I3OGo2cWs2NyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/VP2F9tqaCmUarK7GrU/giphy.gif" width="250" alt="Neural Intelligence">
   <img src="https://media.giphy.com/media/IUNycHoVqvLDowiiam/giphy.gif" width="250" alt="Computational Brain">
 </p>
