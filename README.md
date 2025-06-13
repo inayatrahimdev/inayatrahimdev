@@ -84,6 +84,7 @@
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWJsbGNlaDRudWl5c2g5NXN4OWl5enFiM3V6eDRjdW5zaXY2c3A3YiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/QaXOeJInKqKY5JuRwM/giphy.gif" width="500">
 </p>
+
 - 🎯 AI for SDG-17 Goals  
 - 🌾 Agriculture  
 - 🌊 Clean Water  
