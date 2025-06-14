@@ -221,4 +221,55 @@
   <img src="https://matplotlib.org/stable/_static/images/logo2.svg" height="50" alt="Matplotlib">
 </p>
 
+## 🚀 AI Tech Stack 2025+
+
+<p align="center">
+
+<!-- Core Frameworks -->
+<a href="https://pytorch.org/"><img src="https://pytorch.org/assets/images/pytorch-logo.png" width="80" alt="PyTorch"/></a>
+<a href="https://www.tensorflow.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" width="80" alt="TensorFlow"/></a>
+<a href="https://jax.readthedocs.io/en/latest/"><img src="https://upload.wikimedia.org/wikipedia/commons/6/69/Jax_logo_2022.svg" width="80" alt="JAX"/></a>
+<a href="https://huggingface.co/"><img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="80" alt="Hugging Face"/></a>
+
+<!-- Frontier Labs -->
+<a href="https://openai.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/OpenAI_Logo.svg" width="80" alt="OpenAI"/></a>
+<a href="https://deepmind.google/"><img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/DeepMind_logo.png" width="80" alt="DeepMind"/></a>
+<a href="https://www.anthropic.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/5/5c/Anthropic_logo.svg" width="80" alt="Anthropic"/></a>
+<a href="https://x.ai/"><img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/XAI_logo.png" width="80" alt="xAI"/></a>
+
+<!-- Computer Vision -->
+<a href="https://openmmlab.com/"><img src="https://raw.githubusercontent.com/open-mmlab/mmclassification/main/resources/mmclassification-logo.png" width="80" alt="OpenMMLab"/></a>
+<a href="https://ultralytics.com/"><img src="https://github.com/ultralytics/assets/raw/main/icons/yolo-icon.png" width="80" alt="YOLO Ultralytics"/></a>
+<a href="https://segment-anything.com/"><img src="https://github.com/facebookresearch/segment-anything/raw/main/docs/assets/sam_logo.png" width="80" alt="Segment Anything"/></a>
+
+<!-- Audio & Speech -->
+<a href="https://openai.com/research/whisper"><img src="https://seeklogo.com/images/O/openai-whisper-logo-06405f728621da6d0e6b9f1db63f380a.png" width="80" alt="Whisper"/></a>
+<a href="https://github.com/suno-ai/bark"><img src="https://avatars.githubusercontent.com/u/123368380?s=200&v=4" width="80" alt="Bark"/></a>
+<a href="https://www.elevenlabs.io/"><img src="https://app.elevenlabs.io/favicons/favicon-96x96.png" width="80" alt="ElevenLabs"/></a>
+
+<!-- Agents & RAG -->
+<a href="https://www.langchain.com/"><img src="https://avatars.githubusercontent.com/u/113313223?s=200&v=4" width="80" alt="LangChain"/></a>
+<a href="https://www.llamaindex.ai/"><img src="https://avatars.githubusercontent.com/u/120031293?s=200&v=4" width="80" alt="LlamaIndex"/></a>
+<a href="https://github.com/Torantulino/Auto-GPT"><img src="https://avatars.githubusercontent.com/u/127232338?s=200&v=4" width="80" alt="AutoGPT"/></a>
+<a href="https://superagi.com/"><img src="https://avatars.githubusercontent.com/u/134624364?s=200&v=4" width="80" alt="SuperAGI"/></a>
+
+<!-- Vector Databases -->
+<a href="https://www.pinecone.io/"><img src="https://avatars.githubusercontent.com/u/68259440?s=200&v=4" width="80" alt="Pinecone"/></a>
+<a href="https://weaviate.io/"><img src="https://avatars.githubusercontent.com/u/55664893?s=200&v=4" width="80" alt="Weaviate"/></a>
+<a href="https://milvus.io/"><img src="https://milvus.io/images/logo.svg" width="80" alt="Milvus"/></a>
+<a href="https://qdrant.tech/"><img src="https://avatars.githubusercontent.com/u/90338621?s=200&v=4" width="80" alt="Qdrant"/></a>
+
+<!-- Generative AI -->
+<a href="https://stability.ai/"><img src="https://avatars.githubusercontent.com/u/110732033?s=200&v=4" width="80" alt="Stability AI"/></a>
+<a href="https://runwayml.com/"><img src="https://runwayml.com/favicon.ico" width="80" alt="Runway Gen AI"/></a>
+<a href="https://www.midjourney.com/"><img src="https://www.midjourney.com/favicon.ico" width="80" alt="Midjourney"/></a>
+
+<!-- Deployment & Experiment Tracking -->
+<a href="https://wandb.ai/"><img src="https://avatars.githubusercontent.com/u/25720743?s=200&v=4" width="80" alt="Weights & Biases"/></a>
+<a href="https://mlflow.org/"><img src="https://mlflow.org/docs/latest/_static/MLflow-logo-final-black.png" width="80" alt="MLFlow"/></a>
+<a href="https://bentoml.com/"><img src="https://bentoml.com/static/bento.8243e78c.png" width="80" alt="BentoML"/></a>
+
+</p>
+
+
 <!-- END -->
