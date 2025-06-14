@@ -180,6 +180,7 @@
 <div align="center">
   <img src="https://media.giphy.com/media/IUNycHoVqvLDowiiam/giphy.gif" width="400" alt="Neural Architecture">
 </div>
+
 ---
 ### 🚀 **Transformer Architectures Across All Data Types**
 
