@@ -68,18 +68,20 @@
 [![Transformers](https://img.shields.io/badge/🤗_Transformers-FFD21E?style=for-the-badge&labelColor=000)](https://huggingface.co/)
 [![DeepSpeed](https://img.shields.io/badge/DeepSpeed-00CED1?style=for-the-badge&labelColor=000)](https://www.deepspeed.ai/)
 [![Ray](https://img.shields.io/badge/Ray-00D4FF?style=for-the-badge&logo=ray&logoColor=white&labelColor=000)](https://ray.io/)
-https://onnx.ai/models/
-https://docs.ultralytics.com/models/
-https://platform.openmmlab.com/modelzoo/
-https://www.kaggle.com/models
-https://monai.io/model-zoo.html#/
-https://deepchem.io/
-https://modelscope.cn/models
-https://stability.ai/stable-3d
-https://huggingface.co/docs/diffusers/v0.9.0/en/index
-https://timm.fast.ai/
-https://segment-anything.com/
-https://github.com/coqui-ai/TTS
+[![ONNX Model Zoo](https://img.shields.io/badge/ONNX%20Model%20Zoo-005BBB?style=for-the-badge&logo=onnx&logoColor=white)](https://onnx.ai/models/)
+[![Ultralytics Model Zoo](https://img.shields.io/badge/Ultralytics%20YOLOv8-FE6F61?style=for-the-badge&logo=ultralytics&logoColor=white)](https://docs.ultralytics.com/models/)
+[![OpenMMLab Model Zoo](https://img.shields.io/badge/OpenMMLab%20Model%20Zoo-00599C?style=for-the-badge&logo=openmmlab&logoColor=white)](https://platform.openmmlab.com/modelzoo/)
+[![Kaggle Model Zoo](https://img.shields.io/badge/Kaggle%20Model%20Zoo-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/models)
+[![MONAI Model Zoo](https://img.shields.io/badge/MONAI%20Model%20Zoo-9C27B0?style=for-the-badge&logo=monai&logoColor=white)](https://monai.io/model-zoo.html#/)
+[![DeepChem](https://img.shields.io/badge/DeepChem-008080?style=for-the-badge&logo=deepchem&logoColor=white)](https://deepchem.io/)
+[![ModelScope](https://img.shields.io/badge/ModelScope-FF4C4C?style=for-the-badge&logo=modelscope&logoColor=white)](https://modelscope.cn/models)
+[![Stability AI Stable-3D](https://img.shields.io/badge/Stability%20AI%20Stable--3D-000000?style=for-the-badge&logo=stabilityai&logoColor=white)](https://stability.ai/stable-3d)
+[![HuggingFace Diffusers](https://img.shields.io/badge/HuggingFace%20Diffusers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=white)](https://huggingface.co/docs/diffusers/v0.9.0/en/index)
+[![timm (PyTorch Image Models)](https://img.shields.io/badge/timm%20(PyTorch%20Image%20Models)-FF9800?style=for-the-badge&logo=pytorch&logoColor=white)](https://timm.fast.ai/)
+[![Segment Anything (SAM)](https://img.shields.io/badge/Segment%20Anything%20(SAM)-008080?style=for-the-badge&logo=meta&logoColor=white)](https://segment-anything.com/)
+[![Coqui TTS Model Zoo](https://img.shields.io/badge/Coqui%20TTS%20Model%20Zoo-FF69B4?style=for-the-badge&logo=coqui&logoColor=white)](https://github.com/coqui-ai/TTS)
+
+---
 
 </div>
 
