@@ -179,6 +179,37 @@
     <img src="https://img.shields.io/badge/RT--DETR-008080?style=for-the-badge&logoColor=white" />
   </a>
 
+  <!-- PaddlePaddle -->
+<a href="https://github.com/PaddlePaddle">
+  <img src="https://img.shields.io/badge/PaddlePaddle-005BBB?style=for-the-badge&logo=Baidu&logoColor=white" />
+</a>
+
+<!-- OpenMMLab -->
+<a href="https://openmmlab.com/">
+  <img src="https://img.shields.io/badge/OpenMMLab-FF2400?style=for-the-badge&logo=OpenMMLab&logoColor=white" />
+</a>
+
+<!-- IDEA Research -->
+<a href="https://github.com/IDEA-Research">
+  <img src="https://img.shields.io/badge/IDEA--Research-FF6600?style=for-the-badge&logo=Lightbulb&logoColor=white" />
+</a>
+
+<!-- Tencent NCNN -->
+<a href="https://github.com/Tencent/ncnn">
+  <img src="https://img.shields.io/badge/Tencent--ncnn-0084FF?style=for-the-badge&logo=Tencent&logoColor=white" />
+</a>
+
+<!-- MegEngine -->
+<a href="https://github.com/MegEngine">
+  <img src="https://img.shields.io/badge/MegEngine-00C957?style=for-the-badge&logoColor=white" />
+</a>
+
+<!-- OpenGVLab -->
+<a href="https://github.com/OpenGVLab">
+  <img src="https://img.shields.io/badge/OpenGVLab-FF7F50?style=for-the-badge&logoColor=white" />
+</a>
+
+
   <!-- DiffusionDet -->
   <a href="https://github.com/ShoufaChen/DiffusionDet">
     <img src="https://img.shields.io/badge/DiffusionDet-FF00FF?style=for-the-badge&logoColor=white" />
