@@ -36,15 +36,28 @@
 
 ## 🛠️ AI Technology Stack 2025
 
-###  Core Frameworks
+### Core Frameworks
 <div align="center">
 
 [![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)](https://pytorch.org/)
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](https://tensorflow.org/)
 [![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)](https://keras.io/)
-[![Hugging Face](https://img.shields.io/badge/🤗_Hugging_Face-FFD21E?style=for-the-badge)](https://huggingface.co/)
 [![JAX](https://img.shields.io/badge/JAX-FF6347?style=for-the-badge&logo=jax&logoColor=white)](https://jax.readthedocs.io/)
-[![Lightning](https://img.shields.io/badge/Lightning-792EE5?style=for-the-badge&logo=pytorchlightning&logoColor=white)](https://lightning.ai/)
+[![Lightning AI](https://img.shields.io/badge/Lightning-792EE5?style=for-the-badge&logo=pytorchlightning&logoColor=white)](https://lightning.ai/)
+[![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge)](https://huggingface.co/)
+[![FastAI](https://img.shields.io/badge/FastAI-009688?style=for-the-badge&logo=fastapi&logoColor=white)](https://fast.ai/)
+[![DeepSpeed](https://img.shields.io/badge/DeepSpeed-CC0000?style=for-the-badge)](https://www.deepspeed.ai/)
+[![NVIDIA NeMo](https://img.shields.io/badge/NVIDIA%20NeMo-76B900?style=for-the-badge&logo=nvidia&logoColor=white)](https://developer.nvidia.com/nvidia-nemo)
+[![OpenMMLab](https://img.shields.io/badge/OpenMMLab-00599C?style=for-the-badge&logo=github&logoColor=white)](https://openmmlab.com/)
+[![Sklearn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
+[![XGBoost](https://img.shields.io/badge/XGBoost-0D76A8?style=for-the-badge)](https://xgboost.ai/)
+[![CatBoost](https://img.shields.io/badge/CatBoost-FFCC00?style=for-the-badge&logo=cat&logoColor=black)](https://catboost.ai/)
+[![LightGBM](https://img.shields.io/badge/LightGBM-2C7BB6?style=for-the-badge)](https://lightgbm.readthedocs.io/)
+[![Optuna](https://img.shields.io/badge/Optuna-0099CC?style=for-the-badge)](https://optuna.org/)
+[![Weights & Biases](https://img.shields.io/badge/W&B-FFBE00?style=for-the-badge&logo=wandb&logoColor=white)](https://wandb.ai/)
+
+</div>
+
 
 </div>
 
