@@ -293,6 +293,10 @@
 ---
 
 ### 🌍 AI FOR GLOBAL IMPACT & SUSTAINABLE DEVELOPMENT
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=800&color=00FF00&width=1000&center=true&vCenter=true&lines=AI+FOR+GLOBAL+IMPACT+%26+SUSTAINABLE+DEVELOPMENT;Green+AI+for+Climate+and+Future;Zero+Carbon+Sustainable+Technologies;Building+an+Earth-Safe+AI+Future" alt="Typing SVG Green Sustainable" />
+</h3>
+
 
 <!-- 🌍 AI FOR GLOBAL IMPACT & SUSTAINABLE DEVELOPMENT -->
 
