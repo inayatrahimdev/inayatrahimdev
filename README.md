@@ -20,7 +20,7 @@
 
 
 <div align="center">
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="300" alt="AI Brain Animation">
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="500" alt="AI Brain Animation">
 </div>
 
 ---
