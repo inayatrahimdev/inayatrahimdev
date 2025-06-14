@@ -68,6 +68,54 @@
 | 🏭 Manufacturing  | Predictive Maintenance, Robotics AI                         |
 | 🎓 Education      | Personalized AI Tutors, Multimodal Learning                 |
 | 🛰️ Defense        | Satellite AI, Signal Processing, Surveillance AI            |
+
+### 🔥 Deep Learning Frameworks
+<p align="center">
+  <img src="https://pytorch.org/assets/images/pytorch-logo.png" height="50">
+  <img src="https://www.tensorflow.org/images/tf_logo_social.png" height="50">
+  <img src="https://keras.io/img/logo.png" height="50">
+</p>
+
+### 🤗 NLP & Transformers
+<p align="center">
+  <img src="https://huggingface.co/front/assets/huggingface_logo.svg" height="50">
+  <img src="https://spacy.io/assets/img/logo.svg" height="50">
+  <img src="https://nltk.org/_static/nltk_logo.png" height="50">
+</p>
+
+### 🗄️ Vector Databases
+<p align="center">
+  <img src="https://chromadb.github.io/assets/chroma-logo.png" height="40">
+  <img src="https://milvus.io/logo.svg" height="40">
+  <img src="https://weaviate.io/assets/images/weaviate-logo-light-bg.svg" height="40">
+</p>
+
+### 👁️ Computer Vision
+<p align="center">
+  <img src="https://opencv.org/wp-content/uploads/2020/07/OpenCV_logo_black.png" height="50">
+  <img src="https://ultralytics.com/images/logo.png" height="50">
+  <img src="https://segment-anything.com/logo.svg" height="50">
+</p>
+
+### 🎙️ Audio Processing
+<p align="center">
+  <img src="https://whisper.audio/whisper-logo.svg" height="50">
+  <img src="https://github.com/coqui-ai/TTS/raw/main/images/coqui-logotype-TTS.png" height="40">
+  <img src="https://github.com/RVC-Project/Retrieval-based-Voice-Conversion-WebUI/raw/main/img/logo.png" height="50">
+</p>
+
+### 📈 Time Series
+<p align="center">
+  <img src="https://www.statsmodels.org/stable/_images/statsmodels-logo-v2.svg" height="50">
+  <img src="https://facebook.github.io/prophet/static/logo.png" height="50">
+</p>
+
+### 🧬 Bioinformatics
+<p align="center">
+  <img src="https://alphafold.ebi.ac.uk/img/alphafold-logo.png" height="50">
+  <img src="https://www.biobert.org/static/images/biobert_logo.png" height="50">
+</p>
+
 ## 🧠 Core Brain 
 <p align="text-align:center">
   <img src="https://media.giphy.com/media/IUNycHoVqvLDowiiam/giphy.gif" width="500" alt="Neural Intelligence">
