@@ -318,10 +318,6 @@
 </h2>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="400" alt="Achievement Animation" />
-</p>
-
-<p align="center">
   <a href="https://kaggle.com/inayatrahim">
     <img src="https://img.shields.io/badge/Kaggle-Expert-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white">
   </a>
@@ -341,10 +337,6 @@
 <h2 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=00D4FF&width=1000&lines=🌐+CONNECT+%26+COLLABORATE" alt="Typing SVG Connect" />
 </h2>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/l4FGJ7TYF7rwlT3nS/giphy.gif" width="400" alt="Collaboration Animation" />
-</p>
 
 <p align="center">
   <a href="https://linkedin.com/in/inayat-rahim-b0655b29b/">
@@ -368,7 +360,7 @@
 </h2>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/l2SpP3lBuAFs7z2rm/giphy.gif" width="400" alt="Innovation Animation" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy" width="400" alt="Innovation Animation" />
 </p>
 
 ---
