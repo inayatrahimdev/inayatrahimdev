@@ -179,9 +179,6 @@
 </div>
 
 ---
-
-## 🧪 Advanced AI Architectures I'm Building
-
 <div align="center">
   <img src="https://media.giphy.com/media/IUNycHoVqvLDowiiam/giphy.gif" width="400" alt="Neural Architecture">
 </div>
