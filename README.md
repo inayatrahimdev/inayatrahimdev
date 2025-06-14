@@ -233,9 +233,9 @@
 
 ## 🌍 AI for Global Impact & SDGs
 
-<div align="center">
-  <img src="https://media.giphy.com/media/l0HlQoLBOXdUPKf2U/giphy.gif" width="400" alt="Global AI Impact">
-</div>
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWJsbGNlaDRudWl5c2g5NXN4OWl5enFiM3V6eDRjdW5zaXY2c3A3YiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/QaXOeJInKqKY5JuRwM/giphy.gif" width="500">
+</p>
 
 | 🌿 **Domain** | 🚀 **AI Solutions** | 🎯 **SDG Impact** |
 |:---:|:---:|:---:|
@@ -261,14 +261,6 @@
 
 ---
 
-## 🚀 Featured AI Projects
-
-<div align="center">
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=inayatrahimdev&repo=multimodal-ai&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF)](https://github.com/inayatrahimdev/multimodal-ai)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=inayatrahimdev&repo=genomics-transformers&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF)](https://github.com/inayatrahimdev/genomics-transformers)
-
-</div>
 
 ---
 
