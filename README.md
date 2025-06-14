@@ -63,11 +63,11 @@
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](https://tensorflow.org/)
 [![JAX](https://img.shields.io/badge/JAX-FF6347?style=for-the-badge&logo=jax&logoColor=white)](https://jax.readthedocs.io/)
 [![Lightning AI](https://img.shields.io/badge/Lightning-792EE5?style=for-the-badge&logo=pytorchlightning&logoColor=white)](https://lightning.ai/)
-[![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge)](https://huggingface.co/)
-[![DeepSpeed](https://img.shields.io/badge/DeepSpeed-CC0000?style=for-the-badge)](https://www.deepspeed.ai/)
 [![NVIDIA NeMo](https://img.shields.io/badge/NVIDIA%20NeMo-76B900?style=for-the-badge&logo=nvidia&logoColor=white)](https://developer.nvidia.com/nvidia-nemo)
 [![OpenMMLab](https://img.shields.io/badge/OpenMMLab-00599C?style=for-the-badge&logo=github&logoColor=white)](https://openmmlab.com/)
-
+[![Transformers](https://img.shields.io/badge/🤗_Transformers-FFD21E?style=for-the-badge&labelColor=000)](https://huggingface.co/)
+[![DeepSpeed](https://img.shields.io/badge/DeepSpeed-00CED1?style=for-the-badge&labelColor=000)](https://www.deepspeed.ai/)
+[![Ray](https://img.shields.io/badge/Ray-00D4FF?style=for-the-badge&logo=ray&logoColor=white&labelColor=000)](https://ray.io/)
 </div>
 
 ### 🤖 Advanced LLM & Agent Orchestration
