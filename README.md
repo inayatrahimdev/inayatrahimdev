@@ -1,4 +1,10 @@
-#  Inayat RAHIM's Next-Gen AI Universe 
+<div align="center">
+
+  <!-- Advanced Typing SVG -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=900&size=28&duration=3000&pause=1000&color=0FF6F6&center=true&vCenter=true&width=800&height=100&lines=🚀+Inayat+RAHIM's+Next-Gen+AI+Universe;🌐+Building+Future+Intelligence;🔥+AGI+%7C+ASI+%7C+Multimodal+Mastery;🎯+Agentic+AI+%7C+RAG+%7C+Healthcare+AI+%7C+Physics+AI;💡+Bioinformatics+%7C+NeuroAI+%7C+Quantum+ML" alt="Typing SVG" />
+
+</div>
+
 
 <div align="center">
 
