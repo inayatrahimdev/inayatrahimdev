@@ -134,10 +134,6 @@
 ### 👁️ Computer Vision
 <div align="center">
 
-## 🚀 2099 Computer Vision Tech Stack
-
-<p align="center">
-
   <!-- MMDetection -->
   <a href="https://github.com/open-mmlab/mmdetection">
     <img src="https://img.shields.io/badge/MMDetection-FF6F61?style=for-the-badge&logo=OpenMMLab&logoColor=white" />
