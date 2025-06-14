@@ -86,27 +86,10 @@
 
 <h2 align="center">⚡ VIBE CODING TECH STACK ⚡</h2>
 <p align="center">
-  <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="48" height="48" alt="Hugging Face"/>
-  <img src="https://raw.githubusercontent.com/lobehub/icons/main/svg/cursor.svg" width="48" height="48" alt="Cursor AI"/>
-  <img src="https://raw.githubusercontent.com/emergent-sh/assets/main/logo.svg" width="48" height="48" alt="Emergent.sh"/>
-  <img src="https://raw.githubusercontent.com/boltai/bolt-logo/main/bolt.svg" width="48" height="48" alt="Bolt AI"/>
-  <img src="https://raw.githubusercontent.com/windsurff-ai/logo/main/windsurff.svg" width="48" height="48" alt="Windsurff AI"/>
-  <img src="https://raw.githubusercontent.com/SuperAGI-org/SuperAGI/main/resources/icon.png" width="48" height="48" alt="SuperAGI"/>
-  <img src="https://avatars.githubusercontent.com/u/129570812?s=200&v=4" width="48" height="48" alt="Flowise"/>
-  <img src="https://avatars.githubusercontent.com/u/122250100?s=200&v=4" width="48" height="48" alt="Chainlit"/>
-  <img src="https://avatars.githubusercontent.com/u/101428252?s=200&v=4" width="48" height="48" alt="Pinecone"/>
-  <img src="https://avatars.githubusercontent.com/u/90573917?s=200&v=4" width="48" height="48" alt="Weaviate"/>
-  <img src="https://avatars.githubusercontent.com/u/112506027?s=200&v=4" width="48" height="48" alt="Chroma DB"/>
-  <img src="https://avatars.githubusercontent.com/u/2009931?s=200&v=4" width="48" height="48" alt="Redis Vector"/>
-  <img src="https://avatars.githubusercontent.com/u/81143899?s=200&v=4" width="48" height="48" alt="LangChain"/>
-  <img src="https://avatars.githubusercontent.com/u/97234929?s=200&v=4" width="48" height="48" alt="AutoGen"/>
-  <img src="https://avatars.githubusercontent.com/u/125621014?s=200&v=4" width="48" height="48" alt="AgentOps"/>
-  <img src="https://avatars.githubusercontent.com/u/74970919?s=200&v=4" width="48" height="48" alt="Coreweave"/>
-  <img src="https://avatars.githubusercontent.com/u/65093211?s=200&v=4" width="48" height="48" alt="Lambda Labs"/>
-  <img src="https://avatars.githubusercontent.com/u/89392433?s=200&v=4" width="48" height="48" alt="Modal Labs"/>
-  <img src="https://avatars.githubusercontent.com/u/79001580?s=200&v=4" width="48" height="48" alt="Replicate"/>
-</p>
-
+[![Cursor AI](https://img.shields.io/badge/Cursor_AI-000000?style=for-the-badge)](https://www.cursor.so/)
+  [![Bolt AI](https://img.shields.io/badge/Bolt_AI-FF6B35?style=for-the-badge)](https://boltai.xyz/) 
+  [![Emergent.sh](https://img.shields.io/badge/Emergent.sh-4169E1?style=for-the-badge)](https://emergent.sh/)
+  [![Windsurf AI](https://img.shields.io/badge/Windsurf_AI-00D4FF?style=for-the-badge)](https://windsurf.ai/)
 
 
 ### 👁️ Computer Vision
