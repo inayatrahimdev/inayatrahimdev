@@ -69,39 +69,41 @@
 | 🎓 Education      | Personalized AI Tutors, Multimodal Learning                 |
 | 🛰️ Defense        | Satellite AI, Signal Processing, Surveillance AI            |
 
+## 💻 My AI/ML Stacks
+
 ### 🔥 Deep Learning Frameworks
 <p align="center">
-  <img src="https://pytorch.org/assets/images/pytorch-logo.png" height="50">
-  <img src="https://www.tensorflow.org/images/tf_logo_social.png" height="50">
-  <img src="https://keras.io/img/logo.png" height="50">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" height="50" alt="TensorFlow">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" height="50" alt="Keras">
+  <img src="https://pytorch.org/assets/images/pytorch-logo.png" height="50" alt="PyTorch">
 </p>
 
 ### 🤗 NLP & Transformers
 <p align="center">
-  <img src="https://huggingface.co/front/assets/huggingface_logo.svg" height="50">
-  <img src="https://spacy.io/assets/img/logo.svg" height="50">
-  <img src="https://nltk.org/_static/nltk_logo.png" height="50">
+  <img src="https://huggingface.co/front/assets/huggingface_logo.svg" height="50" alt="HuggingFace">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Spark NLP_logo.png/320px-Spark_NLP_logo.png" height="50" alt="SparkNLP">
+  <img src="https://spacy.io/assets/img/logo.svg" height="50" alt="spaCy">
 </p>
 
 ### 🗄️ Vector Databases
 <p align="center">
-  <img src="https://chromadb.github.io/assets/chroma-logo.png" height="40">
-  <img src="https://milvus.io/logo.svg" height="40">
-  <img src="https://weaviate.io/assets/images/weaviate-logo-light-bg.svg" height="40">
+  <img src="https://chromadb.github.io/assets/chroma-logo.png" height="40" alt="ChromaDB">
+  <img src="https://milvus.io/logo.svg" height="40" alt="Milvus">
+  <img src="https://weaviate.io/assets/images/weaviate-logo-light-bg.svg" height="40" alt="Weaviate">
 </p>
 
 ### 👁️ Computer Vision
 <p align="center">
-  <img src="https://opencv.org/wp-content/uploads/2020/07/OpenCV_logo_black.png" height="50">
-  <img src="https://ultralytics.com/images/logo.png" height="50">
-  <img src="https://segment-anything.com/logo.svg" height="50">
+  <img src="https://opencv.org/wp-content/uploads/2020/07/OpenCV_logo_black.png" height="50" alt="OpenCV">
+  <img src="https://ultralytics.com/images/logo.png" height="50" alt="YOLO">
+  <img src="https://segment-anything.com/logo.svg" height="50" alt="SAM">
 </p>
 
 ### 🎙️ Audio Processing
 <p align="center">
-  <img src="https://whisper.audio/whisper-logo.svg" height="50">
-  <img src="https://github.com/coqui-ai/TTS/raw/main/images/coqui-logotype-TTS.png" height="40">
-  <img src="https://github.com/RVC-Project/Retrieval-based-Voice-Conversion-WebUI/raw/main/img/logo.png" height="50">
+  <img src="https://whisper.audio/whisper-logo.svg" height="50" alt="Whisper">
+  <img src="https://github.com/coqui-ai/TTS/raw/main/images/coqui-logotype-TTS.png" height="40" alt="CoquiTTS">
+  <img src="https://github.com/RVC-Project/Retrieval-based-Voice-Conversion-WebUI/raw/main/img/logo.png" height="50" alt="RVC">
 </p>
 
 ### 📈 Time Series
