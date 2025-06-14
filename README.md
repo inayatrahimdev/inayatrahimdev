@@ -322,6 +322,7 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=800&size=24&duration=3000&pause=1500&color=20BEFF,FF9900,FF6B6B&center=true&vCenter=true&width=900&lines=🏆+AI+EXCELLENCE+&+GLOBAL+RECOGNITION;⚡+Kaggle+Expert+%7C+Google+AI+Certified+%7C+AWS+ML+Specialty;🔬+5%2B+Research+Papers+Driving+AI+Innovation" alt="Achievements Header" />
 </div>
+
 <div align="center">
   [![Kaggle](https://img.shields.io/badge/Kaggle-Expert-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/inayatrahim)
   [![Google Developer](https://img.shields.io/badge/Google_AI-Certified-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://developers.google.com/)
@@ -332,7 +333,9 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=1200&color=0A66C2,1DA1F2,20BEFF&center=true&vCenter=true&width=850&lines=🌐+CONNECT+&+COLLABORATE+WITH+INAYAT+RAHIM;⚡+Join+the+AI+Revolution+for+Global+Impact;🔮+Let’s+Build+Tomorrow’s+Intelligence+Together" alt="Connect Header" />
 </div>
+
 <div align="center">
+  
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Inayat_RAHIM-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/inayat-rahim-b0655b29b/)
   [![Email](https://img.shields.io/badge/Email-inayatrahim006@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:inayatrahim006@gmail.com)
   [![Kaggle](https://img.shields.io/badge/Kaggle-inayatrahim-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/inayatrahim)
@@ -340,6 +343,7 @@
 </div>
 
 <div align="center">
+  
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=26&duration=3200&pause=1400&color=00FF7F,FF00FF,FFFF00&center=true&vCenter=true&width=900&lines=🌟+BUILDING+AI+THAT+TRANSFORMS+TOMORROW%2C+TODAY!;⚡+POWERED+BY+INNOVATION+%7C+DRIVEN+BY+AI;🔮+COMMITTED+TO+GLOBAL+IMPACT" alt="Innovation Header" />
   <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="300" alt="Innovation">
   <img src="https://komarev.com/ghpvc/?username=inayatrahimdev&color=00D4FF&style=for-the-badge&label=Profile+Views" alt="Profile Views"/>
