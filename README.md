@@ -1,4 +1,4 @@
-# 🧠 Inayat RAHIM's Next-Gen AI Universe 🚀
+#  Inayat RAHIM's Next-Gen AI Universe 
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=AI+Engineer+%26+Researcher;Multi-Agent+Systems+Expert;Deep+Learning+Innovator;Building+the+Future+with+AI" alt="Typing SVG" />
@@ -14,7 +14,7 @@
 
 <div align="center">
 
-| 🧠 **Cognitive AI** | 🔬 **Research Focus** | 🌍 **Impact Areas** |
+| **Cognitive AI** | 🔬 **Research Focus** | 🌍 **Impact Areas** |
 |:---:|:---:|:---:|
 | Multi-Agent Systems | Fine-Tuning & RLHF | Healthcare & Genomics |
 | RAG Architectures | Physics-Informed ML | Climate & Sustainability |
@@ -22,8 +22,8 @@
 
 </div>
 
-### 🚀 Core Expertise
-- 🧠 **Agentic AI & Cognitive Architectures** – Multi-agent systems, decision reasoning, world models  
+###  Core Expertise
+-  **Agentic AI & Cognitive Architectures** – Multi-agent systems, decision reasoning, world models  
 - 🔎 **Retrieval Augmented Generation (RAG)** – Vector DBs, hybrid search, augmented memory  
 - 🔬 **Fine-Tuning Stacks** – PEFT, LoRA, QLoRA, SFT, RLHF, DPO  
 - 🔭 **Multimodal Deep Learning** – Vision, Audio, Signals, Spatial Data, Video  
@@ -36,7 +36,7 @@
 
 ## 🛠️ AI Technology Stack 2025
 
-### 🔥 Core Frameworks
+###  Core Frameworks
 <div align="center">
 
 [![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)](https://pytorch.org/)
@@ -60,7 +60,7 @@
 
 </div>
 
-### 🧠 Advanced Transformers & LLMs
+### Advanced Transformers & LLMs
 <div align="center">
 
 [![GPT-4](https://img.shields.io/badge/GPT--4-412991?style=for-the-badge&logo=openai&logoColor=white)](https://openai.com/)
@@ -85,7 +85,7 @@
 
 </div>
 
-### ⚡ VIBE CODING TECH STACK ⚡
+###  VIBE CODING TECH STACK 
 
 <p align="center">
   <a href="https://www.cursor.so/">
@@ -205,10 +205,10 @@
 </div>
 
 ---
-### 🚀 **Transformer Architectures Across All Data Types**
+### **Transformer Architectures Across All Data Types**
 
 #### 📝 **Sequential Data Transformers**
-- 🧠 **GPT-4, BERT, T5** → Natural Language Processing
+-  **GPT-4, BERT, T5** → Natural Language Processing
 - 📈 **Time Series Transformers (TST)** → Stock, weather, sensor forecasting  
 - 🎵 **Informer, Autoformer, FEDformer** → Long-term sequence prediction
 - 🎙️ **Wav2Vec, Whisper** → Speech-to-text, audio understanding
@@ -224,8 +224,8 @@
 
 #### 📡 **Signal Processing Transformers**
 - 🌊 **WaveNet Transformers** → Audio waveform synthesis
-- ⚡ **S4 (State Space Models)** → Long-range signal dependencies
-- 🧠 **EEG-BERT, ECG-Transformers** → Biomedical signal analysis
+-  **S4 (State Space Models)** → Long-range signal dependencies
+-  **EEG-BERT, ECG-Transformers** → Biomedical signal analysis
 - 🛡️ **RadarFormer, SonarFormer** → Defense signal processing
 
 #### 🧬 **Bioinformatics Transformers**
@@ -239,7 +239,7 @@
 - 🔄 **Perceiver IO** → Universal multi-modal architecture
 
 ### 🏗️ **My Current AI Pipeline Architectures**
-- 🧠 **Multi-Agent LLM Orchestration** with RAG + RLHF + MCP Protocol
+-  **Multi-Agent LLM Orchestration** with RAG + RLHF + MCP Protocol
 - 🔄 **Cognitive AI Loops** & Hierarchical Reasoning Systems  
 - 🛰 **Multimodal Fusion Pipelines** (Vision + NLP + Audio + Signals)  
 - 🧬 **Genomics Transformers** with Protein Folding Integration  
@@ -256,7 +256,7 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWJsbGNlaDRudWl5c2g5NXN4OWl5enFiM3V6eDRjdW5zaXY2c3A3YiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/QaXOeJInKqKY5JuRwM/giphy.gif" width="500">
 </p>
 
-| 🌿 **Domain** | 🚀 **AI Solutions** | 🎯 **SDG Impact** |
+| 🌿 **Domain** |  **AI Solutions** | 🎯 **SDG Impact** |
 |:---:|:---:|:---:|
 | 🌾 **Agriculture** | Crop Disease Detection, Yield Prediction | SDG 2: Zero Hunger |
 | 🏥 **Healthcare** | Medical Imaging, Drug Discovery, Genomics | SDG 3: Good Health |
@@ -320,5 +320,5 @@
 ---
 
 <div align="center">
-  <sub>🚀 Powered by Innovation | 🧠 Driven by AI | 🌍 Committed to Global Impact</sub>
+  <sub> Powered by Innovation | Driven by AI | 🌍 Committed to Global Impact</sub>
 </div>
