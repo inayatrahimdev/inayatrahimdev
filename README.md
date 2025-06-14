@@ -289,17 +289,18 @@
 
 ---
 
-## 🌍 AI FOR GLOBAL IMPACT & SUSTAINABLE DEVELOPMENT
+<!-- 🌍 AI FOR GLOBAL IMPACT & SUSTAINABLE DEVELOPMENT -->
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=800&size=24&duration=2800&pause=1600&color=32CD32,FF6347,00BFFF&center=true&vCenter=true&width=900&lines=🌍+AI+FOR+A+SUSTAINABLE+FUTURE+🌍;⚡+EMPOWERING+GLOBAL+SOLUTIONS+⚡;🔮+TRANSFORMING+LIVES+WITH+INTELLIGENCE+🔮" alt="Impact Header" />
-</div>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=00D4FF&width=1000&lines=🌍+AI+FOR+GLOBAL+IMPACT+%26+SUSTAINABLE+DEVELOPMENT;⚙️+Next-Gen+Transformative+Intelligence;🚀+Empowering+the+Future+with+AI" alt="Typing SVG" />
+</h1>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWJsbGNlaDRudWl5c2g5NXN4OWl5enFiM3V6eDRjdW5zaXY2c3A3YiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/QaXOeJInKqKY5JuRwM/giphy.gif" width="500" alt="Global Impact Animation">
-</div>
+<p align="center">
+  <img src="https://media.giphy.com/media/MDJ9IbxxvDUQM/giphy.gif" width="400" alt="Global Impact Animation" />
+</p>
 
-<div align="center">
+---
+
 | 🌿 **Domain** | 🤖 **AI Solutions** | 🔬 **Key Technologies** | 🎯 **SDG Impact** |
 |:---:|:---:|:---:|:---:|
 | 🌾 **Agriculture** | Crop Disease Detection, Precision Farming | Vision Transformers, Multi-Agent Systems | SDG 2: Zero Hunger |
@@ -309,52 +310,76 @@
 | 🎓 **Education** | Adaptive Learning, AI Tutors | Multimodal LLMs, RAG | SDG 4: Quality Education |
 | 🚀 **Space** | Autonomous Exploration, Satellite Analysis | Multi-Agent Swarms, SATViT | SDG 9: Industry & Innovation |
 | 🌆 **Urban Systems** | Smart Cities, Traffic Optimization | Graph Neural Networks, Multimodal Fusion | SDG 11: Sustainable Cities |
-</div>
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=1500&color=00FF7F,FF4500,1E90FF&center=true&vCenter=true&width=850&lines=🌐+COLLABORATING+FOR+A+BETTER+TOMORROW;⚡+AI-DRIVEN+SOLUTIONS+FOR+GLOBAL+CHALLENGES;🔮+COMMITTED+TO+SUSTAINABLE+DEVELOPMENT" alt="Closing Typing" />
-</div>
 
 ---
 
-## 🏆 AI Achievements & Recognition
+<h2 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=FFD700&width=1000&lines=🏆+AI+ACHIEVEMENTS+%26+RECOGNITION" alt="Typing SVG Achievements" />
+</h2>
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=800&size=24&duration=3000&pause=1500&color=20BEFF,FF9900,FF6B6B&center=true&vCenter=true&width=900&lines=🏆+AI+EXCELLENCE+&+GLOBAL+RECOGNITION;⚡+Kaggle+Expert+%7C+Google+AI+Certified+%7C+AWS+ML+Specialty;🔬+5%2B+Research+Papers+Driving+AI+Innovation" alt="Achievements Header" />
-  <br>
-  <img src="https://media.giphy.com/media/l0Iyl55kTehV9nhJe/giphy.gif" width="400" alt="Achievement Animation">
-  <br>
-  [![Kaggle](https://img.shields.io/badge/Kaggle-Expert-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/inayatrahim)
-  [![Google Developer](https://img.shields.io/badge/Google_AI-Certified-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://developers.google.com/)
-  [![AWS ML](https://img.shields.io/badge/AWS-ML_Specialty-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
-  [![Papers](https://img.shields.io/badge/Research_Papers-5+-FF6B6B?style=for-the-badge&logo=academia&logoColor=white)](https://scholar.google.com/)
-</div>
+<p align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="400" alt="Achievement Animation" />
+</p>
 
----
-
-## 🌐 Connect & Collaborate
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=1200&color=0A66C2,1DA1F2,20BEFF&center=true&vCenter=true&width=850&lines=🌐+CONNECT+&+COLLABORATE+WITH+INAYAT+RAHIM;⚡+Join+the+AI+Revolution+for+Global+Impact;🔮+Let’s+Build+Tomorrow’s+Intelligence+Together" alt="Connect Header" />
-  <br>
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Collaboration Animation">
-  <br>
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Inayat_RAHIM-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/inayat-rahim-b0655b29b/)
-  [![Email](https://img.shields.io/badge/Email-inayatrahim006@gmail.com-D14836?style-for-the-badge&logo=gmail&logoColor=white)](mailto:inayatrahim006@gmail.com)
-  [![Kaggle](https://img.shields.io/badge/Kaggle-inayatrahim-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/inayatrahim)
-  [![Twitter](https://img.shields.io/badge/Twitter-@InayatAI-1DA1F2?style-for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/InayatAI)
-</div>
+<p align="center">
+  <a href="https://kaggle.com/inayatrahim">
+    <img src="https://img.shields.io/badge/Kaggle-Expert-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white">
+  </a>
+  <a href="https://developers.google.com/">
+    <img src="https://img.shields.io/badge/Google_AI-Certified-4285F4?style=for-the-badge&logo=google&logoColor=white">
+  </a>
+  <a href="https://aws.amazon.com/">
+    <img src="https://img.shields.io/badge/AWS-ML_Specialty-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white">
+  </a>
+  <a href="https://scholar.google.com/">
+    <img src="https://img.shields.io/badge/Research_Papers-5+-FF6B6B?style=for-the-badge&logo=academia&logoColor=white">
+  </a>
+</p>
 
 ---
 
-## 🌟 Innovation
+<h2 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=00D4FF&width=1000&lines=🌐+CONNECT+%26+COLLABORATE" alt="Typing SVG Connect" />
+</h2>
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=26&duration=3200&pause=1400&color=00FF7F,FF00FF,FFFF00&center=true&vCenter=true&width=900&lines=🌟+BUILDING+AI+THAT+TRANSFORMS+TOMORROW%2C+TODAY!;⚡+POWERED+BY+INNOVATION+%7C+DRIVEN+BY+AI;🔮+COMMITTED+TO+GLOBAL+IMPACT" alt="Innovation Header" />
-  <br>
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="300" alt="Innovation Animation">
-  <br>
-  <img src="https://komarev.com/ghpvc/?username=inayatrahimdev&color=00D4FF&style=for-the-badge&label=Profile+Views" alt="Profile Views"/>
-  <br>
-  <sub> Powered by Innovation | Driven by AI | 🌍 Committed to Global Impact</sub>
-</div>
+<p align="center">
+  <img src="https://media.giphy.com/media/l4FGJ7TYF7rwlT3nS/giphy.gif" width="400" alt="Collaboration Animation" />
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/inayat-rahim-b0655b29b/">
+    <img src="https://img.shields.io/badge/LinkedIn-Inayat_RAHIM-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="mailto:inayatrahim006@gmail.com">
+    <img src="https://img.shields.io/badge/Email-inayatrahim006@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://kaggle.com/inayatrahim">
+    <img src="https://img.shields.io/badge/Kaggle-inayatrahim-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white">
+  </a>
+  <a href="https://twitter.com/InayatAI">
+    <img src="https://img.shields.io/badge/Twitter-@InayatAI-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
+  </a>
+</p>
+
+---
+
+<h2 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=FF1493&width=1000&lines=🌟+INNOVATION+ZONE" alt="Typing SVG Innovation" />
+</h2>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/l2SpP3lBuAFs7z2rm/giphy.gif" width="400" alt="Innovation Animation" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=inayatrahimdev&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views"/>
+</p>
+
+<p align="center"><b>🚀 Powered by Innovation | Driven by AI | 🌍 Committed to Global Impact</b></p>
+
+
+
+
+
