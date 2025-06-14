@@ -356,8 +356,9 @@
 ---
 
 <h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=FF1493&width=1000&lines=🌟+INNOVATION+ZONE" alt="Typing SVG Innovation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1200&color=FF1493&width=1000&center=true&vCenter=true&lines=🌟+INNOVATION+ZONE;🚀+FUTURE+LABS;🤖+AI+RESEARCH+CORE;🧠+AGENTIC+AI+HUB;💡+CREATING+NEXT-GEN+SYSTEMS;🔬+DEEP+LEARNING+UNIVERSE;🌐+GLOBAL+IMPACT+ENGINE" alt="Typing SVG Innovation" />
 </h2>
+
 
   <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="Innovation GIF" />
