@@ -1,4 +1,7 @@
-# 🌟 ULTIMATE NEXT-GEN GITHUB README 🌟
+<h2 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=800&color=00FEEF&width=1000&center=true&vCenter=true&lines=🌟+ULTIMATE+NEXT-GEN+GITHUB+README+🌟&duration=3000" alt="Typing SVG Ultimate" />
+</h2>
+
 
 <div align="center">
 
