@@ -363,8 +363,6 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="Innovation GIF" />
 </p>
 
----
-
 <div align="center">
 
   <!-- Profile Views Badge -->
@@ -376,7 +374,10 @@
   <!-- Typing SVG Footer -->
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1500&color=00FFAA&width=1000&center=true&vCenter=true&lines=🚀+Powered+by+Innovation;🤖+Driven+by+AI+Excellence;🌍+Committed+to+Global+Impact;🌐+Engineering+the+Future+of+AI;💡+Solving+Grand+Challenges+with+AI;🎯+Advancing+Next-Gen+AI+Solutions" alt="Typing SVG Footer" />
 
+<p align="center"><b> Powered by Innovation | Driven by AI | 🌍 Committed to Global Impact</b></p>
+
 </div>
+
 
 
 
