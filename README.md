@@ -352,7 +352,7 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=26&duration=3200&pause=1400&color=00FF7F,FF00FF,FFFF00&center=true&vCenter=true&width=900&lines=🌟+BUILDING+AI+THAT+TRANSFORMS+TOMORROW%2C+TODAY!;⚡+POWERED+BY+INNOVATION+%7C+DRIVEN+BY+AI;🔮+COMMITTED+TO+GLOBAL+IMPACT" alt="Innovation Header" />
   <br>
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="300" alt="Innovation Animation">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy" width="300" alt="Innovation Animation">
   <br>
   <img src="https://komarev.com/ghpvc/?username=inayatrahimdev&color=00D4FF&style=for-the-badge&label=Profile+Views" alt="Profile Views"/>
   <br>
