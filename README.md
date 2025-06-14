@@ -85,13 +85,6 @@
 
 </div>
 
-### <h2 align="center">⚡ VIBE CODING TECH STACK ⚡</h2>
-<p align="center">
-[![Cursor AI](https://img.shields.io/badge/Cursor_AI-000000?style=for-the-badge)](https://www.cursor.so/)
-  [![Bolt AI](https://img.shields.io/badge/Bolt_AI-FF6B35?style=for-the-badge)](https://boltai.xyz/) 
-  [![Emergent.sh](https://img.shields.io/badge/Emergent.sh-4169E1?style=for-the-badge)](https://emergent.sh/)
-  [![Windsurf AI](https://img.shields.io/badge/Windsurf_AI-00D4FF?style=for-the-badge)](https://windsurf.ai/)
-</p>
 <h2 align="center">⚡ VIBE CODING TECH STACK ⚡</h2>
 
 <p align="center">
