@@ -139,6 +139,7 @@
 [![MiniMax](https://img.shields.io/badge/MiniMax-DA70D6?style=for-the-badge&logo=minimax&logoColor=white)](https://www.minimax.chat/)
 [![SenseTime](https://img.shields.io/badge/SenseTime-FF4500?style=for-the-badge&logo=sensetime&logoColor=white)](https://www.sensetime.com/en)
 [![iFLYTEK](https://img.shields.io/badge/iFLYTEK-20B2AA?style=for-the-badge&logo=iflytek&logoColor=white)](https://xinghuo.xfyun.cn/)
+
 ### **🚀 Chinese AI Models & Frameworks**  
 [![Qwen](https://img.shields.io/badge/Qwen-800000?style=for-the-badge&logo=alibaba&logoColor=white)](https://huggingface.co/Qwen)  
 [![DeepSeek](https://img.shields.io/badge/DeepSeek-008B8B?style=for-the-badge&logo=deepseek&logoColor=white)](https://huggingface.co/deepseek-ai)  
