@@ -47,27 +47,17 @@
 [![JAX](https://img.shields.io/badge/JAX-FF6347?style=for-the-badge&logo=jax&logoColor=white)](https://jax.readthedocs.io/)
 [![Lightning AI](https://img.shields.io/badge/Lightning-792EE5?style=for-the-badge&logo=pytorchlightning&logoColor=white)](https://lightning.ai/)
 [![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge)](https://huggingface.co/)
-[![FastAI](https://img.shields.io/badge/FastAI-009688?style=for-the-badge&logo=fastapi&logoColor=white)](https://fast.ai/)
 [![DeepSpeed](https://img.shields.io/badge/DeepSpeed-CC0000?style=for-the-badge)](https://www.deepspeed.ai/)
 [![NVIDIA NeMo](https://img.shields.io/badge/NVIDIA%20NeMo-76B900?style=for-the-badge&logo=nvidia&logoColor=white)](https://developer.nvidia.com/nvidia-nemo)
 [![OpenMMLab](https://img.shields.io/badge/OpenMMLab-00599C?style=for-the-badge&logo=github&logoColor=white)](https://openmmlab.com/)
 [![Sklearn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
-[![XGBoost](https://img.shields.io/badge/XGBoost-0D76A8?style=for-the-badge)](https://xgboost.ai/)
-[![CatBoost](https://img.shields.io/badge/CatBoost-FFCC00?style=for-the-badge&logo=cat&logoColor=black)](https://catboost.ai/)
-[![LightGBM](https://img.shields.io/badge/LightGBM-2C7BB6?style=for-the-badge)](https://lightgbm.readthedocs.io/)
 [![Optuna](https://img.shields.io/badge/Optuna-0099CC?style=for-the-badge)](https://optuna.org/)
 [![Weights & Biases](https://img.shields.io/badge/W&B-FFBE00?style=for-the-badge&logo=wandb&logoColor=white)](https://wandb.ai/)
-
-<!-- FAMOUS MODEL ZOOS -->
-
 [![Torch Hub](https://img.shields.io/badge/Torch_Hub-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)](https://pytorch.org/hub/)
 [![TensorFlow Hub](https://img.shields.io/badge/TensorFlow_Hub-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](https://tfhub.dev/)
 [![Hugging Face Model Hub](https://img.shields.io/badge/Hugging_Face_Hub-FFD21E?style=for-the-badge)](https://huggingface.co/models)
 [![OpenMMLab Model Zoo](https://img.shields.io/badge/OpenMMLab_Model_Zoo-00599C?style=for-the-badge&logo=github&logoColor=white)](https://openmmlab.com/)
 [![Detectron2](https://img.shields.io/badge/Detectron2-00599C?style=for-the-badge&logo=meta&logoColor=white)](https://github.com/facebookresearch/detectron2)
-
-<!-- OTHER POWERFUL MODEL ZOOS -->
-
 [![Timm](https://img.shields.io/badge/TimM-1B4332?style=for-the-badge&logo=github&logoColor=white)](https://github.com/huggingface/pytorch-image-models)
 [![PapersWithCode](https://img.shields.io/badge/PapersWithCode-0072B1?style=for-the-badge&logo=researchgate&logoColor=white)](https://paperswithcode.com)
 [![Ultralytics YOLO](https://img.shields.io/badge/Ultralytics-YOLOv8-FFD700?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ultralytics/ultralytics)
