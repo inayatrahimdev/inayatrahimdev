@@ -337,13 +337,17 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=1200&color=0A66C2,1DA1F2,20BEFF&center=true&vCenter=true&width=850&lines=🌐+CONNECT+&+COLLABORATE+WITH+INAYAT+RAHIM;⚡+Join+the+AI+Revolution+for+Global+Impact;🔮+Let’s+Build+Tomorrow’s+Intelligence+Together" alt="Connect Header" />
   <br>
-  <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArK/giphy.gif" width="400" alt="Collaboration Animation">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy." width="400" alt="Collaboration Animation">
   <br>
+  <div align="center">
+
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Inayat_RAHIM-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/inayat-rahim-b0655b29b/)
   [![Email](https://img.shields.io/badge/Email-inayatrahim006@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:inayatrahim006@gmail.com)
   [![Kaggle](https://img.shields.io/badge/Kaggle-inayatrahim-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/inayatrahim)
   [![Twitter](https://img.shields.io/badge/Twitter-@InayatAI-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/InayatAI)
+
 </div>
+
 
 ---
 
