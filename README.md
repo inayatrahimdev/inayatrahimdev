@@ -292,8 +292,7 @@
 ## 🌍 AI FOR GLOBAL IMPACT & SUSTAINABLE DEVELOPMENT
 
 <div align="center">
-  <!-- Header Typing SVG -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=800&size=24&duration=2800&pause=1600&color=32CD32,FF6347,00BFFF¢er=true&vCenter=true&width=900&lines=🌍+AI+FOR+A+SUSTAINABLE+FUTURE+🌍;⚡+EMPOWERING+GLOBAL+SOLUTIONS+⚡;🔮+TRANSFORMING+LIVES+WITH+INTELLIGENCE+🔮" alt="Impact Header" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=800&size=24&duration=2800&pause=1600&color=32CD32,FF6347,00BFFF&center=true&vCenter=true&width=900&lines=🌍+AI+FOR+A+SUSTAINABLE+FUTURE+🌍;⚡+EMPOWERING+GLOBAL+SOLUTIONS+⚡;🔮+TRANSFORMING+LIVES+WITH+INTELLIGENCE+🔮" alt="Impact Header" />
 </div>
 
 <p align="center">
@@ -301,7 +300,6 @@
 </p>
 
 <div align="center">
-
 | 🌿 **Domain** | 🤖 **AI Solutions** | 🔬 **Key Technologies** | 🎯 **SDG Impact** |
 |:---:|:---:|:---:|:---:|
 | 🌾 **Agriculture** | Crop Disease Detection, Precision Farming | Vision Transformers, Multi-Agent Systems | SDG 2: Zero Hunger |
@@ -311,41 +309,52 @@
 | 🎓 **Education** | Adaptive Learning, AI Tutors | Multimodal LLMs, RAG | SDG 4: Quality Education |
 | 🚀 **Space** | Autonomous Exploration, Satellite Analysis | Multi-Agent Swarms, SATViT | SDG 9: Industry & Innovation |
 | 🌆 **Urban Systems** | Smart Cities, Traffic Optimization | Graph Neural Networks, Multimodal Fusion | SDG 11: Sustainable Cities |
-
 </div>
 
 <div align="center">
-  <!-- Closing Typing SVG -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=1500&color=00FF7F,FF4500,1E90FF¢er=true&vCenter=true&width=850&lines=🌐+COLLABORATING+FOR+A+BETTER+TOMORROW;⚡+AI-DRIVEN+SOLUTIONS+FOR+GLOBAL+CHALLENGES;🔮+COMMITTED+TO+SUSTAINABLE+DEVELOPMENT" alt="Closing Typing" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=1500&color=00FF7F,FF4500,1E90FF&center=true&vCenter=true&width=850&lines=🌐+COLLABORATING+FOR+A+BETTER+TOMORROW;⚡+AI-DRIVEN+SOLUTIONS+FOR+GLOBAL+CHALLENGES;🔮+COMMITTED+TO+SUSTAINABLE+DEVELOPMENT" alt="Closing Typing" />
 </div>
+
+---
+
+## 🏆 AI Achievements & Recognition
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=800&size=24&duration=3000&pause=1500&color=20BEFF,FF9900,FF6B6B&center=true&vCenter=true&width=900&lines=🏆+AI+EXCELLENCE+&+GLOBAL+RECOGNITION;⚡+Kaggle+Expert+%7C+Google+AI+Certified+%7C+AWS+ML+Specialty;🔬+5%2B+Research+Papers+Driving+AI+Innovation" alt="Achievements Header" />
-</div>
-
-<div align="center">
+  <br>
+  <img src="https://media.giphy.com/media/l0Iyl55kTehV9nhJe/giphy.gif" width="400" alt="Achievement Animation">
+  <br>
   [![Kaggle](https://img.shields.io/badge/Kaggle-Expert-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/inayatrahim)
   [![Google Developer](https://img.shields.io/badge/Google_AI-Certified-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://developers.google.com/)
   [![AWS ML](https://img.shields.io/badge/AWS-ML_Specialty-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
   [![Papers](https://img.shields.io/badge/Research_Papers-5+-FF6B6B?style=for-the-badge&logo=academia&logoColor=white)](https://scholar.google.com/)
 </div>
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=1200&color=0A66C2,1DA1F2,20BEFF&center=true&vCenter=true&width=850&lines=🌐+CONNECT+&+COLLABORATE+WITH+INAYAT+RAHIM;⚡+Join+the+AI+Revolution+for+Global+Impact;🔮+Let’s+Build+Tomorrow’s+Intelligence+Together" alt="Connect Header" />
-</div>
+---
+
+## 🌐 Connect & Collaborate
 
 <div align="center">
-  
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=1200&color=0A66C2,1DA1F2,20BEFF&center=true&vCenter=true&width=850&lines=🌐+CONNECT+&+COLLABORATE+WITH+INAYAT+RAHIM;⚡+Join+the+AI+Revolution+for+Global+Impact;🔮+Let’s+Build+Tomorrow’s+Intelligence+Together" alt="Connect Header" />
+  <br>
+  <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArK/giphy.gif" width="400" alt="Collaboration Animation">
+  <br>
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Inayat_RAHIM-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/inayat-rahim-b0655b29b/)
   [![Email](https://img.shields.io/badge/Email-inayatrahim006@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:inayatrahim006@gmail.com)
   [![Kaggle](https://img.shields.io/badge/Kaggle-inayatrahim-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/inayatrahim)
   [![Twitter](https://img.shields.io/badge/Twitter-@InayatAI-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/InayatAI)
 </div>
 
+---
+
+## 🌟 Innovation
+
 <div align="center">
-  
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=26&duration=3200&pause=1400&color=00FF7F,FF00FF,FFFF00&center=true&vCenter=true&width=900&lines=🌟+BUILDING+AI+THAT+TRANSFORMS+TOMORROW%2C+TODAY!;⚡+POWERED+BY+INNOVATION+%7C+DRIVEN+BY+AI;🔮+COMMITTED+TO+GLOBAL+IMPACT" alt="Innovation Header" />
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="300" alt="Innovation">
+  <br>
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="300" alt="Innovation Animation">
+  <br>
   <img src="https://komarev.com/ghpvc/?username=inayatrahimdev&color=00D4FF&style=for-the-badge&label=Profile+Views" alt="Profile Views"/>
+  <br>
   <sub> Powered by Innovation | Driven by AI | 🌍 Committed to Global Impact</sub>
 </div>
