@@ -273,3 +273,199 @@
 
 
 <!-- END -->
+
+# 🧠 Inayat RAHIM's Next-Gen AI Universe 🚀
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=AI+Engineer+%26+Researcher;Multi-Agent+Systems+Expert;Deep+Learning+Innovator;Building+the+Future+with+AI" alt="Typing SVG" />
+</div>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="300" alt="AI Brain Animation">
+</div>
+
+---
+
+## ⚙️ My Intelligence Domains
+
+<div align="center">
+
+| 🧠 **Cognitive AI** | 🔬 **Research Focus** | 🌍 **Impact Areas** |
+|:---:|:---:|:---:|
+| Multi-Agent Systems | Fine-Tuning & RLHF | Healthcare & Genomics |
+| RAG Architectures | Physics-Informed ML | Climate & Sustainability |
+| Neural Architectures | Multimodal Learning | Education & Agriculture |
+
+</div>
+
+### 🚀 Core Expertise
+- 🧠 **Agentic AI & Cognitive Architectures** – Multi-agent systems, decision reasoning, world models  
+- 🔎 **Retrieval Augmented Generation (RAG)** – Vector DBs, hybrid search, augmented memory  
+- 🔬 **Fine-Tuning Stacks** – PEFT, LoRA, QLoRA, SFT, RLHF, DPO  
+- 🔭 **Multimodal Deep Learning** – Vision, Audio, Signals, Spatial Data, Video  
+- 🎙️ **Speech Intelligence** – Voice Cloning, TTS, ASR, Synthesis, Live Translation  
+- 🧬 **Bioinformatics & Genomics AI** – DNA/RNA transformers, Protein folding models  
+- ⚛️ **Physics-Informed ML & QML** – PINNs, Schrödinger, Quantum Circuits  
+- 🌐 **Time Series & Forecasting** – Transformers, Seasonal Models, Predictive Analytics
+
+---
+
+## 🛠️ AI Technology Stack 2025
+
+### 🔥 Core Frameworks
+<div align="center">
+
+[![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)](https://pytorch.org/)
+[![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](https://tensorflow.org/)
+[![Hugging Face](https://img.shields.io/badge/🤗_Hugging_Face-FFD21E?style=for-the-badge)](https://huggingface.co/)
+[![JAX](https://img.shields.io/badge/JAX-FF6347?style=for-the-badge&logo=jax&logoColor=white)](https://jax.readthedocs.io/)
+
+</div>
+
+### 🤖 LLM & Agent Frameworks
+<div align="center">
+
+[![LangChain](https://img.shields.io/badge/🦜_LangChain-1C3C3C?style=for-the-badge)](https://langchain.com/)
+[![LlamaIndex](https://img.shields.io/badge/🦙_LlamaIndex-6366F1?style=for-the-badge)](https://llamaindex.ai/)
+[![AutoGen](https://img.shields.io/badge/AutoGen-00A86B?style=for-the-badge&logo=microsoft&logoColor=white)](https://microsoft.github.io/autogen/)
+[![CrewAI](https://img.shields.io/badge/CrewAI-FF4B4B?style=for-the-badge)](https://crewai.com/)
+
+</div>
+
+### 👁️ Computer Vision
+<div align="center">
+
+[![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)](https://opencv.org/)
+[![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=yolo&logoColor=black)](https://ultralytics.com/)
+[![Detectron2](https://img.shields.io/badge/Detectron2-FF6B6B?style=for-the-badge&logo=facebook&logoColor=white)](https://detectron2.readthedocs.io/)
+[![Albumentations](https://img.shields.io/badge/Albumentations-FF6B35?style=for-the-badge)](https://albumentations.ai/)
+
+</div>
+
+### 🎙️ Audio & Speech AI
+<div align="center">
+
+[![Whisper](https://img.shields.io/badge/Whisper-412991?style=for-the-badge&logo=openai&logoColor=white)](https://openai.com/research/whisper)
+[![TorchAudio](https://img.shields.io/badge/TorchAudio-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)](https://pytorch.org/audio/)
+[![Librosa](https://img.shields.io/badge/Librosa-FF6B6B?style=for-the-badge&logo=python&logoColor=white)](https://librosa.org/)
+[![Coqui TTS](https://img.shields.io/badge/Coqui_TTS-FF6B6B?style=for-the-badge)](https://coqui.ai/)
+
+</div>
+
+### 🗄️ Vector Databases & Search
+<div align="center">
+
+[![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white)](https://pinecone.io/)
+[![Weaviate](https://img.shields.io/badge/Weaviate-FF6B6B?style=for-the-badge)](https://weaviate.io/)
+[![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B35?style=for-the-badge)](https://chromadb.ai/)
+[![Qdrant](https://img.shields.io/badge/Qdrant-FF6B6B?style=for-the-badge)](https://qdrant.tech/)
+
+</div>
+
+### 🧬 Bioinformatics & Scientific AI
+<div align="center">
+
+[![BioPython](https://img.shields.io/badge/BioPython-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://biopython.org/)
+[![AlphaFold](https://img.shields.io/badge/AlphaFold-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://alphafold.ebi.ac.uk/)
+[![ESMFold](https://img.shields.io/badge/ESMFold-1877F2?style=for-the-badge&logo=meta&logoColor=white)](https://esmatlas.org/)
+[![PyTorch Geometric](https://img.shields.io/badge/PyG-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)](https://pytorch-geometric.readthedocs.io/)
+
+</div>
+
+---
+
+## 🧪 Advanced AI Architectures I'm Building
+
+<div align="center">
+  <img src="https://media.giphy.com/media/IUNycHoVqvLDowiiam/giphy.gif" width="400" alt="Neural Architecture">
+</div>
+
+- 🧠 **Multi-Agent LLM Orchestration** with RAG + RLHF  
+- 🔄 **Cognitive AI Loops** & Hierarchical Reasoning Systems  
+- 🛰 **Multimodal Fusion Pipelines** (Vision + NLP + Audio + Signals)  
+- 🧬 **Genomics Transformers** with Protein Folding Integration  
+- ⚛️ **Physics-Informed Neural Networks** for Scientific Computing  
+- ⚡ **Real-time AI Inference** on Edge & Cloud GPU Clusters
+
+---
+
+## 🌍 AI for Global Impact & SDGs
+
+<div align="center">
+  <img src="https://media.giphy.com/media/l0HlQoLBOXdUPKf2U/giphy.gif" width="400" alt="Global AI Impact">
+</div>
+
+| 🌿 **Domain** | 🚀 **AI Solutions** | 🎯 **SDG Impact** |
+|:---:|:---:|:---:|
+| 🌾 **Agriculture** | Crop Disease Detection, Yield Prediction | SDG 2: Zero Hunger |
+| 🏥 **Healthcare** | Medical Imaging, Drug Discovery, Genomics | SDG 3: Good Health |
+| ⚖️ **Legal Tech** | Legal Document AI, Policy Analysis | SDG 16: Peace & Justice |
+| 🌊 **Climate** | Carbon Modeling, Environmental Monitoring | SDG 13: Climate Action |
+| 🔋 **Energy** | Smart Grid Optimization, Renewable Forecasting | SDG 7: Clean Energy |
+| 🎓 **Education** | Personalized AI Tutors, Adaptive Learning | SDG 4: Quality Education |
+
+---
+
+## 📊 GitHub Intelligence Metrics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=inayatrahimdev&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=00D4FF&text_color=FFFFFF" width="48%" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=inayatrahimdev&theme=radical&hide_border=true&background=0D1117&stroke=00D4FF&ring=00D4FF&fire=FF6B6B&currStreakLabel=00D4FF" width="48%" alt="GitHub Streak"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=inayatrahimdev&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF" width="50%" alt="Top Languages"/>
+</div>
+
+---
+
+## 🚀 Featured AI Projects
+
+<div align="center">
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=inayatrahimdev&repo=multimodal-ai&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF)](https://github.com/inayatrahimdev/multimodal-ai)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=inayatrahimdev&repo=genomics-transformers&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF)](https://github.com/inayatrahimdev/genomics-transformers)
+
+</div>
+
+---
+
+## 🏆 AI Achievements & Recognition
+
+<div align="center">
+
+[![Kaggle](https://img.shields.io/badge/Kaggle-Expert-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/inayatrahim)
+[![Google Developer](https://img.shields.io/badge/Google_AI-Certified-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://developers.google.com/)
+[![AWS ML](https://img.shields.io/badge/AWS-ML_Specialty-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
+[![Papers](https://img.shields.io/badge/Research_Papers-5+-FF6B6B?style=for-the-badge&logo=academia&logoColor=white)](https://scholar.google.com/)
+
+</div>
+
+---
+
+## 🌐 Connect & Collaborate
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Inayat_RAHIM-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/inayat-rahim-b0655b29b/)
+[![Email](https://img.shields.io/badge/Email-inayatrahim006@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:inayatrahim006@gmail.com)
+[![Kaggle](https://img.shields.io/badge/Kaggle-inayatrahim-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/inayatrahim)
+[![Twitter](https://img.shields.io/badge/Twitter-@InayatAI-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/InayatAI)
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="300" alt="Innovation">
+  
+  ### 🌟 "Building AI that transforms tomorrow, today!" 🌟
+  
+  <img src="https://komarev.com/ghpvc/?username=inayatrahimdev&color=00D4FF&style=for-the-badge&label=Profile+Views" alt="Profile Views"/>
+</div>
+
+---
+
+<div align="center">
+  <sub>🚀 Powered by Innovation | 🧠 Driven by AI | 🌍 Committed to Global Impact</sub>
+</div>
