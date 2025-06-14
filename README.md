@@ -294,11 +294,10 @@
 
 <!-- 🌍 AI FOR GLOBAL IMPACT & SUSTAINABLE DEVELOPMENT -->
 
-<!-- 🌍 AI FOR GLOBAL IMPACT & SUSTAINABLE DEVELOPMENT -->
-
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=900&color=00FF99&width=1000&center=true&vCenter=true&lines=🌍+AI+FOR+GLOBAL+IMPACT+%26+SUSTAINABLE+DEVELOPMENT;⚡+Advancing+Green+AI+Technologies;🌱+Empowering+Clean+Energy+%26+Climate+Solutions;🚀+Building+a+Carbon-Free+AI+Future" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=900&color=00FF00&width=1000&center=true&vCenter=true&lines=🌍+AI+FOR+GLOBAL+IMPACT+%26+SUSTAINABLE+DEVELOPMENT;⚡+Green+AI+Technologies;🌱+Clean+Energy+%26+Climate+AI;🚀+Carbon-Free+AI+Futures" alt="Typing SVG" />
 </h1>
+
 
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWJsbGNlaDRudWl5c2g5NXN4OWl5enFiM3V6eDRjdW5zaXY2c3A3YiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/QaXOeJInKqKY5JuRwM/giphy.gif" width="600" alt="Global Impact Animation" />
