@@ -174,31 +174,6 @@
 
 </div>
 
-<h2 align="center">⚡ VIBE CODING TECH STACK ⚡</h2>
-
-<p align="center">
-  <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="50" height="50" alt="Hugging Face"/>
-  <img src="https://avatars.githubusercontent.com/u/139018259?s=200&v=4" width="50" height="50" alt="Cursor AI"/>
-  <img src="https://avatars.githubusercontent.com/u/139492299?s=200&v=4" width="50" height="50" alt="Bolt AI"/>
-  <img src="https://avatars.githubusercontent.com/u/161850282?s=200&v=4" width="50" height="50" alt="Emergent.sh"/>
-  <img src="https://avatars.githubusercontent.com/u/123079868?s=200&v=4" width="50" height="50" alt="Windsurf AI"/>
-  <img src="https://avatars.githubusercontent.com/u/115091905?s=200&v=4" width="50" height="50" alt="SuperAGI"/>
-  <img src="https://avatars.githubusercontent.com/u/129570812?s=200&v=4" width="50" height="50" alt="Flowise"/>
-  <img src="https://avatars.githubusercontent.com/u/122250100?s=200&v=4" width="50" height="50" alt="Chainlit"/>
-  <img src="https://avatars.githubusercontent.com/u/101428252?s=200&v=4" width="50" height="50" alt="Pinecone"/>
-  <img src="https://avatars.githubusercontent.com/u/90573917?s=200&v=4" width="50" height="50" alt="Weaviate"/>
-  <img src="https://avatars.githubusercontent.com/u/112506027?s=200&v=4" width="50" height="50" alt="Chroma DB"/>
-  <img src="https://avatars.githubusercontent.com/u/2009931?s=200&v=4" width="50" height="50" alt="Redis Vector"/>
-  <img src="https://avatars.githubusercontent.com/u/81143899?s=200&v=4" width="50" height="50" alt="LangChain"/>
-  <img src="https://avatars.githubusercontent.com/u/97234929?s=200&v=4" width="50" height="50" alt="AutoGen"/>
-  <img src="https://avatars.githubusercontent.com/u/125621014?s=200&v=4" width="50" height="50" alt="AgentOps"/>
-  <img src="https://avatars.githubusercontent.com/u/74970919?s=200&v=4" width="50" height="50" alt="Coreweave"/>
-  <img src="https://avatars.githubusercontent.com/u/65093211?s=200&v=4" width="50" height="50" alt="Lambda Labs"/>
-  <img src="https://avatars.githubusercontent.com/u/89392433?s=200&v=4" width="50" height="50" alt="Modal Labs"/>
-  <img src="https://avatars.githubusercontent.com/u/79001580?s=200&v=4" width="50" height="50" alt="Replicate"/>
-</p>
-
-
 ### 🛡️ Defense & Aerospace Systems
 <div align="center">
 
