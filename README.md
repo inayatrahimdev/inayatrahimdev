@@ -102,9 +102,6 @@
 | **Segment Anything (Meta SAM)** | Universal segmentation model | [Segment Anything](https://segment-anything.com/) |
 | **Coqui TTS Model Zoo** | Speech synthesis, voice cloning, zero-shot TTS | [Coqui TTS](https://github.com/coqui-ai/TTS) |
 
----
-
-🔥 **Stay tuned for more 2025+ Model Zoos** 🔥
 ### 🤖 Advanced LLM & Agent Orchestration
 <div align="center">
 
