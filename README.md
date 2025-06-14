@@ -85,7 +85,7 @@
 
 </div>
 
-<h2 align="center">⚡ VIBE CODING TECH STACK ⚡</h2>
+### <h2 align="center">⚡ VIBE CODING TECH STACK ⚡</h2>
 
 <p align="center">
   <a href="https://www.cursor.so/">
