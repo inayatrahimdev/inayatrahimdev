@@ -134,10 +134,92 @@
 ### 👁️ Computer Vision
 <div align="center">
 
-[![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)](https://opencv.org/)
-[![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=yolo&logoColor=black)](https://ultralytics.com/)
-[![Detectron2](https://img.shields.io/badge/Detectron2-FF6B6B?style=for-the-badge&logo=facebook&logoColor=white)](https://detectron2.readthedocs.io/)
-[![Albumentations](https://img.shields.io/badge/Albumentations-FF6B35?style=for-the-badge)](https://albumentations.ai/)
+## 🚀 2099 Computer Vision Tech Stack
+
+<p align="center">
+
+  <!-- MMDetection -->
+  <a href="https://github.com/open-mmlab/mmdetection">
+    <img src="https://img.shields.io/badge/MMDetection-FF6F61?style=for-the-badge&logo=OpenMMLab&logoColor=white" />
+  </a>
+
+  <!-- MMDeploy -->
+  <a href="https://github.com/open-mmlab/mmdeploy">
+    <img src="https://img.shields.io/badge/MMDeploy-0072C6?style=for-the-badge&logo=OpenMMLab&logoColor=white" />
+  </a>
+
+  <!-- Segment Anything -->
+  <a href="https://github.com/facebookresearch/segment-anything">
+    <img src="https://img.shields.io/badge/SegmentAnything-SAM-orange?style=for-the-badge&logo=Meta&logoColor=white" />
+  </a>
+
+  <!-- Grounding DINO -->
+  <a href="https://github.com/IDEA-Research/GroundingDINO">
+    <img src="https://img.shields.io/badge/GroundingDINO-FFA500?style=for-the-badge&logoColor=white" />
+  </a>
+
+  <!-- OWL-ViT -->
+  <a href="https://github.com/google-research/scenic/tree/main/scenic/projects/owl_vit">
+    <img src="https://img.shields.io/badge/OWL--ViT-6699CC?style=for-the-badge&logo=Google&logoColor=white" />
+  </a>
+
+  <!-- CLIP -->
+  <a href="https://github.com/openai/CLIP">
+    <img src="https://img.shields.io/badge/CLIP-000000?style=for-the-badge&logo=OpenAI&logoColor=white" />
+  </a>
+
+  <!-- BLIP-2 -->
+  <a href="https://github.com/salesforce/LAVIS">
+    <img src="https://img.shields.io/badge/BLIP--2-FFB347?style=for-the-badge&logo=Salesforce&logoColor=white" />
+  </a>
+
+  <!-- DINOv2 -->
+  <a href="https://github.com/facebookresearch/dinov2">
+    <img src="https://img.shields.io/badge/DINOv2-006400?style=for-the-badge&logo=Meta&logoColor=white" />
+  </a>
+
+  <!-- RT-DETR -->
+  <a href="https://github.com/IDEA-Research/RT-DETR">
+    <img src="https://img.shields.io/badge/RT--DETR-008080?style=for-the-badge&logoColor=white" />
+  </a>
+
+  <!-- DiffusionDet -->
+  <a href="https://github.com/ShoufaChen/DiffusionDet">
+    <img src="https://img.shields.io/badge/DiffusionDet-FF00FF?style=for-the-badge&logoColor=white" />
+  </a>
+
+  <!-- ControlNet -->
+  <a href="https://github.com/lllyasviel/ControlNet">
+    <img src="https://img.shields.io/badge/ControlNet-FF4500?style=for-the-badge&logoColor=white" />
+  </a>
+
+  <!-- DreamBooth -->
+  <a href="https://github.com/XavierXiao/Dreambooth-Stable-Diffusion">
+    <img src="https://img.shields.io/badge/DreamBooth-FFD700?style=for-the-badge&logoColor=black" />
+  </a>
+
+  <!-- OpenCLIP -->
+  <a href="https://github.com/mlfoundations/open_clip">
+    <img src="https://img.shields.io/badge/OpenCLIP-0000FF?style=for-the-badge&logoColor=white" />
+  </a>
+
+  <!-- Kornia -->
+  <a href="https://github.com/kornia/kornia">
+    <img src="https://img.shields.io/badge/Kornia-32CD32?style=for-the-badge&logo=PyTorch&logoColor=white" />
+  </a>
+
+  <!-- AugLy -->
+  <a href="https://github.com/facebookresearch/AugLy">
+    <img src="https://img.shields.io/badge/AugLy-9932CC?style=for-the-badge&logo=Meta&logoColor=white" />
+  </a>
+
+  <!-- AutoAugment -->
+  <a href="https://github.com/DeepVoltaire/AutoAugment">
+    <img src="https://img.shields.io/badge/AutoAugment-FF6347?style=for-the-badge&logoColor=white" />
+  </a>
+
+</p>
+
 
 </div>
 
