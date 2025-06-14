@@ -137,7 +137,8 @@
 
   <!-- Emerging Tech Animation -->
   <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&weight=500&size=16&duration=3200&pause=1600&color=FF6347,32CD32,9370DB&center=true&vCenter=true&width=850&lines=MCP+Protocol+→+Model+Context+Management+%7C+Ollama+→+Local+AI;LM+Studio+→+Desktop+AI+%7C+Embedchain+→+Knowledge+Retrieval;Semantic+Kernel+→+AI+Orchestration+%7C+Haystack+→+NLP+Pipelines" alt="Emerging Tech Typing" />
-[![MCP Protocol](https://img.shields.io/badge/MCP_Protocol-FF5733?style=for-the-badge&logo=protocols&logoColor=white)](#)
+  
+[![MCP Protocol](https://img.shields.io/badge/MCP_Protocol-FF5733?style=for-the-badge&logo=protocols&logoColor=white)]
 [![MCP](https://img.shields.io/badge/MCP_Protocol-9932CC?style=for-the-badge)](https://modelcontextprotocol.io/)
 [![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge)](https://ollama.ai/)
 [![LMStudio](https://img.shields.io/badge/LM_Studio-FF8C00?style=for-the-badge)](https://lmstudio.ai/)
