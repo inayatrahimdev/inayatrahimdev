@@ -261,6 +261,27 @@
 [![Bark](https://img.shields.io/badge/Bark-228B22?style=for-the-badge)](https://github.com/suno-ai/bark)
 [![RVC](https://img.shields.io/badge/RVC-FF1493?style=for-the-badge)](https://github.com/RVC-Project/Retrieval-based-Voice-Conversion-WebUI)
 [![ElevenLabs](https://img.shields.io/badge/ElevenLabs-000000?style=for-the-badge)](https://elevenlabs.io/)
+<p align="center"> <!-- ASR & Speech Recognition -->
+<a href="https://github.com/openai/whisper"><img src="https://img.shields.io/badge/Whisper-000000?style=for-the-badge&logo=OpenAI&logoColor=white" /></a>
+<a href="https://github.com/alphacep/vosk"><img src="https://img.shields.io/badge/Vosk-008080?style=for-the-badge" /></a>
+<a href="https://github.com/MoonshotAI/Kimi-Audio"><img src="https://img.shields.io/badge/Kimi‑Audio-FF1493?style=for-the-badge" /></a>
+
+<!-- Foundation Speech Models -->
+<a href="https://github.com/stepfun-ai/Step-Audio"><img src="https://img.shields.io/badge/Step‑Audio-8A2BE2?style=for-the-badge" /></a>
+<a href="https://github.com/MoonshotAI/Kimi-Audio"><img src="https://img.shields.io/badge/Kimi‑Audio-00CED1?style=for-the-badge" /></a>
+
+<!-- TTS / Voice Cloning -->
+<a href="https://modal.com/blog/open-source-tts#Chatterbox"><img src="https://img.shields.io/badge/Chatterbox-TTS‑May2025-FF4500?style=for-the-badge" /></a>
+<a href="https://github.com/bentoml/xtts-v2"><img src="https://img.shields.io/badge/XTTS‑v2-32CD32?style=for-the-badge" /></a>
+<a href="https://github.com/ResembleAI/Chatterbox"><img src="https://img.shields.io/badge/Dia‑TTS-FFA500?style=for-the-badge" /></a>
+
+<!-- Voice Conversion -->
+<a href="https://github.com/RVC-Project"><img src="https://img.shields.io/badge/RVC‑Voice‑Conversion-FFD700?style=for-the-badge" /></a>
+
+<!-- Speech Agent Platforms -->
+<a href="https://www.elevenlabs.io"><img src="https://img.shields.io/badge/ElevenLabs‑ConvAI2.0‑Speech-FF69B4?style=for-the-badge" /></a>
+
+</p>
 
 </div>
 
