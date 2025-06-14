@@ -177,12 +177,10 @@
 [![Communications](https://img.shields.io/badge/Comm_Toolbox-228B22?style=for-the-badge&logo=mathworks&logoColor=white)](https://mathworks.com/)
 
 </div>
-
----
 <div align="center">
   <img src="https://media.giphy.com/media/IUNycHoVqvLDowiiam/giphy.gif" width="400" alt="Neural Architecture">
 </div>
-
+---
 ### 🚀 **Transformer Architectures Across All Data Types**
 
 #### 📝 **Sequential Data Transformers**
