@@ -1,8 +1,17 @@
 #  Inayat RAHIM's Next-Gen AI Universe 
 
 <div align="center">
+
+  <!-- Typing SVG -->
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=AI+Engineer+%26+Researcher;Multi-Agent+Systems+Expert;Deep+Learning+Innovator;Building+the+Future+with+AI" alt="Typing SVG" />
+
+  <br><br>
+
+  <!-- Giphy -->
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="AI GIF" />
+
 </div>
+
 
 <div align="center">
   <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="300" alt="AI Brain Animation">
