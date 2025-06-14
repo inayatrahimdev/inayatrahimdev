@@ -1,93 +1,77 @@
-<div align="center">
-
-  <!-- Advanced Typing SVG -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=900&size=28&duration=3000&pause=1000&color=0FF6F6&center=true&vCenter=true&width=800&height=100&lines=🚀+Inayat+RAHIM's+Next-Gen+AI+Universe;🌐+Building+Future+Intelligence;🔥+AGI+%7C+ASI+%7C+Multimodal+Mastery;🎯+Agentic+AI+%7C+RAG+%7C+Healthcare+AI+%7C+Physics+AI;💡+Bioinformatics+%7C+NeuroAI+%7C+Quantum+ML" alt="Typing SVG" />
-
-</div>
-
+# 🌟 ULTIMATE NEXT-GEN GITHUB README 🌟
 
 <div align="center">
 
-  <!-- Typing SVG -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=AI+Engineer+%26+Researcher;Multi-Agent+Systems+Expert;Deep+Learning+Innovator;Building+the+Future+with+AI" alt="Typing SVG" />
+  <!-- Hero Typing SVG with Holographic Effect -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=900&size=32&duration=2500&pause=800&color=FF00FF&center=true&vCenter=true&width=900&height=120&lines=🚀+INAYAT+RAHIM's+AI+MULTIVERSE;⚡+QUANTUM+NEURAL+ARCHITECT;🌈+BUILDING+TOMORROW'S+INTELLIGENCE;🔮+AGI+%7C+ASI+%7C+CONSCIOUSNESS+AI;🎯+NEXT-GEN+COGNITIVE+SYSTEMS" alt="Hero Typing" />
 
-  <br><br>
-
-  <!-- Giphy -->
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="AI GIF" />
+  <!-- Subtitle with Gradient Effect -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=24&duration=3000&pause=1200&color=00FFFF,FF6B6B,FFD700&multiline=true&center=true&vCenter=true&width=800&height=80&lines=Multi-Dimensional+AI+Engineer;Quantum+ML+Researcher;Neural+Architecture+Wizard" alt="Subtitle Typing" />
 
 </div>
 
-
-<div align="center">
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="500" alt="AI Brain Animation">
-</div>
-
-
-## ⚙️ Intelligence Domains
-
-<div align="center">
-
-| **Cognitive AI** | 🔬 **Research Focus** | 🌍 **Impact Areas** |
-|:---:|:---:|:---:|
-| Multi-Agent Systems | Fine-Tuning & RLHF | Healthcare & Genomics |
-| RAG Architectures | Physics-Informed ML | Climate & Sustainability |
-| Neural Architectures | Multimodal Learning | Education & Agriculture |
-
-</div>
-
-###  Core Expertise
--  **Agentic AI & Cognitive Architectures** – Multi-agent systems, decision reasoning, world models  
-- 🔎 **Retrieval Augmented Generation (RAG)** – Vector DBs, hybrid search, augmented memory  
-- 🔬 **Fine-Tuning Stacks** – PEFT, LoRA, QLoRA, SFT, RLHF, DPO  
-- 🔭 **Multimodal Deep Learning** – Vision, Audio, Signals, Spatial Data, Video  
-- 🎙️ **Speech Intelligence** – Voice Cloning, TTS, ASR, Synthesis, Live Translation  
-- 🧬 **Bioinformatics & Genomics AI** – DNA/RNA transformers, Protein folding models  
-- ⚛️ **Physics-Informed ML & QML** – PINNs, Schrödinger, Quantum Circuits  
-- 🌐 **Time Series & Forecasting** – Transformers, Seasonal Models, Predictive Analytics
+<!-- Futuristic Divider -->
+<p align="center">
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="600" alt="AI Brain Matrix" />
+</p>
 
 ---
 
-## 🛠️ AI Technology Stack 2025
+## 🧠 COGNITIVE INTELLIGENCE DOMAINS
 
-### Core Frameworks & Model Zoos
 <div align="center">
 
-<!-- CORE FRAMEWORKS -->
+  <!-- Domain Headers with Typing Effects -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=2000&pause=1000&color=FF4500&center=true&vCenter=true&width=700&lines=⚡+CORE+INTELLIGENCE+ARCHITECTURES+⚡" alt="Domains Header" />
+
+</div>
+
+<div align="center">
+
+| **🤖 Cognitive AI** | 🔬 **Research Frontier** | 🌍 **Global Impact** |
+|:---:|:---:|:---:|
+| Multi-Agent Swarms | Quantum-Neural Fusion | Healthcare Revolution |
+| Neural Architecture Search | Physics-Informed Deep Learning | Climate Intelligence |
+| Consciousness Modeling | Multimodal Reasoning | Space Exploration AI |
+
+</div>
+
+<!-- Intelligence Domains Typing Animation -->
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&weight=500&size=18&duration=2800&pause=1500&color=32CD32&center=true&vCenter=true&width=850&lines=🧬+Agentic+AI+%26+Cognitive+Architectures+→+Multi-agent+systems%2C+world+models;🔎+Retrieval+Augmented+Generation+→+Vector+DBs%2C+hybrid+search%2C+memory;🔬+Fine-Tuning+Stacks+→+PEFT%2C+LoRA%2C+QLoRA%2C+RLHF%2C+DPO;🔭+Multimodal+Deep+Learning+→+Vision%2C+Audio%2C+Signals%2C+Video;🎙️+Advanced+Speech+Intelligence+→+Voice+Cloning%2C+TTS%2C+ASR;🧬+Bioinformatics+%26+Genomics+AI+→+DNA+transformers%2C+Protein+folding;⚛️+Physics-Informed+ML+%26+QML+→+PINNs%2C+Quantum+Circuits;🌐+Time+Series+%26+Forecasting+→+Transformer+models%2C+Analytics" alt="Expertise Typing" />
+</div>
+
+---
+
+## 🛠️ QUANTUM AI TECHNOLOGY MATRIX 2025
+
+<!-- Tech Stack Header -->
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&weight=800&size=26&duration=2200&pause=1100&color=9400D3,00CED1,FF1493&center=true&vCenter=true&width=850&lines=🌌+QUANTUM+AI+TECHNOLOGY+MATRIX+🌌;⚡+CUTTING-EDGE+FRAMEWORKS+%26+STACKS+⚡;🚀+NEXT-GEN+MODEL+ARCHITECTURES+🚀" alt="Tech Stack Header" />
+</div>
+
+### 🔥 Core Frameworks & Neural Architectures
+<div align="center">
+
+  <!-- Framework Animation -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu+Mono&weight=600&size=16&duration=3500&pause=2000&color=FF6347,32CD32,FFD700,00BFFF&center=true&vCenter=true&width=900&lines=PyTorch+→+Dynamic+Neural+Networks+%7C+TensorFlow+→+Production+ML;JAX+→+High-Performance+Computing+%7C+Lightning+→+Research+Acceleration;Hugging+Face+→+Transformer+Ecosystem+%7C+DeepSpeed+→+Large+Model+Training;NVIDIA+NeMo+→+Conversational+AI+%7C+OpenMMLab+→+Computer+Vision" alt="Frameworks Typing" />
 
 [![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)](https://pytorch.org/)
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](https://tensorflow.org/)
-[![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)](https://keras.io/)
 [![JAX](https://img.shields.io/badge/JAX-FF6347?style=for-the-badge&logo=jax&logoColor=white)](https://jax.readthedocs.io/)
 [![Lightning AI](https://img.shields.io/badge/Lightning-792EE5?style=for-the-badge&logo=pytorchlightning&logoColor=white)](https://lightning.ai/)
 [![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge)](https://huggingface.co/)
 [![DeepSpeed](https://img.shields.io/badge/DeepSpeed-CC0000?style=for-the-badge)](https://www.deepspeed.ai/)
 [![NVIDIA NeMo](https://img.shields.io/badge/NVIDIA%20NeMo-76B900?style=for-the-badge&logo=nvidia&logoColor=white)](https://developer.nvidia.com/nvidia-nemo)
 [![OpenMMLab](https://img.shields.io/badge/OpenMMLab-00599C?style=for-the-badge&logo=github&logoColor=white)](https://openmmlab.com/)
-[![Sklearn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
-[![Optuna](https://img.shields.io/badge/Optuna-0099CC?style=for-the-badge)](https://optuna.org/)
-[![Weights & Biases](https://img.shields.io/badge/W&B-FFBE00?style=for-the-badge&logo=wandb&logoColor=white)](https://wandb.ai/)
-[![Torch Hub](https://img.shields.io/badge/Torch_Hub-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)](https://pytorch.org/hub/)
-[![TensorFlow Hub](https://img.shields.io/badge/TensorFlow_Hub-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](https://tfhub.dev/)
-[![Hugging Face Model Hub](https://img.shields.io/badge/Hugging_Face_Hub-FFD21E?style=for-the-badge)](https://huggingface.co/models)
-[![OpenMMLab Model Zoo](https://img.shields.io/badge/OpenMMLab_Model_Zoo-00599C?style=for-the-badge&logo=github&logoColor=white)](https://openmmlab.com/)
-[![Detectron2](https://img.shields.io/badge/Detectron2-00599C?style=for-the-badge&logo=meta&logoColor=white)](https://github.com/facebookresearch/detectron2)
-[![Timm](https://img.shields.io/badge/TimM-1B4332?style=for-the-badge&logo=github&logoColor=white)](https://github.com/huggingface/pytorch-image-models)
-[![PapersWithCode](https://img.shields.io/badge/PapersWithCode-0072B1?style=for-the-badge&logo=researchgate&logoColor=white)](https://paperswithcode.com)
-[![Ultralytics YOLO](https://img.shields.io/badge/Ultralytics-YOLOv8-FFD700?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ultralytics/ultralytics)
-[![ONNX Model Zoo](https://img.shields.io/badge/ONNX_Model_Zoo-005BBB?style=for-the-badge&logo=onnx&logoColor=white)](https://github.com/onnx/models)
-[![OpenVINO Model Zoo](https://img.shields.io/badge/OpenVINO-007ACC?style=for-the-badge&logo=intel&logoColor=white)](https://github.com/openvinotoolkit/open_model_zoo)
-[![DeepSparse](https://img.shields.io/badge/DeepSparse-NeuralMagic-FF6347?style=for-the-badge)](https://docs.neuralmagic.com)
-[![Roboflow Universe](https://img.shields.io/badge/Roboflow_Universe-6A0DAD?style=for-the-badge&logo=github&logoColor=white)](https://universe.roboflow.com)
-[![Modelplace.AI](https://img.shields.io/badge/Modelplace.AI-FF6F00?style=for-the-badge)](https://modelplace.ai)
-[![NVIDIA NGC Model Hub](https://img.shields.io/badge/NVIDIA_NGC-76B900?style=for-the-badge&logo=nvidia&logoColor=white)](https://catalog.ngc.nvidia.com/models)
 
 </div>
 
-
-
-### 🤖 LLM & Agent Frameworks
+### 🤖 Advanced LLM & Agent Orchestration
 <div align="center">
+
+  <!-- LLM Animation -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=18&duration=3000&pause=1800&color=FF69B4,00FF7F,1E90FF&center=true&vCenter=true&width=950&lines=🦜+LangChain+→+Agent+Workflows+%7C+🦙+LlamaIndex+→+Knowledge+Systems;AutoGen+→+Multi-Agent+Conversations+%7C+CrewAI+→+Collaborative+Intelligence;LangGraph+→+State+Machines+%7C+OpenAgents+→+Autonomous+Systems" alt="LLM Typing" />
 
 [![LangChain](https://img.shields.io/badge/🦜_LangChain-1C3C3C?style=for-the-badge)](https://langchain.com/)
 [![LlamaIndex](https://img.shields.io/badge/🦙_LlamaIndex-6366F1?style=for-the-badge)](https://llamaindex.ai/)
@@ -98,8 +82,11 @@
 
 </div>
 
-### Advanced Transformers & LLMs
+### 🌟 Next-Gen AI Models & Architectures
 <div align="center">
+
+  <!-- Models Animation -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&weight=600&size=17&duration=4000&pause=2500&color=8A2BE2,FF4500,00CED1,FF1493&center=true&vCenter=true&width=900&lines=GPT-4+→+Advanced+Reasoning+%7C+Claude+→+Constitutional+AI;LLaMA+→+Open+Foundation+Models+%7C+Mistral+→+Efficient+Architecture;Gemini+→+Multimodal+Intelligence+%7C+PaLM+→+Language+Understanding" alt="Models Typing" />
 
 [![GPT-4](https://img.shields.io/badge/GPT--4-412991?style=for-the-badge&logo=openai&logoColor=white)](https://openai.com/)
 [![Claude](https://img.shields.io/badge/Claude-FF6B35?style=for-the-badge&logo=anthropic&logoColor=white)](https://anthropic.com/)
@@ -110,9 +97,11 @@
 
 </div>
 
-### 🔗 Emerging AI Stacks & Protocols
-
+### 🔗 Emerging AI Protocols & Stacks
 <div align="center">
+
+  <!-- Emerging Tech Animation -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&weight=500&size=16&duration=3200&pause=1600&color=FF6347,32CD32,9370DB&center=true&vCenter=true&width=850&lines=MCP+Protocol+→+Model+Context+Management+%7C+Ollama+→+Local+AI;LM+Studio+→+Desktop+AI+%7C+Embedchain+→+Knowledge+Retrieval;Semantic+Kernel+→+AI+Orchestration+%7C+Haystack+→+NLP+Pipelines" alt="Emerging Tech Typing" />
 
 [![MCP](https://img.shields.io/badge/MCP_Protocol-9932CC?style=for-the-badge)](https://modelcontextprotocol.io/)
 [![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge)](https://ollama.ai/)
@@ -123,7 +112,11 @@
 
 </div>
 
-###  VIBE CODING TECH STACK 
+### ⚡ VIBE CODING TECH STACK
+<div align="center">
+
+  <!-- Coding Stack Animation -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=19&duration=2800&pause=1400&color=00FFFF,FF00FF,FFFF00&center=true&vCenter=true&width=800&lines=🖱️+Cursor+AI+→+Intelligent+Code+Generation;⚡+Bolt+AI+→+Rapid+Development;🌊+Windsurf+AI+→+Advanced+Code+Assistance;🚀+AutoGen+→+Multi-Agent+Coding" alt="Coding Stack Typing" />
 
 <p align="center">
   <a href="https://www.cursor.so/">
@@ -143,154 +136,51 @@
   </a>
 </p>
 
+</div>
 
-
-### 👁️ Computer Vision
+### 👁️ Computer Vision Ecosystem
 <div align="center">
 
-  <!-- MMDetection -->
-  <a href="https://github.com/open-mmlab/mmdetection">
-    <img src="https://img.shields.io/badge/MMDetection-FF6F61?style=for-the-badge&logo=OpenMMLab&logoColor=white" />
-  </a>
+  <!-- CV Animation -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu+Mono&weight=600&size=17&duration=3800&pause=2000&color=FF4500,00FF00,1E90FF,FF69B4&center=true&vCenter=true&width=950&lines=🔍+Segment+Anything+→+Universal+Segmentation;🎯+Grounding+DINO+→+Open-Vocabulary+Detection;🦉+OWL-ViT+→+Vision-Language+Models;🌟+DINOv2+→+Self-Supervised+Learning;⚡+RT-DETR+→+Real-Time+Detection" alt="CV Typing" />
 
-  <!-- MMDeploy -->
-  <a href="https://github.com/open-mmlab/mmdeploy">
-    <img src="https://img.shields.io/badge/MMDeploy-0072C6?style=for-the-badge&logo=OpenMMLab&logoColor=white" />
-  </a>
-
-  <!-- Segment Anything -->
-  <a href="https://github.com/facebookresearch/segment-anything">
-    <img src="https://img.shields.io/badge/SegmentAnything-SAM-orange?style=for-the-badge&logo=Meta&logoColor=white" />
-  </a>
-
-  <!-- Grounding DINO -->
-  <a href="https://github.com/IDEA-Research/GroundingDINO">
-    <img src="https://img.shields.io/badge/GroundingDINO-FFA500?style=for-the-badge&logoColor=white" />
-  </a>
-
-  <!-- OWL-ViT -->
-  <a href="https://github.com/google-research/scenic/tree/main/scenic/projects/owl_vit">
-    <img src="https://img.shields.io/badge/OWL--ViT-6699CC?style=for-the-badge&logo=Google&logoColor=white" />
-  </a>
-
-  <!-- CLIP -->
-  <a href="https://github.com/openai/CLIP">
-    <img src="https://img.shields.io/badge/CLIP-000000?style=for-the-badge&logo=OpenAI&logoColor=white" />
-  </a>
-
-  <!-- BLIP-2 -->
-  <a href="https://github.com/salesforce/LAVIS">
-    <img src="https://img.shields.io/badge/BLIP--2-FFB347?style=for-the-badge&logo=Salesforce&logoColor=white" />
-  </a>
-
-  <!-- DINOv2 -->
-  <a href="https://github.com/facebookresearch/dinov2">
-    <img src="https://img.shields.io/badge/DINOv2-006400?style=for-the-badge&logo=Meta&logoColor=white" />
-  </a>
-
-  <!-- RT-DETR -->
-  <a href="https://github.com/IDEA-Research/RT-DETR">
-    <img src="https://img.shields.io/badge/RT--DETR-008080?style=for-the-badge&logoColor=white" />
-  </a>
-
-  <!-- PaddlePaddle -->
-<a href="https://github.com/PaddlePaddle">
-  <img src="https://img.shields.io/badge/PaddlePaddle-005BBB?style=for-the-badge&logo=Baidu&logoColor=white" />
+<a href="https://github.com/open-mmlab/mmdetection">
+  <img src="https://img.shields.io/badge/MMDetection-FF6F61?style=for-the-badge&logo=OpenMMLab&logoColor=white" />
 </a>
-
-<!-- OpenMMLab -->
-<a href="https://openmmlab.com/">
-  <img src="https://img.shields.io/badge/OpenMMLab-FF2400?style=for-the-badge&logo=OpenMMLab&logoColor=white" />
+<a href="https://github.com/facebookresearch/segment-anything">
+  <img src="https://img.shields.io/badge/SegmentAnything-SAM-orange?style=for-the-badge&logo=Meta&logoColor=white" />
 </a>
-
-<!-- IDEA Research -->
-<a href="https://github.com/IDEA-Research">
-  <img src="https://img.shields.io/badge/IDEA--Research-FF6600?style=for-the-badge&logo=Lightbulb&logoColor=white" />
+<a href="https://github.com/IDEA-Research/GroundingDINO">
+  <img src="https://img.shields.io/badge/GroundingDINO-FFA500?style=for-the-badge&logoColor=white" />
 </a>
-
-<!-- Tencent NCNN -->
-<a href="https://github.com/Tencent/ncnn">
-  <img src="https://img.shields.io/badge/Tencent--ncnn-0084FF?style=for-the-badge&logo=Tencent&logoColor=white" />
+<a href="https://github.com/openai/CLIP">
+  <img src="https://img.shields.io/badge/CLIP-000000?style=for-the-badge&logo=OpenAI&logoColor=white" />
 </a>
-
-<!-- MegEngine -->
-<a href="https://github.com/MegEngine">
-  <img src="https://img.shields.io/badge/MegEngine-00C957?style=for-the-badge&logoColor=white" />
+<a href="https://github.com/facebookresearch/dinov2">
+  <img src="https://img.shields.io/badge/DINOv2-006400?style=for-the-badge&logo=Meta&logoColor=white" />
 </a>
-
-<!-- OpenGVLab -->
-<a href="https://github.com/OpenGVLab">
-  <img src="https://img.shields.io/badge/OpenGVLab-FF7F50?style=for-the-badge&logoColor=white" />
-</a>
-
-
-  <!-- DiffusionDet -->
-  <a href="https://github.com/ShoufaChen/DiffusionDet">
-    <img src="https://img.shields.io/badge/DiffusionDet-FF00FF?style=for-the-badge&logoColor=white" />
-  </a>
-
-  <!-- ControlNet -->
-  <a href="https://github.com/lllyasviel/ControlNet">
-    <img src="https://img.shields.io/badge/ControlNet-FF4500?style=for-the-badge&logoColor=white" />
-  </a>
-
-  <!-- DreamBooth -->
-  <a href="https://github.com/XavierXiao/Dreambooth-Stable-Diffusion">
-    <img src="https://img.shields.io/badge/DreamBooth-FFD700?style=for-the-badge&logoColor=black" />
-  </a>
-
-  <!-- OpenCLIP -->
-  <a href="https://github.com/mlfoundations/open_clip">
-    <img src="https://img.shields.io/badge/OpenCLIP-0000FF?style=for-the-badge&logoColor=white" />
-  </a>
-
-  <!-- Kornia -->
-  <a href="https://github.com/kornia/kornia">
-    <img src="https://img.shields.io/badge/Kornia-32CD32?style=for-the-badge&logo=PyTorch&logoColor=white" />
-  </a>
-
-  <!-- AugLy -->
-  <a href="https://github.com/facebookresearch/AugLy">
-    <img src="https://img.shields.io/badge/AugLy-9932CC?style=for-the-badge&logo=Meta&logoColor=white" />
-  </a>
-
-  <!-- AutoAugment -->
-  <a href="https://github.com/DeepVoltaire/AutoAugment">
-    <img src="https://img.shields.io/badge/AutoAugment-FF6347?style=for-the-badge&logoColor=white" />
-  </a>
-
-</p>
-
 
 </div>
 
-### 🎙️ Audio & Speech AI
+### 🎙️ Audio & Speech Intelligence
 <div align="center">
 
+  <!-- Audio Animation -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=18&duration=3600&pause=2200&color=FF1493,00CED1,FFD700&center=true&vCenter=true&width=900&lines=🎤+Whisper+→+Universal+Speech+Recognition;🗣️+Coqui+TTS+→+High-Quality+Synthesis;🎵+Bark+→+Generative+Audio+Models;⚡+RVC+→+Real-Time+Voice+Conversion;🔊+ElevenLabs+→+Advanced+Voice+AI" alt="Audio Typing" />
+
 [![Whisper](https://img.shields.io/badge/Whisper-412991?style=for-the-badge&logo=openai&logoColor=white)](https://openai.com/research/whisper)
-[![TorchAudio](https://img.shields.io/badge/TorchAudio-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)](https://pytorch.org/audio/)
-[![Librosa](https://img.shields.io/badge/Librosa-FF6B6B?style=for-the-badge&logo=python&logoColor=white)](https://librosa.org/)
 [![Coqui TTS](https://img.shields.io/badge/Coqui_TTS-FF6B6B?style=for-the-badge)](https://coqui.ai/)
-[![Tortoise TTS](https://img.shields.io/badge/Tortoise_TTS-8A2BE2?style=for-the-badge)](https://github.com/neonbjb/tortoise-tts)
 [![Bark](https://img.shields.io/badge/Bark-228B22?style=for-the-badge)](https://github.com/suno-ai/bark)
 [![RVC](https://img.shields.io/badge/RVC-FF1493?style=for-the-badge)](https://github.com/RVC-Project/Retrieval-based-Voice-Conversion-WebUI)
 [![ElevenLabs](https://img.shields.io/badge/ElevenLabs-000000?style=for-the-badge)](https://elevenlabs.io/)
-<a href="https://github.com/openai/whisper"><img src="https://img.shields.io/badge/Whisper-000000?style=for-the-badge&logo=OpenAI&logoColor=white" /></a>
-<a href="https://github.com/alphacep/vosk"><img src="https://img.shields.io/badge/Vosk-008080?style=for-the-badge" /></a>
-<a href="https://github.com/MoonshotAI/Kimi-Audio"><img src="https://img.shields.io/badge/Kimi‑Audio-FF1493?style=for-the-badge" /></a>
-<a href="https://github.com/stepfun-ai/Step-Audio"><img src="https://img.shields.io/badge/Step‑Audio-8A2BE2?style=for-the-badge" /></a>
-<a href="https://github.com/MoonshotAI/Kimi-Audio"><img src="https://img.shields.io/badge/Kimi‑Audio-00CED1?style=for-the-badge" /></a>
-<a href="https://modal.com/blog/open-source-tts#Chatterbox"><img src="https://img.shields.io/badge/Chatterbox-TTS‑May2025-FF4500?style=for-the-badge" /></a>
-<a href="https://github.com/bentoml/xtts-v2"><img src="https://img.shields.io/badge/XTTS‑v2-32CD32?style=for-the-badge" /></a>
-<a href="https://github.com/ResembleAI/Chatterbox"><img src="https://img.shields.io/badge/Dia‑TTS-FFA500?style=for-the-badge" /></a>
-<a href="https://github.com/RVC-Project"><img src="https://img.shields.io/badge/RVC‑Voice‑Conversion-FFD700?style=for-the-badge" /></a>
-<a href="https://www.elevenlabs.io"><img src="https://img.shields.io/badge/ElevenLabs‑ConvAI2.0‑Speech-FF69B4?style=for-the-badge" /></a>
-</p>
 
 </div>
 
-### 🎤 Voice Cloning & Synthesis Stack
+### 🎤 Voice Cloning & Neural Synthesis
 <div align="center">
+
+  <!-- Voice Tech Animation -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&weight=600&size=16&duration=4200&pause=2600&color=8A2BE2,FF6347,00FF7F&center=true&vCenter=true&width=850&lines=🎯+XTTS+→+Extreme+Text-to-Speech;🎭+YourTTS+→+Multi-Speaker+Synthesis;🎪+SpeechT5+→+Unified+Speech+Models;🎨+VITS+→+End-to-End+Generation;🎼+FastSpeech2+→+Non-Autoregressive+TTS;🎵+HiFi-GAN+→+High-Fidelity+Audio" alt="Voice Tech Typing" />
 
 [![XTTS](https://img.shields.io/badge/XTTS-FF4B4B?style=for-the-badge)](https://github.com/coqui-ai/TTS)
 [![YourTTS](https://img.shields.io/badge/YourTTS-4169E1?style=for-the-badge)](https://github.com/coqui-ai/TTS)
@@ -301,20 +191,11 @@
 
 </div>
 
-### 📡 Signal Processing & Analysis
+### 🗄️ Vector Databases & Knowledge Systems
 <div align="center">
 
-[![SciPy Signal](https://img.shields.io/badge/SciPy_Signal-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)](https://scipy.org/)
-[![PyWavelets](https://img.shields.io/badge/PyWavelets-FF6B35?style=for-the-badge)](https://pywavelets.readthedocs.io/)
-[![Spectrum](https://img.shields.io/badge/Spectrum-4B0082?style=for-the-badge)](https://pyspectrum.readthedocs.io/)
-[![MATLAB Signal](https://img.shields.io/badge/MATLAB_Signal-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)](https://mathworks.com/)
-[![GNU Radio](https://img.shields.io/badge/GNU_Radio-228B22?style=for-the-badge)](https://gnuradio.org/)
-[![DSP](https://img.shields.io/badge/DSP_Filters-FF4500?style=for-the-badge)](https://dspfilters.readthedocs.io/)
-
-</div>
-
-### 🗄️ Vector Databases & Search
-<div align="center">
+  <!-- Vector DB Animation -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&weight=600&size=19&duration=3400&pause=1700&color=FF69B4,00BFFF,32CD32&center=true&vCenter=true&width=800&lines=📊+Pinecone+→+Production+Vector+Search;🕸️+Weaviate+→+Knowledge+Graphs;🎨+ChromaDB+→+Embeddings+Database;⚡+Qdrant+→+High-Performance+Search" alt="Vector DB Typing" />
 
 [![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white)](https://pinecone.io/)
 [![Weaviate](https://img.shields.io/badge/Weaviate-FF6B6B?style=for-the-badge)](https://weaviate.io/)
@@ -323,160 +204,144 @@
 
 </div>
 
-### 🧬 Bioinformatics & Scientific AI
+### 🧬 Bioinformatics & Scientific Computing
 <div align="center">
+
+  <!-- Bio Animation -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu+Mono&weight=700&size=18&duration=4000&pause=2800&color=00FF00,FF4500,9370DB&center=true&vCenter=true&width=900&lines=🧬+BioPython+→+Computational+Biology;🔬+AlphaFold+→+Protein+Structure+Prediction;🧪+ESMFold+→+Evolutionary+Scale+Modeling;⚗️+PyTorch+Geometric+→+Graph+Neural+Networks;🏥+MONAI+→+Medical+AI+Framework" alt="Bio Typing" />
 
 [![BioPython](https://img.shields.io/badge/BioPython-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://biopython.org/)
 [![AlphaFold](https://img.shields.io/badge/AlphaFold-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://alphafold.ebi.ac.uk/)
 [![ESMFold](https://img.shields.io/badge/ESMFold-1877F2?style=for-the-badge&logo=meta&logoColor=white)](https://esmatlas.org/)
 [![PyTorch Geometric](https://img.shields.io/badge/PyG-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)](https://pytorch-geometric.readthedocs.io/)
 [![MONAI](https://img.shields.io/badge/MONAI-76B900?style=for-the-badge)](https://monai.io/)
-[![ITK](https://img.shields.io/badge/ITK-FF6B35?style=for-the-badge)](https://itk.org/)
 
 </div>
 
-### 🏥 Medical Imaging & Healthcare AI
 <div align="center">
-
-[![SimpleITK](https://img.shields.io/badge/SimpleITK-FF6B35?style=for-the-badge)](https://simpleitk.org/)
-[![NiBabel](https://img.shields.io/badge/NiBabel-4B0082?style=for-the-badge)](https://nipy.org/nibabel/)
-[![Radiomics](https://img.shields.io/badge/Radiomics-DC143C?style=for-the-badge)](https://pyradiomics.readthedocs.io/)
-[![MedPy](https://img.shields.io/badge/MedPy-228B22?style=for-the-badge)](https://medpy.readthedocs.io/)
-[![DICOM](https://img.shields.io/badge/DICOM-0076A8?style=for-the-badge)](https://pydicom.github.io/)
-[![3D Slicer](https://img.shields.io/badge/3D_Slicer-FF8C00?style=for-the-badge)](https://slicer.org/)
-
-</div>
-
-### 🛡️ Defense & Aerospace Systems
-<div align="center">
-
-[![Simulink](https://img.shields.io/badge/Simulink-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)](https://mathworks.com/products/simulink.html)
-[![Radar Toolbox](https://img.shields.io/badge/Radar_Toolbox-FF4500?style=for-the-badge&logo=mathworks&logoColor=white)](https://mathworks.com/)
-[![Aerospace](https://img.shields.io/badge/Aerospace_Blockset-4169E1?style=for-the-badge&logo=mathworks&logoColor=white)](https://mathworks.com/)
-[![RF Toolbox](https://img.shields.io/badge/RF_Toolbox-8A2BE2?style=for-the-badge&logo=mathworks&logoColor=white)](https://mathworks.com/)
-[![Phased Array](https://img.shields.io/badge/Phased_Array-DC143C?style=for-the-badge&logo=mathworks&logoColor=white)](https://mathworks.com/)
-[![Communications](https://img.shields.io/badge/Comm_Toolbox-228B22?style=for-the-badge&logo=mathworks&logoColor=white)](https://mathworks.com/)
-
-</div>
-<div align="center">
-  <img src="https://media.giphy.com/media/IUNycHoVqvLDowiiam/giphy.gif" width="400" alt="Neural Architecture">
+  <img src="https://media.giphy.com/media/IUNycHoVqvLDowiiam/giphy.gif" width="500" alt="Neural Architecture"/>
 </div>
 
 ---
-### **Transformer Architectures Across All Data Types**
 
-#### 📝 **Sequential Data Transformers**
--  **GPT-4, BERT, T5** → Natural Language Processing
-- 📈 **Time Series Transformers (TST)** → Stock, weather, sensor forecasting  
-- 🎵 **Informer, Autoformer, FEDformer** → Long-term sequence prediction
-- 🎙️ **Wav2Vec, Whisper** → Speech-to-text, audio understanding
-- 🧬 **DNABERT, Genomic Transformers** → DNA/RNA sequence analysis
+## 🏗️ TRANSFORMER ARCHITECTURES ACROSS ALL DATA DIMENSIONS
 
-#### 🖼️ **Spatial Data Transformers**  
-- 👁️ **Vision Transformer (ViT)** → Pure transformer vision
-- 🏗️ **Swin Transformer** → Hierarchical spatial attention
-- 🔍 **SAM (Segment Anything)** → Universal image segmentation
-- 🏥 **MedViT, UNETR** → Medical imaging (MRI, CT scans)
-- 🛰️ **SATViT** → Satellite & remote sensing analysis
-- 📍 **Point Transformers** → 3D point cloud processing
+<div align="center">
 
-#### 📡 **Signal Processing Transformers**
-- 🌊 **WaveNet Transformers** → Audio waveform synthesis
--  **S4 (State Space Models)** → Long-range signal dependencies
--  **EEG-BERT, ECG-Transformers** → Biomedical signal analysis
-- 🛡️ **RadarFormer, SonarFormer** → Defense signal processing
+  <!-- Transformer Header -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=800&size=24&duration=2600&pause=1300&color=FF00FF,00FFFF,FFFF00&center=true&vCenter=true&width=850&lines=🌌+UNIVERSAL+TRANSFORMER+ARCHITECTURES+🌌;🔮+MULTI-DIMENSIONAL+DATA+PROCESSING+🔮;⚡+NEXT-GEN+ATTENTION+MECHANISMS+⚡" alt="Transformer Header" />
 
-#### 🧬 **Bioinformatics Transformers**
-- 🔬 **AlphaFold2** → Protein structure prediction
-- 🧪 **ProGen, ProtTrans** → Protein language models
-- 🔗 **Single-Cell Transformers** → Cellular data analysis
+</div>
 
-#### 🌐 **Multi-Modal Fusion Systems**
-- 🎯 **CLIP, ALIGN** → Vision + Language understanding
-- 🦎 **Flamingo, Gato** → Generalist multi-modal AI
-- 🔄 **Perceiver IO** → Universal multi-modal architecture
+### 📝 Sequential Data Transformers
+<div align="center">
 
-### 🏗️ **My Current AI Pipeline Architectures**
--  **Multi-Agent LLM Orchestration** with RAG + RLHF + MCP Protocol
-- 🔄 **Cognitive AI Loops** & Hierarchical Reasoning Systems  
-- 🛰 **Multimodal Fusion Pipelines** (Vision + NLP + Audio + Signals)  
-- 🧬 **Genomics Transformers** with Protein Folding Integration  
-- ⚛️ **Physics-Informed Neural Networks** for Scientific Computing  
-- ⚡ **Real-time AI Inference** on Edge & Cloud GPU Clusters
-- 🎙️ **Advanced Voice AI Stack** (TTS + STT + Voice Cloning + Real-time Translation)
-- 📡 **Signal Processing AI** (FFT + Spectrograms + Wavelet Analysis + MFCC)
+  <!-- Sequential Animation -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=17&duration=3800&pause=2200&color=32CD32,FF6347,1E90FF&center=true&vCenter=true&width=900&lines=📚+GPT-4%2C+BERT%2C+T5+→+Natural+Language+Processing;📈+Time+Series+Transformers+→+Financial+%26+Weather+Forecasting;🎵+Informer%2C+Autoformer+→+Long-term+Sequence+Prediction;🎙️+Wav2Vec%2C+Whisper+→+Speech+Understanding;🧬+DNABERT%2C+Genomic+Transformers+→+Biological+Sequences" alt="Sequential Typing" />
+
+</div>
+
+### 🖼️ Spatial Data Transformers
+<div align="center">
+
+  <!-- Spatial Animation -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&weight=600&size=17&duration=4200&pause=2600&color=FF69B4,00CED1,FFD700&center=true&vCenter=true&width=950&lines=👁️+Vision+Transformer+(ViT)+→+Pure+Transformer+Vision;🏗️+Swin+Transformer+→+Hierarchical+Spatial+Attention;🔍+SAM+(Segment+Anything)+→+Universal+Segmentation;🏥+MedViT%2C+UNETR+→+Medical+Imaging+(MRI%2C+CT);🛰️+SATViT+→+Satellite+%26+Remote+Sensing;📍+Point+Transformers+→+3D+Point+Cloud+Processing" alt="Spatial Typing" />
+
+</div>
+
+### 📡 Signal Processing Transformers
+<div align="center">
+
+  <!-- Signal Animation -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&weight=600&size=17&duration=3600&pause=2000&color=8A2BE2,FF4500,00FF7F&center=true&vCenter=true&width=900&lines=🌊+WaveNet+Transformers+→+Audio+Waveform+Synthesis;⚡+S4+(State+Space+Models)+→+Long-range+Dependencies;🧠+EEG-BERT%2C+ECG-Transformers+→+Biomedical+Signals;🛡️+RadarFormer%2C+SonarFormer+→+Defense+Systems" alt="Signal Typing" />
+
+</div>
+
+### 🧬 Bioinformatics Transformers
+<div align="center">
+
+  <!-- Bio Transformer Animation -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu+Mono&weight=600&size=18&duration=3200&pause=1800&color=00FF00,FF1493,00BFFF&center=true&vCenter=true&width=850&lines=🔬+AlphaFold2+→+Protein+Structure+Prediction;🧪+ProGen%2C+ProtTrans+→+Protein+Language+Models;🔗+Single-Cell+Transformers+→+Cellular+Analysis" alt="Bio Transformer Typing" />
+
+</div>
+
+### 🌐 Multi-Modal Fusion Systems
+<div align="center">
+
+  <!-- Multimodal Animation -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=18&duration=3400&pause=1900&color=FF6347,9932CC,32CD32&center=true&vCenter=true&width=850&lines=🎯+CLIP%2C+ALIGN+→+Vision+%2B+Language+Understanding;🦎+Flamingo%2C+Gato+→+Generalist+Multi-modal+AI;🔄+Perceiver+IO+→+Universal+Architecture" alt="Multimodal Typing" />
+
+</div>
 
 ---
 
-## 🌍 AI for Global Impact & SDGs
+## 🏗️ MY CURRENT AI PIPELINE ARCHITECTURES
+
+<div align="center">
+
+  <!-- Pipeline Header -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=800&size=22&duration=2400&pause=1200&color=00FFFF,FF00FF,FFFF00&center=true&vCenter=true&width=800&lines=🚀+ADVANCED+AI+PIPELINE+SYSTEMS+🚀;⚡+PRODUCTION-READY+ARCHITECTURES+⚡" alt="Pipeline Header" />
+
+  <!-- Pipeline Details -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=16&duration=4000&pause=2500&color=FF4500,00FF7F,1E90FF,FF69B4&center=true&vCenter=true&width=950&lines=🤖+Multi-Agent+LLM+Orchestration+with+RAG+%2B+RLHF+%2B+MCP;🔄+Cognitive+AI+Loops+%26+Hierarchical+Reasoning;🛰️+Multimodal+Fusion+(Vision+%2B+NLP+%2B+Audio+%2B+Signals);🧬+Genomics+Transformers+with+Protein+Folding;⚛️+Physics-Informed+Neural+Networks;⚡+Real-time+AI+Inference+(Edge+%2B+Cloud+GPU);🎙️+Advanced+Voice+AI+Stack+(TTS+%2B+STT+%2B+Cloning);📡+Signal+Processing+AI+(FFT+%2B+Spectrograms+%2B+MFCC)" alt="Pipeline Details" />
+
+</div>
+
+---
+
+## 🌍 AI FOR GLOBAL IMPACT & SUSTAINABLE DEVELOPMENT
+
+<div align="center">
+  <!-- Header Typing SVG -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=800&size=24&duration=2800&pause=1600&color=32CD32,FF6347,00BFFF¢er=true&vCenter=true&width=900&lines=🌍+AI+FOR+A+SUSTAINABLE+FUTURE+🌍;⚡+EMPOWERING+GLOBAL+SOLUTIONS+⚡;🔮+TRANSFORMING+LIVES+WITH+INTELLIGENCE+🔮" alt="Impact Header" />
+</div>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWJsbGNlaDRudWl5c2g5NXN4OWl5enFiM3V6eDRjdW5zaXY2c3A3YiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/QaXOeJInKqKY5JuRwM/giphy.gif" width="500">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWJsbGNlaDRudWl5c2g5NXN4OWl5enFiM3V6eDRjdW5zaXY2c3A3YiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/QaXOeJInKqKY5JuRwM/giphy.gif" width="500" alt="Global Impact Animation">
 </p>
 
-| 🌿 **Domain** |  **AI Solutions** | 🎯 **SDG Impact** |
-|:---:|:---:|:---:|
-| 🌾 **Agriculture** | Crop Disease Detection, Yield Prediction | SDG 2: Zero Hunger |
-| 🏥 **Healthcare** | Medical Imaging, Drug Discovery, Genomics | SDG 3: Good Health |
-| ⚖️ **Legal Tech** | Legal Document AI, Policy Analysis | SDG 16: Peace & Justice |
-| 🌊 **Climate** | Carbon Modeling, Environmental Monitoring | SDG 13: Climate Action |
-| 🔋 **Energy** | Smart Grid Optimization, Renewable Forecasting | SDG 7: Clean Energy |
-| 🎓 **Education** | Personalized AI Tutors, Adaptive Learning | SDG 4: Quality Education |
-
----
-
-## 📊 GitHub Intelligence Metrics
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=inayatrahimdev&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=00D4FF&text_color=FFFFFF" width="48%" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=inayatrahimdev&theme=radical&hide_border=true&background=0D1117&stroke=00D4FF&ring=00D4FF&fire=FF6B6B&currStreakLabel=00D4FF" width="48%" alt="GitHub Streak"/>
+
+| 🌿 **Domain** | 🤖 **AI Solutions** | 🔬 **Key Technologies** | 🎯 **SDG Impact** |
+|:---:|:---:|:---:|:---:|
+| 🌾 **Agriculture** | Crop Disease Detection, Precision Farming | Vision Transformers, Multi-Agent Systems | SDG 2: Zero Hunger |
+| 🏥 **Healthcare** | Personalized Medicine, Medical Imaging | Genomics Transformers, MedViT | SDG 3: Good Health |
+| 🌊 **Climate** | Carbon Sequestration, Disaster Prediction | Physics-Informed ML, Time Series Transformers | SDG 13: Climate Action |
+| 🔋 **Energy** | Smart Grids, Renewable Optimization | Quantum ML, PINNs | SDG 7: Clean Energy |
+| 🎓 **Education** | Adaptive Learning, AI Tutors | Multimodal LLMs, RAG | SDG 4: Quality Education |
+| 🚀 **Space** | Autonomous Exploration, Satellite Analysis | Multi-Agent Swarms, SATViT | SDG 9: Industry & Innovation |
+| 🌆 **Urban Systems** | Smart Cities, Traffic Optimization | Graph Neural Networks, Multimodal Fusion | SDG 11: Sustainable Cities |
+
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=inayatrahimdev&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF" width="50%" alt="Top Languages"/>
+  <!-- Closing Typing SVG -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=1500&color=00FF7F,FF4500,1E90FF¢er=true&vCenter=true&width=850&lines=🌐+COLLABORATING+FOR+A+BETTER+TOMORROW;⚡+AI-DRIVEN+SOLUTIONS+FOR+GLOBAL+CHALLENGES;🔮+COMMITTED+TO+SUSTAINABLE+DEVELOPMENT" alt="Closing Typing" />
 </div>
 
----
-
-
----
-
-## 🏆 AI Achievements & Recognition
-
 <div align="center">
-
-[![Kaggle](https://img.shields.io/badge/Kaggle-Expert-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/inayatrahim)
-[![Google Developer](https://img.shields.io/badge/Google_AI-Certified-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://developers.google.com/)
-[![AWS ML](https://img.shields.io/badge/AWS-ML_Specialty-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
-[![Papers](https://img.shields.io/badge/Research_Papers-5+-FF6B6B?style=for-the-badge&logo=academia&logoColor=white)](https://scholar.google.com/)
-
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=800&size=24&duration=3000&pause=1500&color=20BEFF,FF9900,FF6B6B&center=true&vCenter=true&width=900&lines=🏆+AI+EXCELLENCE+&+GLOBAL+RECOGNITION;⚡+Kaggle+Expert+%7C+Google+AI+Certified+%7C+AWS+ML+Specialty;🔬+5%2B+Research+Papers+Driving+AI+Innovation" alt="Achievements Header" />
+</div>
+<div align="center">
+  [![Kaggle](https://img.shields.io/badge/Kaggle-Expert-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/inayatrahim)
+  [![Google Developer](https://img.shields.io/badge/Google_AI-Certified-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://developers.google.com/)
+  [![AWS ML](https://img.shields.io/badge/AWS-ML_Specialty-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
+  [![Papers](https://img.shields.io/badge/Research_Papers-5+-FF6B6B?style=for-the-badge&logo=academia&logoColor=white)](https://scholar.google.com/)
 </div>
 
----
-
-## 🌐 Connect & Collaborate
-
 <div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Inayat_RAHIM-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/inayat-rahim-b0655b29b/)
-[![Email](https://img.shields.io/badge/Email-inayatrahim006@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:inayatrahim006@gmail.com)
-[![Kaggle](https://img.shields.io/badge/Kaggle-inayatrahim-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/inayatrahim)
-[![Twitter](https://img.shields.io/badge/Twitter-@InayatAI-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/InayatAI)
-
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=1200&color=0A66C2,1DA1F2,20BEFF&center=true&vCenter=true&width=850&lines=🌐+CONNECT+&+COLLABORATE+WITH+INAYAT+RAHIM;⚡+Join+the+AI+Revolution+for+Global+Impact;🔮+Let’s+Build+Tomorrow’s+Intelligence+Together" alt="Connect Header" />
+</div>
+<div align="center">
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Inayat_RAHIM-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/inayat-rahim-b0655b29b/)
+  [![Email](https://img.shields.io/badge/Email-inayatrahim006@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:inayatrahim006@gmail.com)
+  [![Kaggle](https://img.shields.io/badge/Kaggle-inayatrahim-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/inayatrahim)
+  [![Twitter](https://img.shields.io/badge/Twitter-@InayatAI-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/InayatAI)
 </div>
 
----
-
 <div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=26&duration=3200&pause=1400&color=00FF7F,FF00FF,FFFF00&center=true&vCenter=true&width=900&lines=🌟+BUILDING+AI+THAT+TRANSFORMS+TOMORROW%2C+TODAY!;⚡+POWERED+BY+INNOVATION+%7C+DRIVEN+BY+AI;🔮+COMMITTED+TO+GLOBAL+IMPACT" alt="Innovation Header" />
   <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="300" alt="Innovation">
-  
-  ### 🌟 "Building AI that transforms tomorrow, today!" 🌟
-  
   <img src="https://komarev.com/ghpvc/?username=inayatrahimdev&color=00D4FF&style=for-the-badge&label=Profile+Views" alt="Profile Views"/>
-</div>
-
----
-
-<div align="center">
   <sub> Powered by Innovation | Driven by AI | 🌍 Committed to Global Impact</sub>
 </div>
