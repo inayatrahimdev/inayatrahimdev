@@ -36,8 +36,10 @@
 
 ## 🛠️ AI Technology Stack 2025
 
-### Core Frameworks
+### Core Frameworks & Model Zoos
 <div align="center">
+
+<!-- CORE FRAMEWORKS -->
 
 [![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)](https://pytorch.org/)
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](https://tensorflow.org/)
@@ -56,10 +58,29 @@
 [![Optuna](https://img.shields.io/badge/Optuna-0099CC?style=for-the-badge)](https://optuna.org/)
 [![Weights & Biases](https://img.shields.io/badge/W&B-FFBE00?style=for-the-badge&logo=wandb&logoColor=white)](https://wandb.ai/)
 
+<!-- FAMOUS MODEL ZOOS -->
+
+[![Torch Hub](https://img.shields.io/badge/Torch_Hub-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)](https://pytorch.org/hub/)
+[![TensorFlow Hub](https://img.shields.io/badge/TensorFlow_Hub-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](https://tfhub.dev/)
+[![Hugging Face Model Hub](https://img.shields.io/badge/Hugging_Face_Hub-FFD21E?style=for-the-badge)](https://huggingface.co/models)
+[![OpenMMLab Model Zoo](https://img.shields.io/badge/OpenMMLab_Model_Zoo-00599C?style=for-the-badge&logo=github&logoColor=white)](https://openmmlab.com/)
+[![Detectron2](https://img.shields.io/badge/Detectron2-00599C?style=for-the-badge&logo=meta&logoColor=white)](https://github.com/facebookresearch/detectron2)
+
+<!-- OTHER POWERFUL MODEL ZOOS -->
+
+[![Timm](https://img.shields.io/badge/TimM-1B4332?style=for-the-badge&logo=github&logoColor=white)](https://github.com/huggingface/pytorch-image-models)
+[![PapersWithCode](https://img.shields.io/badge/PapersWithCode-0072B1?style=for-the-badge&logo=researchgate&logoColor=white)](https://paperswithcode.com)
+[![Ultralytics YOLO](https://img.shields.io/badge/Ultralytics-YOLOv8-FFD700?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ultralytics/ultralytics)
+[![ONNX Model Zoo](https://img.shields.io/badge/ONNX_Model_Zoo-005BBB?style=for-the-badge&logo=onnx&logoColor=white)](https://github.com/onnx/models)
+[![OpenVINO Model Zoo](https://img.shields.io/badge/OpenVINO-007ACC?style=for-the-badge&logo=intel&logoColor=white)](https://github.com/openvinotoolkit/open_model_zoo)
+[![DeepSparse](https://img.shields.io/badge/DeepSparse-NeuralMagic-FF6347?style=for-the-badge)](https://docs.neuralmagic.com)
+[![Roboflow Universe](https://img.shields.io/badge/Roboflow_Universe-6A0DAD?style=for-the-badge&logo=github&logoColor=white)](https://universe.roboflow.com)
+[![Modelplace.AI](https://img.shields.io/badge/Modelplace.AI-FF6F00?style=for-the-badge)](https://modelplace.ai)
+[![NVIDIA NGC Model Hub](https://img.shields.io/badge/NVIDIA_NGC-76B900?style=for-the-badge&logo=nvidia&logoColor=white)](https://catalog.ngc.nvidia.com/models)
+
 </div>
 
 
-</div>
 
 ### 🤖 LLM & Agent Frameworks
 <div align="center">
