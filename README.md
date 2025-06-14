@@ -365,14 +365,19 @@
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=inayatrahimdev&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views"/>
-</p>
-<h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00FFAA&width=1000&center=true&vCenter=true&lines=Innovation+%7C+Driven+by+AI+%7C+🌍+to+Global+Impact&duration=3000" alt="Typing SVG Footer" />
-</h2>
+<div align="center">
 
-<p align="center"><b> Powered by Innovation | Driven by AI | 🌍 Committed to Global Impact</b></p>
+  <!-- Profile Views Badge -->
+  <img src="https://komarev.com/ghpvc/?username=inayatrahimdev&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
+
+  <!-- Spacer -->
+  <br><br>
+
+  <!-- Typing SVG Footer -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1500&color=00FFAA&width=1000&center=true&vCenter=true&lines=🚀+Powered+by+Innovation;🤖+Driven+by+AI+Excellence;🌍+Committed+to+Global+Impact;🌐+Engineering+the+Future+of+AI;💡+Solving+Grand+Challenges+with+AI;🎯+Advancing+Next-Gen+AI+Solutions" alt="Typing SVG Footer" />
+
+</div>
+
 
 
 
