@@ -376,6 +376,9 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=inayatrahimdev&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views"/>
 </p>
+<h2 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00FFAA&width=1000&center=true&vCenter=true&lines=🚀+Powered+by+Innovation+%7C+Driven+by+AI+%7C+🌍+Committed+to+Global+Impact&duration=3000" alt="Typing SVG Footer" />
+</h2>
 
 <p align="center"><b>🚀 Powered by Innovation | Driven by AI | 🌍 Committed to Global Impact</b></p>
 
