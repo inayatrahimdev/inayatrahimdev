@@ -339,8 +339,6 @@
   <br>
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy." width="400" alt="Collaboration Animation">
   <br>
-  <div align="center">
-
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Inayat_RAHIM-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/inayat-rahim-b0655b29b/)
   [![Email](https://img.shields.io/badge/Email-inayatrahim006@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:inayatrahim006@gmail.com)
   [![Kaggle](https://img.shields.io/badge/Kaggle-inayatrahim-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/inayatrahim)
