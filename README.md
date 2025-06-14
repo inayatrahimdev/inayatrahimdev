@@ -73,6 +73,7 @@
 </div>
 
 ### 🔗 Emerging AI Stacks & Protocols
+
 <div align="center">
 
 [![MCP](https://img.shields.io/badge/MCP_Protocol-9932CC?style=for-the-badge)](https://modelcontextprotocol.io/)
@@ -84,12 +85,33 @@
 
 </div>
 
-<h2 align="center">⚡ VIBE CODING TECH STACK ⚡</h2>
+### <h2 align="center">⚡ VIBE CODING TECH STACK ⚡</h2>
 <p align="center">
 [![Cursor AI](https://img.shields.io/badge/Cursor_AI-000000?style=for-the-badge)](https://www.cursor.so/)
   [![Bolt AI](https://img.shields.io/badge/Bolt_AI-FF6B35?style=for-the-badge)](https://boltai.xyz/) 
   [![Emergent.sh](https://img.shields.io/badge/Emergent.sh-4169E1?style=for-the-badge)](https://emergent.sh/)
   [![Windsurf AI](https://img.shields.io/badge/Windsurf_AI-00D4FF?style=for-the-badge)](https://windsurf.ai/)
+</p>
+<h2 align="center">⚡ VIBE CODING TECH STACK ⚡</h2>
+
+<p align="center">
+  <a href="https://www.cursor.so/">
+    <img src="https://img.shields.io/badge/Cursor_AI-000000?style=for-the-badge" alt="Cursor AI"/>
+  </a>
+  <a href="https://boltai.xyz/">
+    <img src="https://img.shields.io/badge/Bolt_AI-FF6B35?style=for-the-badge" alt="Bolt AI"/>
+  </a>
+  <a href="https://emergent.sh/">
+    <img src="https://img.shields.io/badge/Emergent.sh-4169E1?style=for-the-badge" alt="Emergent.sh"/>
+  </a>
+  <a href="https://windsurf.ai/">
+    <img src="https://img.shields.io/badge/Windsurf_AI-00D4FF?style=for-the-badge" alt="Windsurf AI"/>
+  </a>
+  <a href="https://github.com/microsoft/autogen">
+    <img src="https://img.shields.io/badge/AutoGen-228B22?style=for-the-badge" alt="AutoGen"/>
+  </a>
+</p>
+
 
 
 ### 👁️ Computer Vision
