@@ -122,38 +122,29 @@
 
   <!-- Models Animation -->
   <img src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&weight=600&size=17&duration=4000&pause=2500&color=8A2BE2,FF4500,00CED1,FF1493&center=true&vCenter=true&width=900&lines=GPT-4+→+Advanced+Reasoning+%7C+Claude+→+Constitutional+AI;LLaMA+→+Open+Foundation+Models+%7C+Mistral+→+Efficient+Architecture;Gemini+→+Multimodal+Intelligence+%7C+PaLM+→+Language+Understanding" alt="Models Typing" />
-[![Claude](https://img.shields.io/badge/Claude-FF6B35?style=for-the-badge&logo=anthropic&logoColor=white)](https://anthropic.com/)
-[![PaLM](https://img.shields.io/badge/PaLM-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://ai.google/discover/palm2/)
-[![Qwen](https://img.shields.io/badge/Qwen-800000?style=for-the-badge&logo=alibaba&logoColor=white)](https://huggingface.co/Qwen)
-[![DeepSeek](https://img.shields.io/badge/DeepSeek-008B8B?style=for-the-badge&logo=deepseek&logoColor=white)](https://huggingface.co/deepseek-ai)
-[![WenXin](https://img.shields.io/badge/WenXin-DC143C?style=for-the-badge&logo=baidu&logoColor=white)](https://wenxin.baidu.com/)
-[![Moonshot](https://img.shields.io/badge/Moonshot-8B008B?style=for-the-badge&logo=moonshot&logoColor=white)](https://moonshot-ai.com/)
-[![Zhipu AI](https://img.shields.io/badge/Zhipu_AI-228B22?style=for-the-badge&logo=zhipu&logoColor=white)](https://open.bigmodel.cn/)
-[![Kimi AI](https://img.shields.io/badge/Kimi_AI-FF1493?style=for-the-badge&logo=kimi&logoColor=white)](https://kimi.moonshot.cn/)
-[![ERNIE Bot](https://img.shields.io/badge/ERNIE_Bot-4169E1?style=for-the-badge&logo=baidu&logoColor=white)](https://yiyan.baidu.com/)
-[![MiniMax](https://img.shields.io/badge/MiniMax-DA70D6?style=for-the-badge&logo=minimax&logoColor=white)](https://www.minimax.chat/)
-[![SenseTime](https://img.shields.io/badge/SenseTime-FF4500?style=for-the-badge&logo=sensetime&logoColor=white)](https://www.sensetime.com/en)
-[![iFLYTEK](https://img.shields.io/badge/iFLYTEK-20B2AA?style=for-the-badge&logo=iflytek&logoColor=white)](https://xinghuo.xfyun.cn/)
-[![Qwen](https://img.shields.io/badge/Qwen-800000?style=for-the-badge&logo=alibaba&logoColor=white)](https://huggingface.co/Qwen)  
-[![DeepSeek](https://img.shields.io/badge/DeepSeek-008B8B?style=for-the-badge&logo=deepseek&logoColor=white)](https://huggingface.co/deepseek-ai)  
-[![WenXin](https://img.shields.io/badge/WenXin-DC143C?style=for-the-badge&logo=baidu&logoColor=white)](https://wenxin.baidu.com/)  
-[![Moonshot](https://img.shields.io/badge/Moonshot-8B008B?style=for-the-badge&logo=moonshot&logoColor=white)](https://moonshot-ai.com/)  
-[![Zhipu AI](https://img.shields.io/badge/Zhipu_AI-228B22?style=for-the-badge&logo=zhipu&logoColor=white)](https://open.bigmodel.cn/)  
-[![Kimi AI](https://img.shields.io/badge/Kimi_AI-FF1493?style=for-the-badge&logo=kimi&logoColor=white)](https://kimi.moonshot.cn/)  
-[![ERNIE Bot](https://img.shields.io/badge/ERNIE_Bot-4169E1?style=for-the-badge&logo=baidu&logoColor=white)](https://yiyan.baidu.com/)  
-[![MiniMax](https://img.shields.io/badge/MiniMax-DA70D6?style=for-the-badge&logo=minimax&logoColor=white)](https://www.minimax.chat/)  
-[![SenseTime](https://img.shields.io/badge/SenseTime-FF4500?style=for-the-badge&logo=sensetime&logoColor=white)](https://www.sensetime.com/en)  
-[![iFLYTEK](https://img.shields.io/badge/iFLYTEK-20B2AA?style=for-the-badge&logo=iflytek&logoColor=white)](https://xinghuo.xfyun.cn/)  
 
-### **🧠 Chinese ANN/DL Models & Frameworks**  
+  [![Claude](https://img.shields.io/badge/Claude-FF6B35?style=for-the-badge&logo=anthropic&logoColor=white)](https://anthropic.com/)
+  [![PaLM](https://img.shields.io/badge/PaLM-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://ai.google/discover/palm2/)
+  [![Qwen](https://img.shields.io/badge/Qwen-800000?style=for-the-badge&logo=alibaba&logoColor=white)](https://huggingface.co/Qwen)
+  [![DeepSeek](https://img.shields.io/badge/DeepSeek-008B8B?style=for-the-badge&logo=deepseek&logoColor=white)](https://huggingface.co/deepseek-ai)
+  [![WenXin](https://img.shields.io/badge/WenXin-DC143C?style=for-the-badge&logo=baidu&logoColor=white)](https://wenxin.baidu.com/)
+  [![Moonshot](https://img.shields.io/badge/Moonshot-8B008B?style=for-the-badge&logo=moonshot&logoColor=white)](https://moonshot-ai.com/)
+  [![Zhipu AI](https://img.shields.io/badge/Zhipu_AI-228B22?style=for-the-badge&logo=zhipu&logoColor=white)](https://open.bigmodel.cn/)
+  [![Kimi AI](https://img.shields.io/badge/Kimi_AI-FF1493?style=for-the-badge&logo=kimi&logoColor=white)](https://kimi.moonshot.cn/)
+  [![ERNIE Bot](https://img.shields.io/badge/ERNIE_Bot-4169E1?style=for-the-badge&logo=baidu&logoColor=white)](https://yiyan.baidu.com/)
+  [![MiniMax](https://img.shields.io/badge/MiniMax-DA70D6?style=for-the-badge&logo=minimax&logoColor=white)](https://www.minimax.chat/)
+  [![SenseTime](https://img.shields.io/badge/SenseTime-FF4500?style=for-the-badge&logo=sensetime&logoColor=white)](https://www.sensetime.com/en)
+  [![iFLYTEK](https://img.shields.io/badge/iFLYTEK-20B2AA?style=for-the-badge&logo=iflytek&logoColor=white)](https://xinghuo.xfyun.cn/)
 
-[![PaddlePaddle](https://img.shields.io/badge/PaddlePaddle-1E90FF?style=for-the-badge&logo=baidu&logoColor=white)](https://www.paddlepaddle.org.cn/)  
-[![MindSpore](https://img.shields.io/badge/MindSpore-FF69B4?style=for-the-badge&logo=huawei&logoColor=white)](https://www.mindspore.cn/)  
-[![MegEngine](https://img.shields.io/badge/MegEngine-FFD700?style=for-the-badge&logo=megengine&logoColor=black)](https://www.megengine.org.cn/)  
-[![OneFlow](https://img.shields.io/badge/OneFlow-00BFFF?style=for-the-badge&logo=oneflow&logoColor=white)](https://www.oneflow.info/)  
-[![Jittor](https://img.shields.io/badge/Jittor-9370DB?style=for-the-badge&logo=jittor&logoColor=white)](https://cg.cs.tsinghua.edu.cn/jittor/)  
-[![Torch7 (Chinese Fork)](https://img.shields.io/badge/Torch7-FFA500?style=for-the-badge&logo=torch&logoColor=white)](https://github.com/torch7/torch7)  
-[![Caffe (Chinese Adaptation)](https://img.shields.io/badge/Caffe-8B4513?style=for-the-badge&logo=caffe&logoColor=white)](https://github.com/BVLC/caffe/tree/chinese-adaptation)
+  ### **🧠 Chinese ANN/DL Models & Frameworks**  
+
+  [![PaddlePaddle](https://img.shields.io/badge/PaddlePaddle-1E90FF?style=for-the-badge&logo=baidu&logoColor=white)](https://www.paddlepaddle.org.cn/)  
+  [![MindSpore](https://img.shields.io/badge/MindSpore-FF69B4?style=for-the-badge&logo=huawei&logoColor=white)](https://www.mindspore.cn/)  
+  [![MegEngine](https://img.shields.io/badge/MegEngine-FFD700?style=for-the-badge&logo=megengine&logoColor=black)](https://www.megengine.org.cn/)  
+  [![OneFlow](https://img.shields.io/badge/OneFlow-00BFFF?style=for-the-badge&logo=oneflow&logoColor=white)](https://www.oneflow.info/)  
+  [![Jittor](https://img.shields.io/badge/Jittor-9370DB?style=for-the-badge&logo=jittor&logoColor=white)](https://cg.cs.tsinghua.edu.cn/jittor/)  
+  [![Torch7 (Chinese Fork)](https://img.shields.io/badge/Torch7-FFA500?style=for-the-badge&logo=torch&logoColor=white)](https://github.com/torch7/torch7)  
+  [![Caffe (Chinese Adaptation)](https://img.shields.io/badge/Caffe-8B4513?style=for-the-badge&logo=caffe&logoColor=white)](https://github.com/BVLC/caffe/tree/chinese-adaptation)
 
 </div>
 
@@ -162,12 +153,13 @@
 
   <!-- Emerging Tech Animation -->
   <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&weight=500&size=16&duration=3200&pause=1600&color=FF6347,32CD32,9370DB&center=true&vCenter=true&width=850&lines=MCP+Protocol+→+Model+Context+Management+%7C+Ollama+→+Local+AI;LM+Studio+→+Desktop+AI+%7C+Embedchain+→+Knowledge+Retrieval;Semantic+Kernel+→+AI+Orchestration+%7C+Haystack+→+NLP+Pipelines" alt="Emerging Tech Typing" />
-[![MCP](https://img.shields.io/badge/MCP_Protocol-9932CC?style=for-the-badge)](https://modelcontextprotocol.io/)
-[![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge)](https://ollama.ai/)
-[![LMStudio](https://img.shields.io/badge/LM_Studio-FF8C00?style=for-the-badge)](https://lmstudio.ai/)
-[![Embedchain](https://img.shields.io/badge/Embedchain-228B22?style=for-the-badge)](https://embedchain.ai/)
-[![Semantic Kernel](https://img.shields.io/badge/Semantic_Kernel-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)](https://github.com/microsoft/semantic-kernel)
-[![Haystack](https://img.shields.io/badge/Haystack-FF6B6B?style=for-the-badge)](https://haystack.deepset.ai/)
+
+  [![MCP](https://img.shields.io/badge/MCP_Protocol-9932CC?style=for-the-badge)](https://modelcontextprotocol.io/)
+  [![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge)](https://ollama.ai/)
+  [![LMStudio](https://img.shields.io/badge/LM_Studio-FF8C00?style=for-the-badge)](https://lmstudio.ai/)
+  [![Embedchain](https://img.shields.io/badge/Embedchain-228B22?style=for-the-badge)](https://embedchain.ai/)
+  [![Semantic Kernel](https://img.shields.io/badge/Semantic_Kernel-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)](https://github.com/microsoft/semantic-kernel)
+  [![Haystack](https://img.shields.io/badge/Haystack-FF6B6B?style=for-the-badge)](https://haystack.deepset.ai/)
 
 </div>
 
