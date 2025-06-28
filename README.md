@@ -122,8 +122,6 @@
 
   <!-- Models Animation -->
   <img src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&weight=600&size=17&duration=4000&pause=2500&color=8A2BE2,FF4500,00CED1,FF1493&center=true&vCenter=true&width=900&lines=GPT-4+→+Advanced+Reasoning+%7C+Claude+→+Constitutional+AI;LLaMA+→+Open+Foundation+Models+%7C+Mistral+→+Efficient+Architecture;Gemini+→+Multimodal+Intelligence+%7C+PaLM+→+Language+Understanding" alt="Models Typing" />
-
-
 [![Claude](https://img.shields.io/badge/Claude-FF6B35?style=for-the-badge&logo=anthropic&logoColor=white)](https://anthropic.com/)
 [![PaLM](https://img.shields.io/badge/PaLM-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://ai.google/discover/palm2/)
 [![Qwen](https://img.shields.io/badge/Qwen-800000?style=for-the-badge&logo=alibaba&logoColor=white)](https://huggingface.co/Qwen)
@@ -146,7 +144,6 @@
 [![MiniMax](https://img.shields.io/badge/MiniMax-DA70D6?style=for-the-badge&logo=minimax&logoColor=white)](https://www.minimax.chat/)  
 [![SenseTime](https://img.shields.io/badge/SenseTime-FF4500?style=for-the-badge&logo=sensetime&logoColor=white)](https://www.sensetime.com/en)  
 [![iFLYTEK](https://img.shields.io/badge/iFLYTEK-20B2AA?style=for-the-badge&logo=iflytek&logoColor=white)](https://xinghuo.xfyun.cn/)  
- 
 ### **🧠 Chinese ANN/DL Models & Frameworks**  
 [![PaddlePaddle](https://img.shields.io/badge/PaddlePaddle-1E90FF?style=for-the-badge&logo=baidu&logoColor=white)](https://www.paddlepaddle.org.cn/)  
 [![MindSpore](https://img.shields.io/badge/MindSpore-FF69B4?style=for-the-badge&logo=huawei&logoColor=white)](https://www.mindspore.cn/)  
