@@ -155,9 +155,6 @@
 [![Jittor](https://img.shields.io/badge/Jittor-9370DB?style=for-the-badge&logo=jittor&logoColor=white)](https://cg.cs.tsinghua.edu.cn/jittor/)  
 [![Torch7 (Chinese Fork)](https://img.shields.io/badge/Torch7-FFA500?style=for-the-badge&logo=torch&logoColor=white)](https://github.com/torch7/torch7)  
 [![Caffe (Chinese Adaptation)](https://img.shields.io/badge/Caffe-8B4513?style=for-the-badge&logo=caffe&logoColor=white)](https://github.com/BVLC/caffe/tree/chinese-adaptation)
-
-
-
 </div>
 
 ### 🔗 Emerging AI Protocols & Stacks
@@ -165,7 +162,6 @@
 
   <!-- Emerging Tech Animation -->
   <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&weight=500&size=16&duration=3200&pause=1600&color=FF6347,32CD32,9370DB&center=true&vCenter=true&width=850&lines=MCP+Protocol+→+Model+Context+Management+%7C+Ollama+→+Local+AI;LM+Studio+→+Desktop+AI+%7C+Embedchain+→+Knowledge+Retrieval;Semantic+Kernel+→+AI+Orchestration+%7C+Haystack+→+NLP+Pipelines" alt="Emerging Tech Typing" />
-  
 [![MCP](https://img.shields.io/badge/MCP_Protocol-9932CC?style=for-the-badge)](https://modelcontextprotocol.io/)
 [![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge)](https://ollama.ai/)
 [![LMStudio](https://img.shields.io/badge/LM_Studio-FF8C00?style=for-the-badge)](https://lmstudio.ai/)
@@ -180,7 +176,6 @@
 
   <!-- Coding Stack Animation -->
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=19&duration=2800&pause=1400&color=00FFFF,FF00FF,FFFF00&center=true&vCenter=true&width=800&lines=🖱️+Cursor+AI+→+Intelligent+Code+Generation;⚡+Bolt+AI+→+Rapid+Development;🌊+Windsurf+AI+→+Advanced+Code+Assistance;🚀+AutoGen+→+Multi-Agent+Coding" alt="Coding Stack Typing" />
-
 [![Cursor AI](https://img.shields.io/badge/Cursor_AI-000000?style=for-the-badge)](https://www.cursor.so/)
 [![Bolt AI](https://img.shields.io/badge/Bolt_AI-FF6B35?style=for-the-badge)](https://boltai.xyz/)
 [![Emergent.sh](https://img.shields.io/badge/Emergent.sh-4169E1?style=for-the-badge)](https://emergent.sh/)
