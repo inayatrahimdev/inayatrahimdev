@@ -144,7 +144,9 @@
 [![MiniMax](https://img.shields.io/badge/MiniMax-DA70D6?style=for-the-badge&logo=minimax&logoColor=white)](https://www.minimax.chat/)  
 [![SenseTime](https://img.shields.io/badge/SenseTime-FF4500?style=for-the-badge&logo=sensetime&logoColor=white)](https://www.sensetime.com/en)  
 [![iFLYTEK](https://img.shields.io/badge/iFLYTEK-20B2AA?style=for-the-badge&logo=iflytek&logoColor=white)](https://xinghuo.xfyun.cn/)  
+
 ### **🧠 Chinese ANN/DL Models & Frameworks**  
+
 [![PaddlePaddle](https://img.shields.io/badge/PaddlePaddle-1E90FF?style=for-the-badge&logo=baidu&logoColor=white)](https://www.paddlepaddle.org.cn/)  
 [![MindSpore](https://img.shields.io/badge/MindSpore-FF69B4?style=for-the-badge&logo=huawei&logoColor=white)](https://www.mindspore.cn/)  
 [![MegEngine](https://img.shields.io/badge/MegEngine-FFD700?style=for-the-badge&logo=megengine&logoColor=black)](https://www.megengine.org.cn/)  
@@ -152,6 +154,7 @@
 [![Jittor](https://img.shields.io/badge/Jittor-9370DB?style=for-the-badge&logo=jittor&logoColor=white)](https://cg.cs.tsinghua.edu.cn/jittor/)  
 [![Torch7 (Chinese Fork)](https://img.shields.io/badge/Torch7-FFA500?style=for-the-badge&logo=torch&logoColor=white)](https://github.com/torch7/torch7)  
 [![Caffe (Chinese Adaptation)](https://img.shields.io/badge/Caffe-8B4513?style=for-the-badge&logo=caffe&logoColor=white)](https://github.com/BVLC/caffe/tree/chinese-adaptation)
+
 </div>
 
 ### 🔗 Emerging AI Protocols & Stacks
