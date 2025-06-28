@@ -136,7 +136,8 @@
   [![SenseTime](https://img.shields.io/badge/SenseTime-FF4500?style=for-the-badge&logo=sensetime&logoColor=white)](https://www.sensetime.com/en)
   [![iFLYTEK](https://img.shields.io/badge/iFLYTEK-20B2AA?style=for-the-badge&logo=iflytek&logoColor=white)](https://xinghuo.xfyun.cn/)
 
-  ### **🧠 Chinese ANN/DL Models & Frameworks**  
+### **🧠 Chinese ANN/DL Models & Frameworks**
+<div align="center">
 
   [![PaddlePaddle](https://img.shields.io/badge/PaddlePaddle-1E90FF?style=for-the-badge&logo=baidu&logoColor=white)](https://www.paddlepaddle.org.cn/)  
   [![MindSpore](https://img.shields.io/badge/MindSpore-FF69B4?style=for-the-badge&logo=huawei&logoColor=white)](https://www.mindspore.cn/)  
@@ -147,6 +148,7 @@
   [![Caffe (Chinese Adaptation)](https://img.shields.io/badge/Caffe-8B4513?style=for-the-badge&logo=caffe&logoColor=white)](https://github.com/BVLC/caffe/tree/chinese-adaptation)
 
 </div>
+
 
 ### 🔗 Emerging AI Protocols & Stacks
 <div align="center">
