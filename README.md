@@ -168,23 +168,25 @@
 
   <!-- Coding Stack Animation -->
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=19&duration=2800&pause=1400&color=00FFFF,FF00FF,FFFF00&center=true&vCenter=true&width=800&lines=🖱️+Cursor+AI+→+Intelligent+Code+Generation;⚡+Bolt+AI+→+Rapid+Development;🌊+Windsurf+AI+→+Advanced+Code+Assistance;🚀+AutoGen+→+Multi-Agent+Coding" alt="Coding Stack Typing" />
-[![Cursor AI](https://img.shields.io/badge/Cursor_AI-000000?style=for-the-badge)](https://www.cursor.so/)
-[![Bolt AI](https://img.shields.io/badge/Bolt_AI-FF6B35?style=for-the-badge)](https://boltai.xyz/)
-[![Emergent.sh](https://img.shields.io/badge/Emergent.sh-4169E1?style=for-the-badge)](https://emergent.sh/)
-[![Windsurf AI](https://img.shields.io/badge/Windsurf_AI-00D4FF?style=for-the-badge)](https://windsurf.ai/)
-[![AutoGen](https://img.shields.io/badge/AutoGen-228B22?style=for-the-badge)](https://github.com/microsoft/autogen)
-[![Cognition AI (Devin)](https://img.shields.io/badge/Cognition_AI_Devin-8A2BE2?style=for-the-badge)](https://cognition-labs.com/)
-[![Codeium](https://img.shields.io/badge/Codeium-FF4081?style=for-the-badge)](https://codeium.com/)
-[![Tabnine](https://img.shields.io/badge/Tabnine-00BFFF?style=for-the-badge)](https://www.tabnine.com/)
-[![Aidev](https://img.shields.io/badge/Aidev-FF4500?style=for-the-badge)](https://aidev.codes/)
-[![Replit Ghostwriter](https://img.shields.io/badge/Replit_Ghostwriter-FFB300?style=for-the-badge)](https://replit.com/)
-[![Mutable AI](https://img.shields.io/badge/Mutable_AI-20C997?style=for-the-badge)](https://mutable.ai/)
-[![Continue.dev](https://img.shields.io/badge/Continue.dev-1E90FF?style=for-the-badge)](https://continue.dev/)
-[![Sweep.dev](https://img.shields.io/badge/Sweep.dev-7B68EE?style=for-the-badge)](https://sweep.dev/)
-[![Magic.dev](https://img.shields.io/badge/Magic.dev-FF69B4?style=for-the-badge)](https://magic.dev/)
-[![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-6e5494?style=for-the-badge&logo=github&logoColor=white)](https://github.com/features/copilot)
 
----
+  [![Cursor AI](https://img.shields.io/badge/Cursor_AI-000000?style=for-the-badge)](https://www.cursor.so/)
+  [![Bolt AI](https://img.shields.io/badge/Bolt_AI-FF6B35?style=for-the-badge)](https://boltai.xyz/)
+  [![Emergent.sh](https://img.shields.io/badge/Emergent.sh-4169E1?style=for-the-badge)](https://emergent.sh/)
+  [![Windsurf AI](https://img.shields.io/badge/Windsurf_AI-00D4FF?style=for-the-badge)](https://windsurf.ai/)
+  [![AutoGen](https://img.shields.io/badge/AutoGen-228B22?style=for-the-badge)](https://github.com/microsoft/autogen)
+  [![Cognition AI (Devin)](https://img.shields.io/badge/Cognition_AI_Devin-8A2BE2?style=for-the-badge)](https://cognition-labs.com/)
+  [![Codeium](https://img.shields.io/badge/Codeium-FF4081?style=for-the-badge)](https://codeium.com/)
+  [![Tabnine](https://img.shields.io/badge/Tabnine-00BFFF?style=for-the-badge)](https://www.tabnine.com/)
+  [![Aidev](https://img.shields.io/badge/Aidev-FF4500?style=for-the-badge)](https://aidev.codes/)
+  [![Replit Ghostwriter](https://img.shields.io/badge/Replit_Ghostwriter-FFB300?style=for-the-badge)](https://replit.com/)
+  [![Mutable AI](https://img.shields.io/badge/Mutable_AI-20C997?style=for-the-badge)](https://mutable.ai/)
+  [![Continue.dev](https://img.shields.io/badge/Continue.dev-1E90FF?style=for-the-badge)](https://continue.dev/)
+  [![Sweep.dev](https://img.shields.io/badge/Sweep.dev-7B68EE?style=for-the-badge)](https://sweep.dev/)
+  [![Magic.dev](https://img.shields.io/badge/Magic.dev-FF69B4?style=for-the-badge)](https://magic.dev/)
+  [![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-6e5494?style=for-the-badge&logo=github&logoColor=white)](https://github.com/features/copilot)
+
+</div>
+
 ### 👁️ Computer Vision Ecosystem
 <div align="center">
 
