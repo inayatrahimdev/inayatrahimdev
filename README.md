@@ -8,6 +8,10 @@
   <!-- Hero Typing SVG with Holographic Effect -->
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=900&size=32&duration=2500&pause=800&color=FF00FF&center=true&vCenter=true&width=900&height=120&lines=🚀+INAYAT+RAHIM's+AI+MULTIVERSE;⚡+QUANTUM+NEURAL+ARCHITECT;🌈+BUILDING+TOMORROW'S+INTELLIGENCE;🔮+AGI+%7C+ASI+%7C+CONSCIOUSNESS+AI;🎯+NEXT-GEN+COGNITIVE+SYSTEMS" alt="Hero Typing" />
 
+  <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=900&size=32&duration=2500&pause=800&color=FF00FF&center=true&vCenter=true&width=900&height=120&lines=🚀+INAYAT+RAHIM's+AI+MULTIVERSE;⚡+QUANTUM+NEURAL+ARCHITECT;🌌+AI+×+SCIENCE+×+SATELLITES+×+3D+GEN+AI;🎯+TRANSFORMING+DISCOVERY+IN+THE+REAL+WORLD" alt="Typing SVG" />
+</p>
+
   <!-- Subtitle with Gradient Effect -->
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=24&duration=3000&pause=1200&color=00FFFF,FF6B6B,FFD700&multiline=true&center=true&vCenter=true&width=800&height=80&lines=Multi-Dimensional+AI+Engineer;Quantum+ML+Researcher;Neural+Architecture+Wizard" alt="Subtitle Typing" />
 
