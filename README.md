@@ -1,17 +1,7 @@
-<div align="center">
 
-  <h1 style="font-size: 56px; font-weight: 900; color: #00FFF7; font-family: 'JetBrains Mono', monospace; letter-spacing: 6px;">
-    🚀 AI × SCIENCE
-  </h1>
-
-  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" alt="Futuristic AI Science Animation" width="920" />
-
-</div>
-
-
-<h2 align="center">
+<h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=800&color=00FEEF&width=1000&center=true&vCenter=true&lines=NEXT-GEN+GITHUB+README+&duration=3000" alt="Typing SVG Ultimate" />
-</h2>
+</h1>
 
 
 <div align="center">
