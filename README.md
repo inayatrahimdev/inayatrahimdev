@@ -1,12 +1,10 @@
 <div align="center">
 
-  <!-- Bold Static Header -->
   <h1 style="font-size: 56px; font-weight: 900; color: #00FFF7; font-family: 'JetBrains Mono', monospace; letter-spacing: 6px;">
     🚀 AI × SCIENCE
   </h1>
 
-  <!-- Real Working Animated Tech Banner -->
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHBoZnllczBkcXc4aWwzajAybHR3bzZrMWlxdjM0YzU5a2c1OHhzbCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/v1PSWzgT2TEXa/giphy.gif" alt="AI x Science Futuristic Banner" width="920" />
+  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" alt="Futuristic AI Science Animation" width="920" />
 
 </div>
 
