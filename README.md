@@ -1,3 +1,12 @@
+<div align="center">
+
+  <!-- 🔥 AI × SCIENCE Animated Header -->
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=900&size=42&duration=3000&pause=500&color=00FFF7&center=true&vCenter=true&width=1000&height=100&lines=🚀+AI+×+SCIENCE+IS+THE+NEW+TECH+FRONTIER;🌌+SATELLITE+AI+%7C+NEURAL+DISCOVERY+%7C+3D+GENAI+%7C+BIO-INTELLIGENCE;🔥+EMERGING+TECH+TO+TRANSFORM+THE+FUTURE" alt="AI x Science Animated Banner"/>
+
+  <!-- Futuristic Banner Image -->
+  <img src="https://i.imgur.com/Nw9OWXP.gif" alt="Futuristic AI x Science Motion" width="920" />
+
+</div>
 
 <h2 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=800&color=00FEEF&width=1000&center=true&vCenter=true&lines=NEXT-GEN+GITHUB+README+&duration=3000" alt="Typing SVG Ultimate" />
