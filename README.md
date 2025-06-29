@@ -1,3 +1,18 @@
+<div align="center">
+
+  <h1 style="font-size: 52px; font-weight: 900; color: #00FFF7; font-family: 'JetBrains Mono', monospace; letter-spacing: 4px;">
+    🚀 AI × SCIENCE
+  </h1>
+
+  <h3 style="font-size: 22px; font-weight: 600; color: #FF00FF; font-family: 'Fira Code', monospace;">
+    🔬 Emerging Tech • 🌌 Satellites • 🧬 Biology • 🧠 Neural Systems • ⚛️ Chemistry • 🌍 Earth AI • 🧊 3D GenAI
+  </h3>
+
+  <img src="https://user-images.githubusercontent.com/122648086/277643171-f3dbadfc-c7c9-4e01-a8a2-bd700bcb3fa2.png" alt="AI x Science Banner" width="1000" />
+
+</div>
+
+
 <h2 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=800&color=00FEEF&width=1000&center=true&vCenter=true&lines=NEXT-GEN+GITHUB+README+&duration=3000" alt="Typing SVG Ultimate" />
 </h2>
