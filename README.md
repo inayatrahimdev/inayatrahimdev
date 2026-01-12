@@ -42,25 +42,22 @@ I design and implement **AI-driven products, intelligent systems, and data solut
 ## 🔹 Tools & Technologies
 
 ### Backend
-- Python, FastAPI, Flask, Django, MLflow, Docker, AWS, GCP  
+- Python, FastAPI, Docker, Node.js, Express.js, DevOps, Full-Stack Backend Development  
 
 ### Frontend
-- React, Next.js, Tailwind, Vite, Dash, Plotly  
+- React, Next.js, Tailwind, Vite  
 
 ### Databases
-- MySQL, PostgreSQL, MongoDB, SQLite, Data Warehouses  
+- MySQL, PostgreSQL, MongoDB, Data Warehouses  
 
 ### AI & ML
-- TensorFlow, PyTorch, scikit-learn, XGBoost, HuggingFace  
+- PyTorch, LangChain, CREW AI, LangSmith, LangGraph, AutoGen, Semantic Control  
 
 ### Visualization & Analytics
 - Matplotlib, Seaborn, Plotly, Power BI, Tableau  
 
-### No-Code & Automation
-- Zapier, n8n, Airtable, Bolt  
-
-### Monitoring & Analytics
-- DataDog, Amplitude, MixPanel, Gratana  
+### AI Automation
+- n8n  
 
 ---
 
@@ -79,9 +76,9 @@ I design and implement **AI-driven products, intelligent systems, and data solut
 
 I’m open to **collaborations, AI product development, MLOps, and projects that generate measurable impact**:  
 
-- **LinkedIn:** [Your LinkedIn URL]  
+- **LinkedIn:** [https://www.linkedin.com/in/inayatrahim](https://www.linkedin.com/in/inayatrahim)  
 - **Email:** inayatrahim006@gmail.com  
-- **GitHub Portfolio:** [Your GitHub URL]  
+- **GitHub:** [https://github.com/inayatrahim](https://github.com/inayatrahim)  
 
 ---
 
