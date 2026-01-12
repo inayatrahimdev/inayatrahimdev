@@ -2,7 +2,7 @@
 
 🚀 **Building AI systems that create impact, optimize operations, and deliver business value**  
 
-I design and implement **AI-driven products, intelligent systems, and data solutions** that turn complex data into actionable insights. My focus is on **real-world problem solving, product optimization, and scalable deployments**.
+Design and implement **AI-driven products, intelligent systems, and data solutions** that extract meaningful patterns from diverse and complex datasets to deliver actionable intelligence for strategic business decisions. Current focus is on **real-world problem solving, product optimization, and scalable deployments**.
 
 ---
 
