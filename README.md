@@ -26,7 +26,7 @@ Design and implement **AI-driven products, intelligent systems, and data solutio
 - Databases, Data Warehouses, Big Data Pipelines, Stream Mining, Preprocessing, Multidimensional Analysis  
 
 ### Web & Social Mining
-- Database, Big data, Web Mining, Social Media Analytics, Social Network Analysis, ERP Data Intelligence  
+- Web Mining, Social Media Analytics, Social Network Analysis, ERP Data Intelligence  
 
 ### MLOps & Model Deployment
 - CI/CD pipelines, Model Versioning, Monitoring, Automation, Scalable Production Pipelines  
