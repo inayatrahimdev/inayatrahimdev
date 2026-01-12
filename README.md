@@ -20,13 +20,13 @@ Design and implement **AI-driven products, intelligent systems, and data solutio
 ## 🔹 Core Skills & Expertise
 
 ### Artificial Intelligence & ML
-- Deep Learning, Classical ML, Anomaly Detection, Predictive Modeling, Time Series Forecasting  
+- Deep Learning, Transformers(Vision, Text, Audio), Anomaly Detection, Predictive Modeling, Sequentail Data & Time Series Data Forecasting  
 
 ### Data Engineering & Analytics
 - Databases, Data Warehouses, Big Data Pipelines, Stream Mining, Preprocessing, Multidimensional Analysis  
 
 ### Web & Social Mining
-- Web Mining, Social Media Analytics, Social Network Analysis, ERP Data Intelligence  
+- Database, Big data, Web Mining, Social Media Analytics, Social Network Analysis, ERP Data Intelligence  
 
 ### MLOps & Model Deployment
 - CI/CD pipelines, Model Versioning, Monitoring, Automation, Scalable Production Pipelines  
@@ -45,8 +45,7 @@ Design and implement **AI-driven products, intelligent systems, and data solutio
 - Python, FastAPI, Docker, Node.js, Express.js, DevOps, Full-Stack Backend Development  
 
 ### Frontend
-- React, Next.js, Tailwind, Vite  
-
+- React, Next.js, Tailwind
 ### Databases
 - MySQL, PostgreSQL, MongoDB, Data Warehouses  
 
@@ -55,9 +54,6 @@ Design and implement **AI-driven products, intelligent systems, and data solutio
 
 ### Visualization & Analytics
 - Matplotlib, Seaborn, Plotly, Power BI, Tableau  
-
-### AI Automation
-- n8n  
 
 ---
 
@@ -78,7 +74,7 @@ I’m open to **collaborations, AI product development, MLOps, and projects that
 
 - **LinkedIn:** [https://www.linkedin.com/in/inayatrahim](https://www.linkedin.com/in/inayatrahim)  
 - **Email:** inayatrahim006@gmail.com  
-- **GitHub:** [https://github.com/inayatrahim](https://github.com/inayatrahim)  
+- **GitHub:** [https://github.com/inayatrahimdev](https://github.com/inayatrahimdev)  
 
 ---
 
