@@ -19,25 +19,48 @@ I design and implement **AI-driven products, intelligent systems, and data solut
 
 ## 🔹 Core Skills & Expertise
 
-- **Artificial Intelligence & ML:** Deep Learning, Classical ML, Anomaly Detection, Predictive Modeling, Time Series Forecasting  
-- **Data Engineering & Analytics:** Databases, Data Warehouses, Big Data Pipelines, Stream Mining, Preprocessing, Multidimensional Analysis  
-- **Web & Social Mining:** Web Mining, Social Media Analytics, Social Network Analysis, ERP Data Intelligence  
-- **MLOps & Model Deployment:** CI/CD pipelines, Model Versioning, Monitoring, Automation, Scalable Production Pipelines  
-- **Product Data Science:** Feature Analysis, A/B Testing, User Behavior Analytics, Product Optimization Metrics  
-- **System Optimization:** Workflow automation, product optimization, business process improvement  
+### Artificial Intelligence & ML
+- Deep Learning, Classical ML, Anomaly Detection, Predictive Modeling, Time Series Forecasting  
+
+### Data Engineering & Analytics
+- Databases, Data Warehouses, Big Data Pipelines, Stream Mining, Preprocessing, Multidimensional Analysis  
+
+### Web & Social Mining
+- Web Mining, Social Media Analytics, Social Network Analysis, ERP Data Intelligence  
+
+### MLOps & Model Deployment
+- CI/CD pipelines, Model Versioning, Monitoring, Automation, Scalable Production Pipelines  
+
+### Product Data Science
+- Feature Analysis, A/B Testing, User Behavior Analytics, Product Optimization Metrics  
+
+### System & Workflow Optimization
+- Workflow automation, product optimization, business process improvement  
 
 ---
 
 ## 🔹 Tools & Technologies
 
-| Category | Tools & Platforms |
-|----------|----------------|
-| **AI & ML** | TensorFlow, PyTorch, scikit-learn, XGBoost, HuggingFace |
-| **Data Engineering** | Python, Pandas, NumPy, SQL, Spark, Hadoop |
-| **Visualization & Analytics** | Matplotlib, Seaborn, Plotly, Power BI, Tableau |
-| **MLOps & Deployment** | Docker, FastAPI, Flask, HuggingFace Space, MLflow, AWS/GCP |
-| **No-Code & Automation** | Zapier, n8n, Airtable, Bolt |
-| **Monitoring & Analytics** | DataDog, Amplitude, MixPanel, Gratana |
+### Backend
+- Python, FastAPI, Flask, Django, MLflow, Docker, AWS, GCP  
+
+### Frontend
+- React, Next.js, Tailwind, Vite, Dash, Plotly  
+
+### Databases
+- MySQL, PostgreSQL, MongoDB, SQLite, Data Warehouses  
+
+### AI & ML
+- TensorFlow, PyTorch, scikit-learn, XGBoost, HuggingFace  
+
+### Visualization & Analytics
+- Matplotlib, Seaborn, Plotly, Power BI, Tableau  
+
+### No-Code & Automation
+- Zapier, n8n, Airtable, Bolt  
+
+### Monitoring & Analytics
+- DataDog, Amplitude, MixPanel, Gratana  
 
 ---
 
@@ -62,4 +85,4 @@ I’m open to **collaborations, AI product development, MLOps, and projects that
 
 ---
 
-*“I don’t just build AI models—I design systems that optimize business processes, enhance products, and create tangible impact, while ensuring models are production-ready and scalable.”*
+*“I don’t just build AI models—I design systems that optimize business processes, enhance products, and create tangible impact, while ensuring models are production-ready, scalable, and integrated across backend, frontend, and databases.”*
