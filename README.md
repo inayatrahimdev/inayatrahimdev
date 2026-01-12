@@ -1,62 +1,92 @@
-# Inayat Rahim – AI Developer & Product Innovator
 
-🚀 **Building AI systems that create impact, optimize operations, and deliver business value**  
 
-I design and implement **AI-driven products, intelligent systems, and data solutions** that turn complex data into actionable insights. My focus is on **real-world problem solving, product optimization, and scalable deployments**.
+Here is the raw Markdown code for your `README.md`.
 
----
+**Instructions:**
+1.  Copy the code block below.
+2.  Create a file named `README.md` in the root of your GitHub repository.
+3.  Paste the code.
+4.  **Important:** Replace the bracketed text (like `[Your LinkedIn Link]`) with your actual URLs.
 
-## 🌟 AI Product Mindset
+```markdown
+<div align="center">
 
-- **Impact-First Approach:** Every model or system I build is tied to **real business goals** — improving efficiency, reducing costs, or enhancing decision-making.  
-- **End-to-End System Design:** From data collection to deployment, I ensure workflows are **optimized, scalable, and maintainable**.  
-- **Continuous Innovation:** I explore emerging AI frameworks and tools to keep products **future-ready**.  
-- **Business & Tech Alignment:** AI solutions are **strategically aligned with business objectives**, maximizing ROI.  
-- **Scalable Deployment:** Models are built for production, with **monitoring, automation, and optimization** baked in.  
+# 👋 Inayat Rahim
 
----
+### **AI Developer | Data Scientist | Product-Focused Technologist**
 
-## 🔹 Core Skills & Expertise
+*I build intelligent systems that turn raw data into measurable business impact.*
 
-- **Artificial Intelligence & ML:** Deep Learning, Classical ML, Anomaly Detection, Predictive Modeling, Time Series Forecasting  
-- **Data Engineering & Analytics:** Databases, Data Warehouses, Big Data Pipelines, Stream Mining, Preprocessing, Multidimensional Analysis  
-- **Web & Social Mining:** Web Mining, Social Media Analytics, Social Network Analysis, ERP Data Intelligence  
-- **Model Development & Deployment:** AI Architecture, Evaluation & Testing, Integration & Monitoring, Scalable Pipelines  
-- **System Optimization:** Workflow automation, product optimization, business process improvement  
+<!-- Replace the URLs below with your actual links -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)]([Your LinkedIn Link])
+[![Email](https://img.shields.io/badge/Email-Get_in_Touch-red?style=for-the-badge&logo=gmail)](mailto:inayatrahim006@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-My_Work-0A66C2?style=for-the-badge&logo=vercel)]([Your GitHub Link])
 
----
+</div>
 
-## 🔹 Tools & Technologies
+<br>
 
-| Category | Tools & Platforms |
-|----------|----------------|
-| **AI & ML** | TensorFlow, PyTorch, scikit-learn, XGBoost, HuggingFace |
-| **Data Engineering** | Python, Pandas, NumPy, SQL, Spark, Hadoop |
-| **Visualization & Analytics** | Matplotlib, Seaborn, Plotly, Power BI, Tableau |
-| **Deployment & Cloud** | Flask, FastAPI, Docker, HuggingFace Space, AWS/GCP |
-| **No-Code & Automation** | Zapier, n8n, Airtable, Bolt |
-| **Monitoring & Analytics** | DataDog, Amplitude, MixPanel, Gratana |
+## 🧠 The Product-First Mindset
 
----
+I don't just write code; I optimize businesses. My work sits at the intersection of **Data Science** and **Product Strategy**. I move beyond theoretical accuracy to focus on:
 
-## 🔹 Key Projects & Achievements
+- **🎯 Impact:** Solving real business problems, not just math problems.
+- **🔁 End-to-End:** Owning the pipeline from data ingestion to production deployment.
+- **📈 Growth:** Building AI systems that actively drive revenue and reduce operational risk.
 
-- **Anomaly & Outlier Detection:** Real-time monitoring systems that reduced operational risk by 20%  
-- **Time Series Forecasting:** Sales and inventory prediction models that optimized supply chains by 25%  
-- **AI-Powered Business Solutions:** Integrated ML models into ERP systems to streamline decision-making and resource management  
-- **Social & Web Analytics Dashboards:** Delivered insights to improve marketing strategy and customer engagement  
-- **Production-Ready AI Products:** Designed end-to-end pipelines with automation, monitoring, and continuous improvement  
+<br>
 
----
+## 🛠️ Technical Arsenal
 
-## 🔹 Connect with Me
+I select tools based on scalability and business fit, not hype.
 
-I’m open to **collaborations, AI product development, and projects that generate measurable impact**:  
+### 🤖 AI & Machine Learning
+`TensorFlow` `PyTorch` `scikit-learn` `XGBoost` `HuggingFace Transformers` `OpenAI API` `Time-Series Forecasting`
 
-- **LinkedIn:** [Your LinkedIn URL]  
-- **Email:** inayatrahim006@gmail.com  
-- **GitHub Portfolio:** [Your GitHub URL]  
+### ⚙️ Data Engineering & Ops
+`Python` `SQL` `Pandas` `Apache Spark` `Hadoop` `Airflow` `Docker` `FastAPI` `Flask` `AWS/GCP`
 
----
+### 📊 Analytics & Intelligence
+`Tableau` `Power BI` `Plotly` `Seaborn` `DataDog` `MixPanel` `Amplitude`
 
-*“I don’t just build AI models—I design systems that optimize business processes, enhance products, and create tangible impact.”*
+### ⚡ Automation & No-Code
+`Zapier` `n8n` `Airtable` `Bolt` `LangChain`
+
+<br>
+
+## 🏆 Key Wins & Projects
+
+Real-world applications where data met strategy.
+
+| Project | Role & Tech | The Impact |
+| :--- | :--- | :--- |
+| **Real-Time Anomaly Detection** | *Lead Dev* <br> `Python`, `TensorFlow`, `Docker` | Reduced financial risk by **20%** by catching operational irregularities in real-time. |
+| **Supply Chain Forecaster** | *Data Scientist* <br> `XGBoost`, `Spark`, `Airflow` | Optimized inventory levels, boosting supply chain efficiency by **25%**. |
+| **ERP AI Integration** | *Product Engineer* <br> `FastAPI`, `SQL`, `Scikit-learn` | Embedded ML models directly into business workflows to enhance decision-making. |
+| **Social Web Miner** | *Analyst* <br> `NLP`, `Web Mining`, `PowerBI` | Delivered customer sentiment dashboards that directly informed marketing strategy. |
+
+<br>
+
+## 📈 GitHub Analytics
+
+<div align="center">
+  <!-- Add your GitHub username after '?username=' -->
+  <img src="https://github-readme-stats.vercel.app/api?username=inayatrahim&show_icons=true&theme=dracula&hide_border=true" alt="GitHub Stats" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=inayatrahim&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" height="150"/>
+</div>
+
+<br>
+
+## 🚀 Let's Build
+
+I'm currently looking for collaborations in **Generative AI**, **MLOps**, and **Product Data Science**. If you need a system that works in production—not just a notebook—let's talk.
+
+<div align="center">
+
+*"I build AI solutions that don’t just analyze data—they optimize systems, improve products, and deliver measurable business value."*
+
+[![Email](https://img.shields.io/badge/-inayatrahim006@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:inayatrahim006@gmail.com)](mailto:inayatrahim006@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white&link=https://linkedin.com/in/yourprofile)](https://linkedin.com/in/yourprofile)
+
+</div>
+```
