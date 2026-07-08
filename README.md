@@ -173,7 +173,7 @@ By graduation, I aim to build a portfolio demonstrating the ability to:
 github.com/inayatrahimdev
 
 **LinkedIn**
-linkedin.com/in/inayatrahim
+https://www.linkedin.com/in/inayat-rahim-b0655b29b/
 
 **Email**
 inayatrahim006@gmail.com
