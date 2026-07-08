@@ -204,7 +204,7 @@ Python-based intelligent assistant exploring conversational AI and task automati
 
 ---
 
-## ⚙️ AutoRepFlow ⭐
+## ⚙️ AutoRepFlow 
 
 Workflow automation platform for reducing repetitive manual tasks.
 
