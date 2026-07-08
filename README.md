@@ -8,7 +8,7 @@ I enjoy understanding complex problems, identifying gaps in existing solutions, 
 
 # Mission
 
-I believe AI should create value—not just predictions.
+I believe AI should create value not just predictions.
 
 My objective is to build intelligent systems that:
 
