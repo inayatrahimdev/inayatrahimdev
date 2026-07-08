@@ -1,46 +1,50 @@
-# Hi, I'm Inayat Rahim
+# Hi, I'm Inayat Rahim 
 
-AI Engineering Student focused on designing and building production-oriented AI systems that solve real-world problems.
+**AI Engineering Student** focused on building production-oriented AI systems that solve real-world problems.
 
-My long-term objective is to engineer AI products that move beyond experimentation and deliver measurable outcomes through reliable software, scalable architectures, and responsible deployment.
+I enjoy understanding complex problems, identifying gaps in existing solutions, and engineering practical AI systems that create measurable value through reliable software, scalable architectures, and responsible deployment.
 
 ---
 
 # Mission
 
-I believe AI should create value, not just predictions.
+I believe AI should create value—not just predictions.
 
-My goal is to build intelligent systems that:
+My objective is to build intelligent systems that:
 
 - Solve meaningful real-world problems
-- Deliver measurable impact
-- Create long-term value for users and organizations
-- Improve operational efficiency
-- Optimize workflows and decision-making
-- Support better business outcomes
-- Enable reliable production deployment
-- Maximize return on engineering effort and infrastructure investment
-- Continuously evolve through data, monitoring, and user feedback
+- Identify gaps in existing solutions and improve them
+- Deliver measurable value and impact
+- Improve operational efficiency and decision-making
+- Support reliable production deployment
+- Enable intelligent automation
+- Maximize engineering effectiveness and infrastructure efficiency
+- Continuously evolve through monitoring, evaluation, and feedback
+- Translate research and engineering into practical products
 
-Technology is a tool. The objective is always to build systems that people can trust, adopt, and benefit from.
+Technology is a tool. The goal is building systems that people can trust, use, maintain, and continuously improve.
 
 ---
 
 # Engineering Focus
 
-I am developing end-to-end engineering skills across the AI lifecycle.
+I'm building end-to-end engineering skills across the AI lifecycle.
 
-### Backend Engineering
+## Backend Engineering
+
 - Python
 - FastAPI
 - REST APIs
 - Docker
 - PostgreSQL
 - Redis
-- Authentication
+- Authentication & Authorization
 - API Design
 
-### System Design
+---
+
+## System Design
+
 - Modular Monolith
 - Microservices
 - Distributed Systems
@@ -52,16 +56,24 @@ I am developing end-to-end engineering skills across the AI lifecycle.
 - Reliability
 - Fault Tolerance
 
-### Data Engineering
+---
+
+## Data Engineering
+
 - SQL
 - Data Modeling
-- ETL / ELT
-- Data Pipelines
-- Data Validation
+- ETL / ELT Pipelines
 - Data Processing
+- Data Validation
 - Feature Engineering
+- Data Pipelines
 
-### AI Engineering
+---
+
+## AI Engineering
+
+Currently working with and exploring:
+
 - Machine Learning
 - Deep Learning
 - Computer Vision
@@ -77,7 +89,12 @@ I am developing end-to-end engineering skills across the AI lifecycle.
 - Model Evaluation
 - Inference Optimization
 
-### Generative AI
+---
+
+## Generative AI
+
+Exploring modern generative AI architectures including:
+
 - Diffusion Models
 - Variational Autoencoders (VAEs)
 - Generative Adversarial Networks (GANs)
@@ -85,7 +102,12 @@ I am developing end-to-end engineering skills across the AI lifecycle.
 - State Space Models
 - Multimodal AI
 
-### MLOps
+---
+
+## MLOps
+
+Learning production AI engineering through:
+
 - Experiment Tracking
 - Model Versioning
 - CI/CD for Machine Learning
@@ -99,79 +121,124 @@ I am developing end-to-end engineering skills across the AI lifecycle.
 
 # Engineering Principles
 
-Every project I build should answer these questions:
+Every project should answer:
 
 - What problem is being solved?
-- Who benefits from this solution?
-- What measurable value does it create?
+- Why does this problem matter?
+- Who benefits?
+- What gap does this address?
+- What value does it create?
 - How will it be deployed?
 - Can it scale?
 - Is it maintainable?
-- Can its impact be evaluated?
-- Does it improve efficiency or decision-making?
-- Can it evolve as requirements change?
+- How will success be measured?
+- How can the system continue to evolve?
 
 ---
 
-# What You'll Find Here
+# Featured Projects
 
-This GitHub documents my journey toward becoming an AI Engineer capable of building complete production systems.
+## 🩺 SehatNama – AI Medical Report Analyzer
 
-My projects aim to demonstrate:
+AI-powered system for parsing, analyzing, and interpreting medical reports.
 
-- Problem Identification
-- Solution Design
-- System Architecture
-- Backend Development
-- Data Engineering
-- AI Engineering
-- Model Development
-- Production Deployment
-- MLOps
-- Monitoring
-- Documentation
-- Evaluation
-- Continuous Improvement
+**Focus**
+- NLP
+- Medical AI
+- Information Extraction
+
+---
+
+## 🚚 AI Supply Chain Suite
+
+AI platform for predictive, risk-aware supply chain analytics and decision support.
+
+**Focus**
+- Forecasting
+- Risk Analysis
+- Decision Intelligence
+
+---
+
+## 🛰️ DINOv2-SVM Satellite Classifier
+
+Satellite image classification using a pretrained DINOv2 Vision Transformer with an SVM classifier.
+
+**Focus**
+- Computer Vision
+- Remote Sensing
+- Vision Transformers
+
+---
+
+## 🎙️ Text & Voice Sentiment Analyzer
+
+Sentiment analysis across both text and speech.
+
+**Focus**
+- NLP
+- Speech Processing
+- Audio Intelligence
+
+---
+
+## 🎬 AI-Powered Movie Recommendation System
+
+Recommendation engine for personalized movie suggestions.
+
+**Focus**
+- Recommendation Systems
+- Machine Learning
+- Personalization
+
+---
+
+## 🤖 AI Assistant App
+
+Python-based intelligent assistant exploring conversational AI and task automation.
+
+**Focus**
+- LLMs
+- AI Assistants
+- Intelligent Automation
+
+---
+
+## ⚙️ AutoRepFlow ⭐
+
+Workflow automation platform for reducing repetitive manual tasks.
+
+**Focus**
+- Workflow Automation
+- AI Workflows
+- Productivity
 
 ---
 
 # Long-Term Objective
 
-I'm interested in building AI products that combine engineering with measurable outcomes.
-
-I enjoy working on systems where AI contributes to:
-
-- Real-world problem solving
-- Practical innovation
-- Product improvement
-- Business value
-- Operational efficiency
-- Intelligent automation
-- Scalable deployment
-- Reliable delivery
-- Sustainable evolution through continuous learning and feedback
-
----
-
-Build a portfolio demonstrating the ability to:
+By graduation, I aim to build a portfolio demonstrating the ability to:
 
 - Design scalable AI systems
 - Build production-ready backend services
 - Develop reliable data pipelines
 - Deploy and monitor AI applications
-- Integrate modern AI models into real software
+- Integrate modern AI models into production software
+- Apply MLOps practices across the AI lifecycle
 - Translate business requirements into engineering solutions
-- Deliver production-oriented AI products with measurable outcomes
+- Build systems that deliver measurable value, operational efficiency, and continuous improvement
+
+I'm particularly interested in projects that require understanding the problem, identifying meaningful gaps, and engineering practical AI solutions that can be deployed, maintained, and improved over time.
 
 ---
 
 # Connect
 
-**GitHub**
-github.com/inayatrahimdev
+**GitHub**  
+https://github.com/inayatrahimdev
 
-**LinkedIn**
+**LinkedIn**  
 https://www.linkedin.com/in/inayat-rahim-b0655b29b/
 
-**Email**
+**Email**  
 inayatrahim006@gmail.com
