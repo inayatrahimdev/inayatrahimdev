@@ -215,9 +215,9 @@ Workflow automation platform for reducing repetitive manual tasks.
 
 ---
 
-# Long-Term Objective
+# Objective
 
-By graduation, I aim to build a portfolio demonstrating the ability to:
+im to build a portfolio demonstrating the ability to:
 
 - Design scalable AI systems
 - Build production-ready backend services
