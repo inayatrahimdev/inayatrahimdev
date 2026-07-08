@@ -153,9 +153,7 @@ I enjoy working on systems where AI contributes to:
 
 ---
 
-# Current Goal
-
-By graduation, I aim to build a portfolio demonstrating the ability to:
+Build a portfolio demonstrating the ability to:
 
 - Design scalable AI systems
 - Build production-ready backend services
