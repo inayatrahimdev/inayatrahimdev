@@ -1,4 +1,4 @@
-# Hi, I'm Inayat Rahim 👋
+# Hi, I'm Inayat Rahim
 
 AI Engineering Student focused on designing and building production-oriented AI systems that solve real-world problems.
 
