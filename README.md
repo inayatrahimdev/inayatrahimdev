@@ -1,153 +1,217 @@
-\<div align="center">
-
-```
-  ___ _   _    ___   __   _  _____   ____  ____  _   _ ___ __  __
- |_ _| \ | |  / _ \  \ \ / / / _ \ \ |  _ \|  _ \| | | |_ _|  \/  |
-  | ||  \| | / /_\ \  \ V / / /_\ \ \| |_) | |_) | |_| || || |\/| |
-  | || |\  | |  _  |   | |  |  _  | || _ <|  _ <|  _  || || |  | |
- |___|_| \_| |_| |_|   |_|  |_| |_|_||_| \_\_| \_\_| |_|___|_|  |_|
-```
-
-### `> AI engineer in the making. Obsessed with the gap, not the hype.`
-
-![Python](https://img.shields.io/badge/-Python-0d1117?style=flat-square&logo=python&logoColor=3776AB)
-![FastAPI](https://img.shields.io/badge/-FastAPI-0d1117?style=flat-square&logo=fastapi&logoColor=009688)
-![Docker](https://img.shields.io/badge/-Docker-0d1117?style=flat-square&logo=docker&logoColor=2496ED)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-0d1117?style=flat-square&logo=postgresql&logoColor=4169E1)
-![Redis](https://img.shields.io/badge/-Redis-0d1117?style=flat-square&logo=redis&logoColor=DC382D)
-![PyTorch](https://img.shields.io/badge/-Deep%20Learning-0d1117?style=flat-square&logo=pytorch&logoColor=EE4C2C)
-
-[**GitHub**](https://github.com/inayatrahimdev) · [**LinkedIn**](https://www.linkedin.com/in/inayatrahimdev/) · [**Email**](mailto:inayatrahim006@gmail.com)
-
-</div>
-
----
-
-## 🖥️ `whoami`
-
-```bash
-$ whoami
-inayat_rahim
-
-$ cat mindset.txt
-I don't collect buzzwords. I collect problems.
-Tutorials teach you to copy. Research teaches you to question.
-Most "AI projects" are a model wrapped in a notebook.
-I want the part after the notebook: the API, the pipeline, the monitoring, the user.
-
-$ cat rule_one.txt
-If I can't say who it helps and how I'd measure it, I don't build it.
-```
-
----
-
-## 🧠 How I think (the anti-tutorial manifesto)
-
-| ❌ The crowd | ✅ The way I work |
-|---|---|
-| Follow a tutorial, ship the same project as 10,000 others | Pick a real problem, then **read the research** to find what actually fits |
-| "I used a Transformer" | "**Why** this model, what are its limits, and what did I try instead?" |
-| Accuracy on a test set = done | Accuracy is **step one**. Deployment, drift, and trust are the real exam |
-| Stack more buzzwords | Go **deep** on fewer things, then connect them |
-| Learn → forget | **Self-study → build → evaluate → improve → repeat** |
-
----
-
-## 🔁 My build loop
-
-```mermaid
-flowchart LR
-    A[🔍 Find the gap] --> B[📚 Research & self-study]
-    B --> C[🧪 Prototype & evaluate]
-    C --> D[⚙️ Engineer it: API, data, infra]
-    D --> E[🚀 Deploy]
-    E --> F[📡 Monitor & collect feedback]
-    F --> A
-```
-
-Every project has to answer: **What problem? Who benefits? What gap? How will success be measured? Can it scale? Can someone else maintain it?**
-
----
-
-## 🛰️ Projects (built from problems, not templates)
-
-### 🩺 SehatNama: AI Medical Report Analyzer
-> Medical reports are dense and hard for normal people to read. This system parses them, pulls out the structure, and interprets it.
-
-`NLP` `Medical AI` `Information Extraction`
-
-### 🚚 AI Supply Chain Suite
-> Supply chains break in ways dashboards don't warn you about. A predictive, risk-aware platform for forecasting and decision support.
-
-`Forecasting` `Risk Analysis` `Decision Intelligence`
-
-### 🛰️ DINOv2-SVM Satellite Classifier
-> A pretrained DINOv2 Vision Transformer provides the features and an SVM classifies them. A look at how far strong representations can go without training a giant model from scratch.
-
-`Computer Vision` `Remote Sensing` `Vision Transformers`
-
-### 🎙️ Text & Voice Sentiment Analyzer
-> Words say one thing and a voice says another. Sentiment analysis across both text and speech.
-
-`NLP` `Speech Processing` `Audio Intelligence`
-
-### 🎬 AI-Powered Movie Recommendation System
-> Personalized suggestions, built to learn what you actually like.
-
-`Recommender Systems` `Machine Learning` `Personalization`
-
-### 🤖 AI Assistant App
-> A Python assistant exploring conversational AI and task automation.
-
-`LLMs` `Automation` `Assistants`
-
-### ⚙️ AutoRepFlow
-> If a human does it repeatedly, a system should do it instead. Workflow automation for killing repetitive manual work.
-
-`Workflow Automation` `AI Workflows` `Productivity`
-
----
-
-## 🧰 The stack I'm going deep on
-
-```yaml
-backend:      [Python, FastAPI, REST, Docker, PostgreSQL, Redis, Auth, API design]
-architecture: [modular monolith, microservices, event-driven, queues, caching, API gateway]
-data:         [SQL, data modeling, ETL/ELT, validation, feature engineering]
-ai:           [ML, DL, CV, NLP, speech, Transformers, LLMs, VLMs, RAG, agents,
-               fine-tuning, embeddings, evaluation, inference optimization]
-genai:        [diffusion, VAEs, GANs, flow matching, state space models, multimodal]
-mlops:        [experiment tracking, model versioning, CI/CD for ML, monitoring, evaluation]
-```
-
----
-
-## 🎯 What I'm building toward
-
-- 🏗️ Scalable AI systems, not just models
-- 🔌 Production-ready backends that serve those models
-- 🔄 Data pipelines that don't silently break
-- 📊 Deployed AI that is monitored, evaluated, and improved
-- 💼 Business problems translated into engineering solutions
-- 📈 Systems with **measurable** value, not vibes
-
----
-
-## 📡 Let's connect
-
-Got a hard problem, a gap nobody has fixed, or something worth building? Reach out.
-
-| | |
-|---|---|
-| 🐙 GitHub | [inayatrahimdev](https://github.com/inayatrahimdev) |
-| 💼 LinkedIn | [Inayat Rahim](https://www.linkedin.com/in/inayat-rahim-b0655b29b/) |
-| ✉️ Email | inayatrahim006@gmail.com |
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=240&section=header&text=Inayat%20Rahim&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=AI%20Engineer%20%E2%80%A2%20Systems%20Builder%20%E2%80%A2%20Gap%20Hunter&descSize=20&descAlignY=58" width="100%" alt="header"/>
 
 <div align="center">
 
-```
-> status: learning, building, shipping.
-> next: whatever problem is worth solving.
-```
+<a href="https://github.com/inayatrahimdev">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F5D4&center=true&vCenter=true&width=760&lines=I+don%27t+just+train+models.;I+ship+AI+systems+people+can+trust.;Find+the+gap.+Build+the+fix.+Measure+the+value.;Research+%E2%86%92+Prototype+%E2%86%92+Deploy+%E2%86%92+Monitor+%E2%86%92+Repeat" alt="Typing animation" />
+</a>
+
+<br/>
+
+<a href="https://github.com/inayatrahimdev"><img src="https://img.shields.io/badge/GitHub-inayatrahimdev-0d1117?style=for-the-badge&logo=github&logoColor=00F5D4" /></a>
+<a href="https://www.linkedin.com/in/inayat-rahim-b0655b29b/"><img src="https://img.shields.io/badge/LinkedIn-Inayat%20Rahim-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" /></a>
+<a href="mailto:inayatrahim006@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20Hello-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335" /></a>
+<img src="https://komarev.com/ghpvc/?username=inayatrahimdev&label=Profile+Views&color=00f5d4&style=for-the-badge" />
 
 </div>
+
+---
+
+## ⚡ `> whoami`
+
+```python
+class InayatRahim:
+    role      = "AI Engineering Student"
+    obsession = "the gap between a model and a product"
+    method    = ["research", "self-study", "build", "evaluate", "improve"]
+    refuses   = ["tutorial clones", "buzzword collecting", "notebook-only projects"]
+
+    def mission(self):
+        return "AI should create value, not just predictions."
+```
+
+> Most AI projects stop at the notebook. I care about what comes **after**: the API, the pipeline, the deployment, the monitoring, and the person using it.
+
+---
+
+## 🧊 My GitHub in 3D
+
+<div align="center">
+  <img src="./profile-3d-contrib/profile-night-view.svg" width="100%" alt="3D contribution graph" />
+</div>
+
+## 🐍 Contribution Snake
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/inayatrahimdev/inayatrahimdev/output/github-snake-dark.svg" width="100%" alt="snake animation" />
+</div>
+
+---
+
+## 🧬 How I Build
+
+```mermaid
+flowchart LR
+    A([🔍 Find the gap]) --> B([📚 Research])
+    B --> C([🧪 Prototype])
+    C --> D([⚙️ Engineer<br/>API · Data · Infra])
+    D --> E([🚀 Deploy])
+    E --> F([📡 Monitor])
+    F --> A
+    style A fill:#0d1117,stroke:#00f5d4,color:#fff
+    style B fill:#0d1117,stroke:#9b5de5,color:#fff
+    style C fill:#0d1117,stroke:#f15bb5,color:#fff
+    style D fill:#0d1117,stroke:#fee440,color:#fff
+    style E fill:#0d1117,stroke:#00bbf9,color:#fff
+    style F fill:#0d1117,stroke:#00f5d4,color:#fff
+```
+
+Every project must answer: **What problem? Who benefits? What gap? How is success measured? Can it scale? Can it be maintained?**
+
+---
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🩺 SehatNama
+**AI Medical Report Analyzer**
+Parses, analyzes, and interprets medical reports.
+
+![NLP](https://img.shields.io/badge/NLP-00f5d4?style=flat-square&labelColor=0d1117)
+![Medical AI](https://img.shields.io/badge/Medical_AI-f15bb5?style=flat-square&labelColor=0d1117)
+![Extraction](https://img.shields.io/badge/Info_Extraction-9b5de5?style=flat-square&labelColor=0d1117)
+
+</td>
+<td width="50%" valign="top">
+
+### 🚚 AI Supply Chain Suite
+Predictive, risk-aware analytics and decision support.
+
+![Forecasting](https://img.shields.io/badge/Forecasting-00f5d4?style=flat-square&labelColor=0d1117)
+![Risk](https://img.shields.io/badge/Risk_Analysis-f15bb5?style=flat-square&labelColor=0d1117)
+![Decision](https://img.shields.io/badge/Decision_Intelligence-9b5de5?style=flat-square&labelColor=0d1117)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🛰️ DINOv2-SVM Satellite Classifier
+Pretrained DINOv2 Vision Transformer features + SVM classifier for satellite imagery.
+
+![CV](https://img.shields.io/badge/Computer_Vision-00f5d4?style=flat-square&labelColor=0d1117)
+![Remote Sensing](https://img.shields.io/badge/Remote_Sensing-f15bb5?style=flat-square&labelColor=0d1117)
+![ViT](https://img.shields.io/badge/Vision_Transformers-9b5de5?style=flat-square&labelColor=0d1117)
+
+</td>
+<td width="50%" valign="top">
+
+### 🎙️ Text & Voice Sentiment Analyzer
+Sentiment analysis across both text and speech.
+
+![NLP](https://img.shields.io/badge/NLP-00f5d4?style=flat-square&labelColor=0d1117)
+![Speech](https://img.shields.io/badge/Speech_Processing-f15bb5?style=flat-square&labelColor=0d1117)
+![Audio](https://img.shields.io/badge/Audio_Intelligence-9b5de5?style=flat-square&labelColor=0d1117)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🎬 AI Movie Recommendation System
+Personalized movie suggestions.
+
+![RecSys](https://img.shields.io/badge/Recommender_Systems-00f5d4?style=flat-square&labelColor=0d1117)
+![ML](https://img.shields.io/badge/Machine_Learning-f15bb5?style=flat-square&labelColor=0d1117)
+![Personalization](https://img.shields.io/badge/Personalization-9b5de5?style=flat-square&labelColor=0d1117)
+
+</td>
+<td width="50%" valign="top">
+
+### 🤖 AI Assistant App
+Python assistant exploring conversational AI and task automation.
+
+![LLMs](https://img.shields.io/badge/LLMs-00f5d4?style=flat-square&labelColor=0d1117)
+![Assistants](https://img.shields.io/badge/AI_Assistants-f15bb5?style=flat-square&labelColor=0d1117)
+![Automation](https://img.shields.io/badge/Automation-9b5de5?style=flat-square&labelColor=0d1117)
+
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
+
+### ⚙️ AutoRepFlow
+Workflow automation that removes repetitive manual work.
+
+![Workflow](https://img.shields.io/badge/Workflow_Automation-00f5d4?style=flat-square&labelColor=0d1117)
+![AI Workflows](https://img.shields.io/badge/AI_Workflows-f15bb5?style=flat-square&labelColor=0d1117)
+![Productivity](https://img.shields.io/badge/Productivity-9b5de5?style=flat-square&labelColor=0d1117)
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🛠️ Tech Arsenal
+
+<div align="center">
+
+**Core**
+
+<img src="https://skillicons.dev/icons?i=python,fastapi,docker,postgres,redis,git,linux,github,vscode&theme=dark" />
+
+**AI / ML**
+
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv,numpy,pandas&theme=dark" />
+
+</div>
+
+| Layer | What I'm going deep on |
+|---|---|
+| ⚙️ **Backend** | FastAPI · REST · Auth · API Design · PostgreSQL · Redis · Docker |
+| 🏗️ **Architecture** | Modular Monolith · Microservices · Event-Driven · Queues · Caching · API Gateway |
+| 🗄️ **Data** | SQL · Data Modeling · ETL/ELT · Validation · Feature Engineering |
+| 🧠 **AI** | ML · DL · CV · NLP · Speech · Transformers · LLMs · VLMs · RAG · Agents · Fine-Tuning · Embeddings · Evaluation · Inference Optimization |
+| 🎨 **GenAI** | Diffusion · VAEs · GANs · Flow Matching · State Space Models · Multimodal |
+| 🔄 **MLOps** | Experiment Tracking · Model Versioning · CI/CD for ML · Monitoring · Evaluation |
+
+---
+
+## 📊 Stats
+
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=inayatrahimdev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=inayatrahimdev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+  <br/>
+  <img src="https://streak-stats.demolab.com?user=inayatrahimdev&theme=tokyonight&hide_border=true&background=0d1117" />
+</div>
+
+---
+
+## 🎯 Where I'm Headed
+
+- 🏗️ Scalable AI systems, not just models
+- 🔌 Production-ready backends that serve them
+- 🔄 Data pipelines that don't silently break
+- 📊 Deployed AI that is monitored, evaluated, and improved
+- 💼 Business problems turned into engineering solutions
+
+---
+
+## 📡 Let's Build Something
+
+Got a hard problem or a gap nobody has fixed? Reach out.
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-inayatrahimdev-181717?style=for-the-badge&logo=github)](https://github.com/inayatrahimdev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Inayat_Rahim-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/inayat-rahim-b0655b29b/)
+[![Email](https://img.shields.io/badge/Email-inayatrahim006@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:inayatrahim006@gmail.com)
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer" width="100%" alt="footer"/>
