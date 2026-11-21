@@ -1,244 +1,153 @@
-# Hi, I'm Inayat Rahim 
+\<div align="center">
 
-**AI Engineering Student** focused on building production-oriented AI systems that solve real-world problems.
+```
+  ___ _   _    ___   __   _  _____   ____  ____  _   _ ___ __  __
+ |_ _| \ | |  / _ \  \ \ / / / _ \ \ |  _ \|  _ \| | | |_ _|  \/  |
+  | ||  \| | / /_\ \  \ V / / /_\ \ \| |_) | |_) | |_| || || |\/| |
+  | || |\  | |  _  |   | |  |  _  | || _ <|  _ <|  _  || || |  | |
+ |___|_| \_| |_| |_|   |_|  |_| |_|_||_| \_\_| \_\_| |_|___|_|  |_|
+```
 
-I enjoy understanding complex problems, identifying gaps in existing solutions, and engineering practical AI systems that create measurable value through reliable software, scalable architectures, and responsible deployment.
+### `> AI engineer in the making. Obsessed with the gap, not the hype.`
 
----
+![Python](https://img.shields.io/badge/-Python-0d1117?style=flat-square&logo=python&logoColor=3776AB)
+![FastAPI](https://img.shields.io/badge/-FastAPI-0d1117?style=flat-square&logo=fastapi&logoColor=009688)
+![Docker](https://img.shields.io/badge/-Docker-0d1117?style=flat-square&logo=docker&logoColor=2496ED)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-0d1117?style=flat-square&logo=postgresql&logoColor=4169E1)
+![Redis](https://img.shields.io/badge/-Redis-0d1117?style=flat-square&logo=redis&logoColor=DC382D)
+![PyTorch](https://img.shields.io/badge/-Deep%20Learning-0d1117?style=flat-square&logo=pytorch&logoColor=EE4C2C)
 
-# Mission
+[**GitHub**](https://github.com/inayatrahimdev) · [**LinkedIn**](https://www.linkedin.com/in/inayat-rahim-b0655b29b/) · [**Email**](mailto:inayatrahim006@gmail.com)
 
-I believe AI should create value not just predictions.
-
-My objective is to build intelligent systems that:
-
-- Solve meaningful real-world problems
-- Identify gaps in existing solutions and improve them
-- Deliver measurable value and impact
-- Improve operational efficiency and decision-making
-- Support reliable production deployment
-- Enable intelligent automation
-- Maximize engineering effectiveness and infrastructure efficiency
-- Continuously evolve through monitoring, evaluation, and feedback
-- Translate research and engineering into practical products
-
-Technology is a tool. The goal is building systems that people can trust, use, maintain, and continuously improve.
+</div>
 
 ---
 
-# Engineering Focus
+## 🖥️ `whoami`
 
-I'm building end-to-end engineering skills across the AI lifecycle.
+```bash
+$ whoami
+inayat_rahim
 
-## Backend Engineering
+$ cat mindset.txt
+I don't collect buzzwords. I collect problems.
+Tutorials teach you to copy. Research teaches you to question.
+Most "AI projects" are a model wrapped in a notebook.
+I want the part after the notebook: the API, the pipeline, the monitoring, the user.
 
-- Python
-- FastAPI
-- REST APIs
-- Docker
-- PostgreSQL
-- Redis
-- Authentication & Authorization
-- API Design
-
----
-
-## System Design
-
-- Modular Monolith
-- Microservices
-- Distributed Systems
-- Event-Driven Architecture
-- API Gateway
-- Message Queues
-- Caching
-- Scalability
-- Reliability
-- Fault Tolerance
+$ cat rule_one.txt
+If I can't say who it helps and how I'd measure it, I don't build it.
+```
 
 ---
 
-## Data Engineering
+## 🧠 How I think (the anti-tutorial manifesto)
 
-- SQL
-- Data Modeling
-- ETL / ELT Pipelines
-- Data Processing
-- Data Validation
-- Feature Engineering
-- Data Pipelines
-
----
-
-## AI Engineering
-
-Currently working with and exploring:
-
-- Machine Learning
-- Deep Learning
-- Computer Vision
-- Natural Language Processing
-- Speech Processing
-- Transformers
-- Large Language Models (LLMs)
-- Vision-Language Models (VLMs)
-- Retrieval-Augmented Generation (RAG)
-- AI Agents
-- Fine-Tuning
-- Embedding Models
-- Model Evaluation
-- Inference Optimization
+| ❌ The crowd | ✅ The way I work |
+|---|---|
+| Follow a tutorial, ship the same project as 10,000 others | Pick a real problem, then **read the research** to find what actually fits |
+| "I used a Transformer" | "**Why** this model, what are its limits, and what did I try instead?" |
+| Accuracy on a test set = done | Accuracy is **step one**. Deployment, drift, and trust are the real exam |
+| Stack more buzzwords | Go **deep** on fewer things, then connect them |
+| Learn → forget | **Self-study → build → evaluate → improve → repeat** |
 
 ---
 
-## Generative AI
+## 🔁 My build loop
 
-Exploring modern generative AI architectures including:
+```mermaid
+flowchart LR
+    A[🔍 Find the gap] --> B[📚 Research & self-study]
+    B --> C[🧪 Prototype & evaluate]
+    C --> D[⚙️ Engineer it: API, data, infra]
+    D --> E[🚀 Deploy]
+    E --> F[📡 Monitor & collect feedback]
+    F --> A
+```
 
-- Diffusion Models
-- Variational Autoencoders (VAEs)
-- Generative Adversarial Networks (GANs)
-- Flow Matching
-- State Space Models
-- Multimodal AI
-
----
-
-## MLOps
-
-Learning production AI engineering through:
-
-- Experiment Tracking
-- Model Versioning
-- CI/CD for Machine Learning
-- Automated Pipelines
-- Model Deployment
-- Monitoring
-- Evaluation
-- Continuous Improvement
+Every project has to answer: **What problem? Who benefits? What gap? How will success be measured? Can it scale? Can someone else maintain it?**
 
 ---
 
-# Engineering Principles
+## 🛰️ Projects (built from problems, not templates)
 
-Every project should answer:
+### 🩺 SehatNama: AI Medical Report Analyzer
+> Medical reports are dense and hard for normal people to read. This system parses them, pulls out the structure, and interprets it.
 
-- What problem is being solved?
-- Why does this problem matter?
-- Who benefits?
-- What gap does this address?
-- What value does it create?
-- How will it be deployed?
-- Can it scale?
-- Is it maintainable?
-- How will success be measured?
-- How can the system continue to evolve?
+`NLP` `Medical AI` `Information Extraction`
 
----
+### 🚚 AI Supply Chain Suite
+> Supply chains break in ways dashboards don't warn you about. A predictive, risk-aware platform for forecasting and decision support.
 
-# Featured Projects
+`Forecasting` `Risk Analysis` `Decision Intelligence`
 
-## 🩺 SehatNama – AI Medical Report Analyzer
+### 🛰️ DINOv2-SVM Satellite Classifier
+> A pretrained DINOv2 Vision Transformer provides the features and an SVM classifies them. A look at how far strong representations can go without training a giant model from scratch.
 
-AI-powered system for parsing, analyzing, and interpreting medical reports.
+`Computer Vision` `Remote Sensing` `Vision Transformers`
 
-**Focus**
-- NLP
-- Medical AI
-- Information Extraction
+### 🎙️ Text & Voice Sentiment Analyzer
+> Words say one thing and a voice says another. Sentiment analysis across both text and speech.
 
----
+`NLP` `Speech Processing` `Audio Intelligence`
 
-## 🚚 AI Supply Chain Suite
+### 🎬 AI-Powered Movie Recommendation System
+> Personalized suggestions, built to learn what you actually like.
 
-AI platform for predictive, risk-aware supply chain analytics and decision support.
+`Recommender Systems` `Machine Learning` `Personalization`
 
-**Focus**
-- Forecasting
-- Risk Analysis
-- Decision Intelligence
+### 🤖 AI Assistant App
+> A Python assistant exploring conversational AI and task automation.
+
+`LLMs` `Automation` `Assistants`
+
+### ⚙️ AutoRepFlow
+> If a human does it repeatedly, a system should do it instead. Workflow automation for killing repetitive manual work.
+
+`Workflow Automation` `AI Workflows` `Productivity`
 
 ---
 
-## 🛰️ DINOv2-SVM Satellite Classifier
+## 🧰 The stack I'm going deep on
 
-Satellite image classification using a pretrained DINOv2 Vision Transformer with an SVM classifier.
-
-**Focus**
-- Computer Vision
-- Remote Sensing
-- Vision Transformers
-
----
-
-## 🎙️ Text & Voice Sentiment Analyzer
-
-Sentiment analysis across both text and speech.
-
-**Focus**
-- NLP
-- Speech Processing
-- Audio Intelligence
+```yaml
+backend:      [Python, FastAPI, REST, Docker, PostgreSQL, Redis, Auth, API design]
+architecture: [modular monolith, microservices, event-driven, queues, caching, API gateway]
+data:         [SQL, data modeling, ETL/ELT, validation, feature engineering]
+ai:           [ML, DL, CV, NLP, speech, Transformers, LLMs, VLMs, RAG, agents,
+               fine-tuning, embeddings, evaluation, inference optimization]
+genai:        [diffusion, VAEs, GANs, flow matching, state space models, multimodal]
+mlops:        [experiment tracking, model versioning, CI/CD for ML, monitoring, evaluation]
+```
 
 ---
 
-## 🎬 AI-Powered Movie Recommendation System
+## 🎯 What I'm building toward
 
-Recommendation engine for personalized movie suggestions.
-
-**Focus**
-- Recommendation Systems
-- Machine Learning
-- Personalization
-
----
-
-## 🤖 AI Assistant App
-
-Python-based intelligent assistant exploring conversational AI and task automation.
-
-**Focus**
-- LLMs
-- AI Assistants
-- Intelligent Automation
+- 🏗️ Scalable AI systems, not just models
+- 🔌 Production-ready backends that serve those models
+- 🔄 Data pipelines that don't silently break
+- 📊 Deployed AI that is monitored, evaluated, and improved
+- 💼 Business problems translated into engineering solutions
+- 📈 Systems with **measurable** value, not vibes
 
 ---
 
-## ⚙️ AutoRepFlow 
+## 📡 Let's connect
 
-Workflow automation platform for reducing repetitive manual tasks.
+Got a hard problem, a gap nobody has fixed, or something worth building? Reach out.
 
-**Focus**
-- Workflow Automation
-- AI Workflows
-- Productivity
+| | |
+|---|---|
+| 🐙 GitHub | [inayatrahimdev](https://github.com/inayatrahimdev) |
+| 💼 LinkedIn | [Inayat Rahim](https://www.linkedin.com/in/inayat-rahim-b0655b29b/) |
+| ✉️ Email | inayatrahim006@gmail.com |
 
----
+<div align="center">
 
-# Objective
+```
+> status: learning, building, shipping.
+> next: whatever problem is worth solving.
+```
 
-im to build a portfolio demonstrating the ability to:
-
-- Design scalable AI systems
-- Build production-ready backend services
-- Develop reliable data pipelines
-- Deploy and monitor AI applications
-- Integrate modern AI models into production software
-- Apply MLOps practices across the AI lifecycle
-- Translate business requirements into engineering solutions
-- Build systems that deliver measurable value, operational efficiency, and continuous improvement
-
-I'm particularly interested in projects that require understanding the problem, identifying meaningful gaps, and engineering practical AI solutions that can be deployed, maintained, and improved over time.
-
----
-
-# Connect
-
-**GitHub**  
-https://github.com/inayatrahimdev
-
-**LinkedIn**  
-https://www.linkedin.com/in/inayat-rahim-b0655b29b/
-
-**Email**  
-inayatrahim006@gmail.com
+</div>
