@@ -17,7 +17,7 @@
 ![Redis](https://img.shields.io/badge/-Redis-0d1117?style=flat-square&logo=redis&logoColor=DC382D)
 ![PyTorch](https://img.shields.io/badge/-Deep%20Learning-0d1117?style=flat-square&logo=pytorch&logoColor=EE4C2C)
 
-[**GitHub**](https://github.com/inayatrahimdev) · [**LinkedIn**](https://www.linkedin.com/in/inayat-rahim-b0655b29b/) · [**Email**](mailto:inayatrahim006@gmail.com)
+[**GitHub**](https://github.com/inayatrahimdev) · [**LinkedIn**](https://www.linkedin.com/in/inayat-rahim-DEV/) · [**Email**](mailto:inayatrahim006@gmail.com)
 
 </div>
 
